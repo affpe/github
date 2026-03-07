@@ -1,0 +1,8498 @@
+[09:45:18] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 4722-3403	
+Fixo	1	
+ Inserção: 10/09/2010
+ Recência: 10/09/2010
+ Atualização: 10/09/2010
+—
+(11) 4727-1561
+[09:45:21] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 4722-3403	N/A	ANATEL	
+(11) 4727-1561
+[09:45:45] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 4722-3403	
+Fixo	1	
+ Inserção: 21/02/2010
+ Recência: 21/02/2010
+ Atualização: 21/02/2010
+—
+(11) 99533-4636	
+Celular	4	
+ Inserção: 11/06/2012
+ Recência: 26/07/2012
+ Atualização: 26/07/2012
+Não confirmado
+Abrir WhatsApp
+(11) 99827-2522	
+Celular	1	
+ Inserção: 11/06/2012
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97534-8473	
+Celular	3	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96185-5146	
+Celular
+[09:45:50]  (11) 23120-944
+30/09/2010
+ 04/02/2014 PRIORIDADE: 2.0
+ (11) 47223-403
+[09:45:52] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 99898-3561	N/A	ANATEL	
+(11) 96185-5146	N/A	ANATEL	
+(11) 97534-8473	N/A	ANATEL	
+(11) 99827-2522	N/A	ANATEL	
+(11) 99533-4636	N/A	ANATEL
+[09:46:04] (41) 3019-4679	
+Fixo	5	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 29/07/2016
+—
+(41) 3598-0741	
+Fixo	6	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(41) 3598-0742	
+Fixo	8	
+ Inserção: 19/09/2014
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+—
+(41) 99670-0741	
+Celular	7	
+ Inserção: 31/10/2012
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3278-2191	
+Fixo	9	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3359-0741	
+Fixo	4	
+ Inserção: 16/05/2016
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 99232-9282	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99138-4951	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99811-0397	
+Celular	1	
+ Inserção: 18/04/2023
+ Recência: 18/04/2023
+ Atualização: 29/05/2023
+
+[09:46:29]  TELEFONES
+ (45) 33590-741
+01/07/2014
+ 23/03/2015 PRIORIDADE: 10.0
+ (45) 30194-679
+01/07/2014
+ 23/03/2015 PRIORIDADE: 9.0
+ (41) 30194-679
+16/09/2012
+ 23/03/2020 PRIORIDADE: 8.0
+ (41) 33590-741
+27/11/2014
+ 23/03/2020 PRIORIDADE: 7.0
+ (41) 30458-639
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (45) 99670-0741
+30/09/2021
+ N/I PRIORIDADE: 5.0
+ (41) 99811-0397
+29/03/2019
+ 30/09/2021 PRIORIDADE: 4.0
+ (41) 35980-741
+22/03/2011
+ 22/02/2019 PRIORIDADE: 3.0
+ (41) 99670-0741
+26/01/2012
+ 16/05/2022 PRIORIDADE: 2.0
+ (41) 35980-742
+21/05/2014
+ 22/02/2019 PRIORIDADE: 1.0
+ (41) 32964-554
+
+[09:46:31] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3019-4679	N/A	ANATEL	
+(45) 3359-0741	N/A	ANATEL	
+(41) 99670-0741	N/A	ANATEL	
+(41) 3382-1012	N/A	ANATEL	
+(41) 3296-4554	N/A	ANATEL	
+(99) 8110397	N/A	ANATEL	
+(99) 6700741	N/A
+[09:46:45] (12) 3106-2198	
+Fixo	2	
+ Inserção: 13/12/2012
+ Recência: 27/10/2015
+ Atualização: 31/07/2016
+—
+(11) 94125-1352	
+Celular	4	
+ Inserção: 13/02/2010
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+Não confirmado
+Abrir WhatsApp
+(11) 4331-1672	
+Fixo	5	
+ Inserção: 13/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(11) 4722-3403	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(11) 99898-3561	
+Celular
+[09:46:50]  (11) 77823-403
+22/11/2006
+ 16/04/2009
+ (11) 47223-403
+20/12/2009
+ 16/08/2022
+ (11) 41251-352
+27/06/2011
+ 10/10/2018
+ (12) 31062-198
+26/12/2012
+ 16/08/2022
+ (11) 97782-3403
+[09:46:51] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 7782-3403	N/A	ANATEL	
+(11) 4722-3403	N/A	ANATEL	
+(12) 3106-2198	N/A	ANATEL	
+(11) 4125-1352
+[09:47:03] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 4792-2124	
+Fixo	18	
+ Inserção: 14/05/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 4792-2508	
+Fixo	19	
+ Inserção: 14/10/2009
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 97178-5775	
+Celular	8	
+ Inserção: 11/06/2012
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97575-2091	
+Celular	17	
+ Inserção: 04/06/2012
+ Recência: 15/04/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4726-6476	
+Fixo	7	
+ Inserção: 19/09/2014
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(11) 95319-4724	
+Celular	14	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96477-9992	
+Celular	13	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96864-3479	
+Celular	12	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99930-4737	
+Celular	11	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99670-2129	
+Celular	10	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95310-3903	
+Celular	9	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96484-4556	
+Celular	4	
+ Inserção: 13/08/2016
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 96903-2090	
+Celular	6	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 7798-0135	
+Fixo	5	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(11) 2610-8859	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 13/06/2019
+ Atualização: 12/05/2020
+—
+(11) 4723-4433	
+Fixo	16	
+ Inserção: 12/05/2020
+ Recência: 18/04/2011
+ Atualização: 12/05/2020
+—
+(27) 3242-2656	
+Fixo	15	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(11) 98883-2094	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 98518-8168	
+Celular	1	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+[09:47:11] (11) 95069-9696
+[09:47:16] (11) 3331-9727	
+Fixo	1	
+ Inserção: 06/12/2010
+ Recência: 03/08/2015
+ Atualização: 18/05/2020
+—
+(11) 4727-1561	
+Fixo	1	
+ Inserção: 15/02/2010
+ Recência: 11/06/2012
+ Atualização: 18/05/2020
+—
+(11) 96483-3787	
+Celular	1	
+ Inserção: 11/06/2012
+ Recência: 03/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 96483-6768	
+Celular	1	
+ Inserção: 11/06/2012
+ Recência: 03/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 97246-4307	
+Celular	1	
+ Inserção: 01/01/2011
+ Recência: 03/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 97266-1099	
+Celular	1	
+ Inserção: 04/06/2012
+ Recência: 11/06/2012
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 3331-2631	
+Fixo	2	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(11) 97466-0305	
+Celular	1	
+ Inserção: 12/08/2016
+ Recência: 03/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 3759-8605	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 06/09/2012
+ Atualização: 18/05/2020
+—
+(11) 97997-9868	
+Celular	1	
+ Inserção: 18/05/2020
+ Recência: 11/06/2012
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4653-5681	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 11/06/2012
+ Atualização: 18/05/2020
+—
+(19) 97266-1099	
+Celular	1	
+ Inserção: 18/05/2020
+ Recência: 10/10/2012
+ Atua
+[09:47:52]  (45) 33590-741
+01/07/2014
+ 23/03/2015 PRIORIDADE: 10.0
+ (45) 30194-679
+01/07/2014
+ 23/03/2015 PRIORIDADE: 9.0
+ (41) 30194-679
+16/09/2012
+ 23/03/2020 PRIORIDADE: 8.0
+ (41) 33590-741
+27/11/2014
+ 23/03/2020 PRIORIDADE: 7.0
+ (41) 30458-639
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (45) 99670-0741
+30/09/2021
+ N/I PRIORIDADE: 5.0
+ (41) 99811-0397
+29/03/2019
+ 30/09/2021 PRIORIDADE: 4.0
+ (41) 35980-741
+22/03/2011
+ 22/02/2019 PRIORIDADE: 3.0
+ (41) 99670-0741
+26/01/2012
+ 16/05/2022 PRIORIDADE: 2.0
+ (41) 35980-742
+21/05/2014
+ 22/02/2019 PRIORIDADE: 1.0
+ (41) 32964-554
+14/05/2012
+ 06/04/2018
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3019-4679	N/A	ANATEL	
+(45) 3359-0741	N/A	ANATEL	
+(41) 99670-0741	N/A	ANATEL	
+(41) 3382-1012	N/A	ANATEL	
+(41) 3296-4554	N/A	ANATEL	
+(99) 8110397	N/A	ANATEL	
+(99) 6700741	N/A	ANATEL
+[09:48:04] (11) 4727-1561	
+Fixo	1	
+ Inserção: 17/02/2010
+ Recência: 01/08/2015
+ Atualização: 18/05/2020
+—
+(11) 97471-4424	
+Celular	1	
+ Inserção: 11/11/2010
+ Recência: 01/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4727-1568	
+Fixo	1	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 94495-0716	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 2714-9568	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 13/01/2013
+ Atualização: 18/05/2020
+—
+(11) 99702-3747	
+Celular	1	
+ Inserção: 18/05/2020
+ Recência: 13/01/2013
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4495-0716	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 14/06/2018
+ Atualização: 18/05/2020
+—
+(11) 3385-7500	
+Fixo	
+[09:48:12]  TELEFONES
+ (11) 47271-561
+02/12/2009
+ 07/11/2018 PRIORIDADE: 5.0
+ (11) 47271-568
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (11) 44950-716
+23/12/2015
+ 10/03/2020 PRIORIDADE: 3.0
+ (11) 97298-2064
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (11) 94495-0716
+29/06/2020
+ N/I PRIORIDADE: 1.0
+[09:48:15] (11) 97471-4424	N/A	ANATEL	
+(11) 4727-1561	N/A	ANATEL	
+(11) 2714-9568	N/A	ANATEL	
+(11) 2714-9561	N/A	ANATEL	
+(11) 4495-0716	N/A	ANATEL	
+
+[09:49:03] (11) 7782-3403	N/A	ANATEL	
+(11) 4722-3403	N/A	ANATEL	
+(12) 3106-2198	N/A	ANATEL	
+(11) 4125-1352
+[09:49:05]  (11) 77823-403
+22/11/2006
+ 16/04/2009
+ (11) 47223-403
+20/12/2009
+ 16/08/2022
+ (11) 41251-352
+27/06/2011
+ 10/10/2018
+ (12) 31062-198
+26/12/2012
+ 16/08/2022
+ (11) 97782-3403
+[09:49:11] 
+Telefone	Tipo	Ranking	Datas	Contato
+(12) 3106-2198	
+Fixo	2	
+ Inserção: 13/12/2012
+ Recência: 27/10/2015
+ Atualização: 31/07/2016
+—
+(11) 94125-1352	
+Celular	4	
+ Inserção: 13/02/2010
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+Não confirmado
+Abrir WhatsApp
+(11) 4331-1672	
+Fixo	5	
+ Inserção: 13/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(11) 4722-3403	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(11) 99898-3561
+[09:49:54] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 4792-2508	
+Fixo	1	
+ Inserção: 22/02/2010
+ Recência: 22/02/2010
+ Atualização: 22/02/2010
+—
+(11) 96903-2090	
+Celular	1	
+ Inserção: 04/06/2012
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97586-3005	
+Celular	6	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95783-5755	
+Celular	5	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95770-4736	
+Celular	4	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95785-0307	
+Celular	3	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97552-8812	
+Celular	2	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97532-8277	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 21/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 96865-7343	
+Celular	2	
+ Inserção: 19/04/2023
+ Recência: 19/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 95600-2549	
+Celular	1	
+ Inserção: 10/08/2023
+ Recência: 10/0
+[09:49:59] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 95785-0307	N/A	ANATEL	
+(11) 97552-8812	N/A	ANATEL	
+(11) 96903-2090	N/A	ANATEL	
+(11) 4792-2508	N/A	ANATEL	
+(11) 2312-4588	N/A	ANATEL	
+(96) 8657343	N/A	ANATEL	
+(97) 5328277	N/A
+[09:50:07] (11) 4699-1265	
+Fixo	15	
+ Inserção: 08/03/2013
+ Recência: 08/12/2011
+ Atualização: 18/05/2020
+—
+(11) 99555-7331	
+Celular	11	
+ Inserção: 05/06/2012
+ Recência: 31/10/2012
+ Atualização: 31/10/2012
+Não confirmado
+Abrir WhatsApp
+(11) 99695-8531	
+Celular	5	
+ Inserção: 06/12/2010
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99843-7188	
+Celular	14	
+ Inserção: 04/06/2012
+ Recência: 08/12/2011
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 2312-1878	
+Fixo	13	
+ Inserção: 19/09/2014
+ Recência: 10/04/2012
+ Atualização: 18/05/2020
+—
+(11) 4792-2124	
+Fixo	17	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 4728-1779	
+Fixo	16	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 99804-8473	
+Celular	9	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97498-5828	
+Celular	8	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95026-5766	
+Celular	7	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99901-4923	
+Celular	6	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 4724-8653	
+Fixo	10	
+ Inserção: 18/05/2020
+ Recência: 01/02/2016
+ Atualização: 18/05/2020
+—
+(11) 99530-2680	
+Celular	4	
+ Inserção: 18/05/2020
+ Recência: 26/04/2017
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 96484-4554	
+Celular	12	
+ Inserção: 18/05/2020
+ Recência: 24/10/2012
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 95302-6800	
+Celular	3	
+ Inserção: 09/06/2022
+ Recência: 09/06/2022
+ Atualização: 09/06/2022
+Não confirmado
+Abrir WhatsApp
+(11) 99144-3957	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(14) 99793-4079	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 18/04/2023
+ Atualização: 18/05/2023
+[09:50:23]  (11) 47922-491
+18/03/2015
+ N/I PRIORIDADE: 14.0
+ (11) 47281-779
+18/06/2007
+ 25/02/2014 PRIORIDADE: 13.0
+ (11) 47922-508
+15/12/2014
+ N/I PRIORIDADE: 12.0
+ (11) 47911-254
+01/07/2014
+ 30/12/2019 PRIORIDADE: 11.0
+ (11) 23121-878
+26/12/2012
+ 30/12/2019 PRIORIDADE: 10.0
+ (21) 24900-878
+30/11/2023
+ N/I PRIORIDADE: 9.0
+ (11) 96484-4554
+25/01/2018
+ N/I PRIORIDADE: 8.0
+ (11) 99555-7331
+18/03/2015
+ N/I PRIORIDADE: 7.0
+ (11) 99144-3957
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (11) 26689-532
+27/07/2017
+ 24/11/2021 PRIORIDADE: 5.0
+ (11) 46991-265
+21/11/2011
+ 30/12/2019 PRIORIDADE: 4.0
+ (11) 47266-476
+18/03/2015
+ N/I PRIORIDADE: 3.0
+ (11) 47922-124
+18/03/2015
+ N/I PRIORIDADE: 2.0
+ (11) 95302-6800
+08/07/2021
+ 16/11/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 4792-2491	N/A	ANATEL	
+(11) 99901-4923	N/A	ANATEL	
+(11) 99804-8473	N/A	ANATEL	
+(11) 97498-5828	N/A	ANATEL	
+(11) 99843-7188	N/A	ANATEL	
+(99) 1443957
+[09:50:41] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 96375-2485	
+Celular	1	
+ Inserção: 12/08/2016
+ Recência: 18/10/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 96845-4900	
+Celular	1	
+ Inserção: 12/08/2016
+ Recência: 25/01/2016
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 96417-3983	
+Celular	1	
+ Inserção: 12/08/2016
+ Recência: 25/01/2016
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99707-6742	
+Celular	1	
+ Inserção: 13/08/2016
+ Recência: 25/01/2016
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4798-6122	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 01/02/2016
+ Atualização: 18/05/2020
+—
+(11) 97787-2491	
+Celular	1	
+ Inserção: 18/05/2020
+ Recência: 25/01/2016
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 97255-3304	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 97498-5828	
+Celular	2
+[09:50:49]  (11) 47922-491
+20/07/2017
+ N/I PRIORIDADE: 11.0
+ (11) 26107-160
+11/01/2017
+ 08/04/2020 PRIORIDADE: 10.0
+ (11) 97255-3304
+30/11/2023
+ N/I PRIORIDADE: 9.0
+ (11) 26108-859
+30/11/2023
+ N/I PRIORIDADE: 8.0
+ (11) 96417-3983
+19/07/2017
+ 05/04/2023 PRIORIDADE: 7.0
+ (11) 96375-2485
+05/04/2023
+ N/I PRIORIDADE: 6.0
+ (11) 96845-4900
+05/04/2023
+ N/I PRIORIDADE: 5.0
+ (11) 99707-6742
+05/04/2023
+ N/I PRIORIDADE: 4.0
+ (11) 97787-2491
+05/04/2023
+ N/I PRIORIDADE: 3.0
+ (11) 47612-491
+06/08/2010
+ 12/09/2016 PRIORIDADE: 2.0
+ (11) 97498-5828
+20/07/2017
+ 06/01/2021 PRIORIDADE: 1.0
+ (11) 47986-122
+05/04/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 96845-4900	N/A	ANATEL	
+(11) 96375-2485	N/A	ANATEL	
+(11) 99707-6742	N/A	ANATEL	
+(11) 2610-7160	N/A	ANATEL	
+(11) 4761-2491	N/A	ANATEL	
+(97) 4985828	N/A	ANATEL	
+(97) 2553304	N/A
+[09:50:59] (11) 4792-2526	
+Fixo	1	
+ Inserção: 24/11/2014
+ Recência: 24/11/2014
+ Atualização: 24/11/2014
+—
+(11) 4761-1048	
+Fixo	1	
+ Inserção: 02/09/2014
+ Recência: 09/10/2016
+ Atualização: 18/05/2020
+—
+(11) 97188-4398	
+Celular	3	
+ Inserção: 03/12/2010
+ Recência: 26/07/2012
+ Atualização: 26/07/2012
+Não confirmado
+Abrir WhatsApp
+(11) 99593-8977	
+Celular	2	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97444-1886	
+Celular	1	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 94789-7872	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 23/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 94496-4431	
+Celular	1	
+ Inserção: 10/08/2023
+ Recência: 10/08/2023
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(11) 95652-0290	
+Celular	2	
+ Inserção: 10/08/2023
+ Recência: 10/08/2023
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(11) 94155-9018	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atualização: 13/08/2025
+Tem WhatsApp
+Abrir WhatsApp
+(11) 97852-1164	
+Celular	2	
+ Inserção: 13/08/2025
+[09:51:09]  (11) 99593-8977
+17/03/2015
+ 05/04/2018 PRIORIDADE: 3.0
+ (11) 97096-4014
+19/07/2017
+ 05/04/2018 PRIORIDADE: 2.0
+ (11) 94496-4431
+30/11/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 97444-1886	N/A	ANATEL	
+(11) 99593-8977	N/A	ANATEL	
+(11) 97188-4398	N/A	ANATEL	
+(11) 4792-2526	N/A	ANATEL	
+(11) 4761-1048	N/A
+[09:51:20]  (11) 47266-476
+02/10/2023
+ N/I PRIORIDADE: 3.0
+ (11) 23124-588
+17/11/2019
+ N/I PRIORIDADE: 2.0
+ (11) 97178-5775
+16/04/2018
+ 06/01/2021 PRIORIDADE: 1.0
+
+[09:51:27] (11) 99776-6225	
+Celular	4	
+ Inserção: 13/08/2016
+ Recência: 07/08/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 97444-1853	
+Celular	3	
+ Inserção: 13/08/2016
+ Recência: 16/10/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 3757-2669	
+Fixo	2	
+ Inserção: 18/05/2020
+ Recência: 01/02/2016
+ Atualização: 18/05/2020
+—
+(11) 95692-0238	
+Celular	1
+[09:51:29] Telefone	Operadora	Endereço	Atualização	Status	Contato
+(11) 98130-7427	NET	R NITO SONA, 2435
+JUNDIAPEBA – MOGI DAS CRUZES/SP · CEP 08750640	2025	Ativo	
+WhatsApp
+(11) 95886-4339	NET	R
+[09:51:36] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 99776-6225	N/A	ANATEL	
+(11) 97444-1853	N/A	ANATEL	
+(12) 3832-1006	N/A	ANATEL	
+(11) 2819-3451	N/A	ANATEL	
+(11) 4761-7231
+[09:51:43] (11) 2312-4588
+[09:51:54]  (11) 25250-199
+03/05/2022
+ 12/07/2023 PRIORIDADE: 4.0
+ (11) 96525-0194
+08/07/2021
+ 30/09/2021 PRIORIDADE: 3.0
+ (11) 99868-2194
+26/10/2022
+ 27/10/2022 PRIORIDADE: 2.0
+ (11) 23124-588
+30/09/2021
+ N/I PRIORIDADE: 1.0
+[09:51:56] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(99) 8682194
+[09:52:31] 7047751000102
+[09:53:07] 05.531.743/0001-01
+[09:53:25] 05531743000101
+[09:53:58] (11) 3758-8673	
+Fixo	7	
+ Inserção: 31/01/2011
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(73) 3203-3600	
+Fixo	4	
+ Inserção: 19/02/2010
+ Recência: 26/09/2015
+ Atualização: 15/05/2020
+—
+(51) 3388-3287	
+Fixo	17	
+ Inserção: 20/10/2009
+ Recência: 01/12/2013
+ Atualização: 01/12/2013
+—
+(11) 3856-2601	
+Fixo	8	
+ Inserção: 09/09/2010
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 97608-0326	
+Celular	6	
+ Inserção: 11/06/2012
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99245-2128	
+Celular	5	
+ Inserção: 17/02/2010
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99611-5619	
+Celular	3	
+ Inserção: 15/05/2020
+ Recência: 05/05/2017
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99489-8490	
+Celular	18	
+ Inserção: 15/05/2020
+ Recência: 09/09/2011
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 2203-3600	
+Fixo	12	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 3473-0082	
+Fixo	9	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 2532-5436	
+Fixo	13	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 99489-8464	
+Celular	10	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 3759-0082	
+Fixo	15	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 2532-5428	
+Fixo	11	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 99489-8494	
+Celular	16	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(51) 99155-4309	
+Celular	14	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 98093-5369	
+Celular	1	
+ Inserção: 12/04/2023
+ Recência: 12/09/2024
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 97992-1512	
+Celular	2
+[09:54:06]  (11) 37588-673
+21/05/2014
+ 12/09/2016 PRIORIDADE: 5.0
+ (51) 33883-287
+11/06/2008
+ 09/12/2019 PRIORIDADE: 4.0
+ (11) 40728-711
+06/01/2016
+ 24/05/2016 PRIORIDADE: 3.0
+ (13) 98824-6798
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (11) 34730-082
+30/11/2023
+ N/I PRIORIDADE: 1.0
+ (21) 22033-600
+15/04/2010
+ 09/12/2019
+ (11) 37582-969
+07/01/2011
+ 09/12/2019
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 99489-8494	N/A	ANATEL	
+(11) 99489-8464	N/A	ANATEL	
+(11) 99245-2128	N/A	ANATEL	
+(11) 97608-0326	N/A	ANATEL	
+(11) 3758-2969	N/A	ANATEL	
+(97) 9921512	N/A	ANATEL	
+(98) 0935369	N/A
+[09:54:14] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 3257-0113	
+Fixo	6	
+ Inserção: 22/02/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 98141-9163	
+Celular	2	
+ Inserção: 21/02/2010
+ Recência: 13/04/2017
+ Atualização: 18/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 98517-6625	
+Celular	5	
+ Inserção: 11/03/2013
+ Recência: 26/03/2013
+ Atualização: 26/03/2013
+Não confirmado
+Abrir WhatsApp
+(11) 99305-7781	
+Celular	3	
+ Inserção: 21/02/2010
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 2369-5464	
+Fixo	4	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(11) 98351-9388	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+[09:54:20] (11) 98351-9388
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (11) 21221-283
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (11) 23695-464
+05/05/2012
+ 06/12/2018 PRIORIDADE: 2.0
+ (11) 32570-113
+15/04/2010
+ 18/06/2019 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 98346-9940	N/A	ANATEL	
+(11) 99305-7781	N/A	ANATEL	
+(11) 98517-6625	N/A	ANATEL	
+(11) 98141-9163	N/A	ANATEL	
+(11) 3257-0113	N/A	ANATEL	
+ E-MAILS
+[09:54:27] (41) 3404-4398	
+Fixo	8	
+ Inserção: 17/11/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3282-2556	
+Fixo	9	
+ Inserção: 15/10/2009
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 3283-2277	
+Fixo	10	
+ Inserção: 20/10/2009
+ Recência: 20/10/2009
+ Atualização: 20/10/2009
+—
+(41) 91023-1717	
+Celular	7	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 91022-9136	
+Celular	6	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98823-4856	
+Celular	1	
+ Inserção: 17/04/2023
+ Recência: 12/09/2024
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 91021-6363	
+Celular	5	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99155-2375	
+Celular	3	
+ Inserção: 10/08/2023
+ Recência: 26/12/2024
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99109-3337	
+Celular	4	
+ Inserção: 10/08/2023
+ Recência: 26/12/2024
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99167-6660	
+Celular	2	
+ Inserção: 11/08/2023
+ Recência
+[09:54:37] (41) 98823-4856
+19/07/2017
+ N/I PRIORIDADE: 4.0
+ (41) 34044-398
+27/11/2014
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 35861-617
+06/01/2012
+ 18/03/2015 PRIORIDADE: 2.0
+ (41) 98429-5887
+27/07/2017
+ 09/04/2020 PRIORIDADE: 1.0
+ (41) 33988-163
+02/11/2011
+ 05/06/2012
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-8163	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-6573	N/A	ANATEL	
+(41) 3404-4398	N/A	ANATEL	
+(41) 99155-2375	N/A	ANATEL	
+(99) 1552375	N/A	ANATEL
+[09:54:46] (41) 3283-7695	
+Fixo	1	
+ Inserção: 20/11/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 99152-6593	
+Celular	4	
+ Inserção: 02/06/2012
+ Recência: 13/04/2017
+ Atualização: 17/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3385-7646	
+Fixo	1	
+ Inserção: 15/10/2009
+ Recência: 13/03/2013
+ Atualização: 15/05/2020
+—
+(41) 99122-0367	
+Celular	3	
+ Inserção: 14/10/2010
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99147-9452	
+Celular	2	
+ Inserção: 30/05/2012
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99109-8581	
+Celular	1	
+ Inserção: 01/01/2012
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 3385-2905	
+Fixo	1	
+ Inserção: 17/10/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3587-0435	
+Fixo	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 3035-8100	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99123-6127	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 18/05/2023
+[09:54:52]  (41) 33857-646
+28/08/2006
+ 06/12/2018 PRIORIDADE: 4.0
+ (41) 33852-905
+02/07/2015
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 32837-695
+20/08/2015
+ 20/03/2018 PRIORIDADE: 2.0
+ (41) 99152-6593
+18/07/2013
+ 06/04/2018 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99152-6593	N/A	ANATEL	
+(41) 99122-0367	N/A	ANATEL	
+(41) 99109-8581	N/A	ANATEL	
+(41) 3283-7695	N/A	ANATEL	
+(41) 3385-2905	N/A	ANATEL	
+(99) 1526593	N/A	ANATEL
+[09:55:01] (41) 3035-3011	
+Fixo	10	
+ Inserção: 15/10/2009
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 3224-3728	
+Fixo	11	
+ Inserção: 20/10/2009
+ Recência: 20/10/2009
+ Atualização: 20/10/2009
+—
+(41) 98721-0863	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 12/09/2024
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99227-9783	
+Celular	9	
+ Inserção: 24/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 3525-5300	
+Fixo	8	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 99776-7475	
+Celular	7	
+ Inserção: 15/05/2020
+ Recência: 27/05/2025
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 98861-7093	
+Celular	6	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98857-1513	
+Celular	5	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 3373-5582	
+Fixo	4	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3264-1600	
+Fixo	3	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3084-0342	
+Fixo
+[09:55:07]  (41) 30353-011
+28/08/2006
+ 01/02/2008 PRIORIDADE: 5.0
+ (41) 98861-7093
+05/03/2009
+ 30/01/2013 PRIORIDADE: 4.0
+ (41) 36066-854
+05/03/2009
+ 05/03/2009 PRIORIDADE: 3.0
+ (41) 30840-342
+05/05/2012
+ 10/03/2020 PRIORIDADE: 2.0
+ (41) 99776-7475
+07/09/2016
+ 23/04/2020 PRIORIDADE: 1.0
+ (41) 21058-000
+15/12/2014
+ N/I
+ (41) 32641-975
+15/02/2018
+ 23/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98721-0863	N/A	ANATEL	
+(41) 98861-7093	N/A	ANATEL	
+(41) 99776-7475	N/A	ANATEL	
+(41) 99227-9783	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(99) 7767475	N/A	ANATEL
+[09:55:15] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3098-0660	
+Fixo	1	
+ Inserção: 03/12/2014
+ Recência: 06/07/2016
+ Atualização: 15/05/2020
+—
+(55) 3411-1824	
+Fixo	1	
+ Inserção: 20/10/2009
+ Recência: 24/06/2015
+ Atualização: 15/05/2020
+—
+(41) 3098-6691	
+Fixo	1	
+ Inserção: 09/12/2014
+ Recência: 27/10/2015
+ Atualização: 29/07/2016
+—
+(41) 99847-1923	
+Celular	3	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98471-9235	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98535-8157	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(55) 99933-0092	
+Celular	1	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(55) 99664-8915	
+Celular	2	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99172-7758	
+Celular	1
+[09:55:20]  TELEFONES
+ (55) 34111-824
+02/12/2009
+ 06/01/2021 PRIORIDADE: 6.0
+ (41) 99106-4809
+19/07/2017
+ N/I PRIORIDADE: 5.0
+ (41) 30986-691
+20/08/2015
+ 07/11/2022 PRIORIDADE: 4.0
+ (55) 99664-8915
+19/07/2017
+ N/I PRIORIDADE: 3.0
+ (41) 30980-660
+01/07/2014
+ 31/05/2023 PRIORIDADE: 2.0
+ (41) 98535-8157
+01/02/2018
+ 24/06/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3098-6691	N/A	ANATEL	
+(41) 3098-0660	N/A	ANATEL	
+(55) 3411-1824	N/A	ANATEL	
+
+[09:55:28] (41) 98853-5494	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 12/09/2024
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 98874-5941	
+Celular	5	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 3248-3784	
+Fixo	4	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99538-2251	
+Celular	3	
+ Inserção: 19/11/2021
+ Recência: 27/05/2025
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98474-6498	
+Celular	
+[09:55:34] (41) 99984-7798
+28/04/2021
+ N/I PRIORIDADE: 2.0
+ (41) 98474-6498
+19/05/2016
+ 05/04/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98853-5494	N/A	ANATEL	
+(41) 98874-5941	N/A	ANATEL	
+(41) 98474-6498	N/A	ANATEL	
+(99) 5382251	N/A
+[09:55:43] Telefone	Tipo	Ranking	Datas	Contato
+(54) 3358-4505	
+Fixo	1	
+ Inserção: 03/02/2010
+ Recência: 03/02/2010
+ Atualização: 03/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(54) 3358-8188	
+Fixo	1	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3283-5509	
+Fixo
+[09:55:50] (41) 33981-479
+04/01/2017
+ 08/02/2017 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(54) 3358-4505	N/A	ANATEL	
+(41) 3398-1479	N/A	ANATEL	
+(54) 3358-8188	
+[09:55:57] (85) 3296-0954	
+Fixo	8	
+ Inserção: 18/11/2010
+ Recência: 13/04/2017
+ Atualização: 17/10/2017
+—
+(41) 99601-9509	
+Celular	15	
+ Inserção: 14/06/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+Não confirmado
+Abrir WhatsApp
+(41) 3010-4514	
+Fixo	12	
+ Inserção: 31/07/2016
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3348-1268	
+Fixo	11	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 98515-1520	
+Celular	10	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98415-1520	
+Celular	9	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3408-0449	
+Fixo	14	
+ Inserção: 15/05/2020
+ Recência: 29/11/2014
+ Atualização: 15/05/2020
+—
+(41) 99750-7247	
+Celular	7	
+ Inserção: 15/05/2020
+ Recência: 25/09/2017
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99829-3558	
+Celular	13	
+ Inserção: 15/05/2020
+ Recência: 05/08/2016
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3564-6259	
+Fixo	4	
+ Inserção: 03/02/2022
+ Recência: 03/02/2022
+ Atualização: 03/02/2022
+—
+(41) 3533-3316	
+Fixo	6	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3287-5206	
+Fixo	5	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 91006-8466	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98725-6251	
+Celular	2	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 17/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98728-5115	
+Celular
+[09:56:05]  (41) 34080-449
+07/12/2015
+ 08/04/2020 PRIORIDADE: 13.0
+ (41) 35646-259
+16/06/2011
+ 14/10/2013 PRIORIDADE: 12.0
+ (85) 32960-954
+16/04/2009
+ 31/03/2020 PRIORIDADE: 11.0
+ (41) 32875-206
+12/03/2011
+ 18/03/2015 PRIORIDADE: 10.0
+ (11) 20741-862
+15/12/2014
+ N/I PRIORIDADE: 9.0
+ (41) 30859-100
+15/12/2014
+ N/I PRIORIDADE: 8.0
+ (41) 98502-1880
+22/10/2010
+ 29/03/2011 PRIORIDADE: 7.0
+ (41) 34055-560
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 33481-268
+29/12/2014
+ 10/10/2018 PRIORIDADE: 5.0
+ (41) 99601-9509
+15/01/2016
+ 22/01/2016 PRIORIDADE: 4.0
+ (41) 98515-1520
+05/05/2017
+ 26/11/2020 PRIORIDADE: 3.0
+ (41) 32774-551
+28/09/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99750-7247
+25/01/2018
+ 13/02/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3010-4514	N/A	ANATEL	
+(41) 99829-3558	N/A	ANATEL	
+(41) 98502-1880	N/A	ANATEL	
+(41) 99601-9509	N/A	ANATEL	
+(41) 3408-0449
+[09:56:16] (54) 3358-2890	
+Fixo	11	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 98701-1551	
+Celular	9	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 98704-0859	
+Celular	10	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99199-0460	
+Celular	7	
+ Inserção: 02/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99137-5527	
+Celular	6	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 99543-8186	
+Celular	4	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3084-5424	
+Fixo	5	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 3376-2026	
+Fixo	8	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 3385-0827	
+Fixo	3	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3384-2895	
+Fixo	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3035-1269	
+Fixo	1
+[09:56:21]  (41) 30845-424
+03/04/2017
+ 02/09/2020 PRIORIDADE: 4.0
+ (41) 30351-269
+04/06/2012
+ 28/05/2015 PRIORIDADE: 3.0
+ (41) 33850-827
+11/03/2015
+ 28/05/2015 PRIORIDADE: 2.0
+ (41) 99543-8186
+19/05/2022
+ 04/07/2022 PRIORIDADE: 1.0
+ (41) 33762-026
+15/02/2018
+ 23/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98701-1551	N/A	ANATEL	
+(41) 98704-0859	N/A	ANATEL	
+(41) 99199-0460	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3084-5424	N
+[09:56:49]  (87) 33724-603
+24/03/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99642-8663
+24/03/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99642-8663	N/A	ANATEL	
+(41) 3627-3350
+[09:56:59] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3627-3350	
+Fixo	1	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99642-8663
+[09:57:06] (41) 3276-4941	
+Fixo	9	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3282-7168	
+Fixo	7	
+ Inserção: 20/10/2009
+ Recência: 08/01/2013
+ Atualização: 15/05/2020
+—
+(41) 3383-8913	
+Fixo	6	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99199-3501	
+Celular	5	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 2105-9002	
+Fixo	8	
+ Inserção: 15/05/2020
+ Recência: 12/06/2011
+ Atualização: 15/05/2020
+—
+(41) 99986-6042	
+Celular	4	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 22/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99839-9539	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99925-4361	
+Celular	3	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99945-8978	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 18/04/2023
+ 
+[09:57:15]  (41) 32827-168
+13/05/2008
+ 06/08/2019 PRIORIDADE: 4.0
+ (41) 36780-509
+17/08/2022
+ N/I PRIORIDADE: 3.0
+ (41) 99199-3501
+05/04/2018
+ N/I PRIORIDADE: 2.0
+ (41) 33838-913
+23/01/2018
+ 05/04/2018 PRIORIDADE: 1.0
+ (41) 32764-941
+22/11/2006
+ 05/03/2009
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99945-8978	N/A	ANATEL	
+(41) 3282-7168	N/A	ANATEL	
+(41) 2105-9002	N/A	ANATEL	
+(41) 3276-4941	N/A	ANATEL	
+(99) 9866042
+[09:57:26] (41) 3282-4240	
+Fixo	7	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3282-7164	
+Fixo	4	
+ Inserção: 05/12/2010
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 99155-3422	
+Celular	5	
+ Inserção: 25/11/2010
+ Recência: 12/09/2024
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99163-0197	
+Celular	3	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3282-6471	
+Fixo	6	
+ Inserção: 15/05/2020
+ Recência: 23/06/2011
+ Atualização: 15/05/2020
+—
+(41) 98423-5430	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 18/04/2023
+ Atualização: 01/06/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98423-3336	
+Celular	1	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98887-2509	
+Celular	
+[09:57:32] (41) 32824-240
+19/04/2011
+ 15/01/2016 PRIORIDADE: 7.0
+ (41) 99163-0197
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 32833-159
+15/12/2014
+ N/I PRIORIDADE: 5.0
+ (41) 32839-388
+17/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 32826-471
+04/05/2020
+ N/I PRIORIDADE: 3.0
+ (41) 32827-164
+04/05/2020
+ N/I PRIORIDADE: 2.0
+ (41) 99155-3422
+04/05/2020
+ N/I PRIORIDADE: 1.0
+ (11) 30388-100
+19/01/2011
+ 20/01/2011
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99155-3422	N/A	ANATEL	
+(41) 3282-4240	N/A	ANATEL	
+(41) 3312-5400	N/A	ANATEL	
+(11) 3038-8100	N/A	ANATEL	
+(41) 3282-7164	N/A	ANATEL	
+(98) 8872509	N/A	ANATEL	
+(98) 8866914	N/A	ANATEL	
+(99) 1553422	N/A	ANATEL	
+(99) 1630197	N/A	ANATEL	
+(98) 8871865	N/A	ANATEL	
+(98) 4233336	N/A	ANATEL	
+ E-MAILS
+[09:57:41] (41) 3587-0614	
+Fixo	1	
+ Inserção: 15/10/2009
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3306-2289	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99984-6914	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 04/08/2016
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99772-8986	
+Celular	1	
+ Inserção: 15/05/2020
+ Recência: 27/05/2025
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3062-2076	
+Fixo	1	
+ Inserção: 03/02/2022
+ Recência: 03/02/2022
+ Atualização: 03/02/2022
+—
+(41) 91005-3420	
+Celular	
+[09:57:49]  (41) 35562-092
+31/03/2015
+ 26/09/2017 PRIORIDADE: 6.0
+ (41) 99772-8986
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 99673-3476
+04/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 35870-270
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 35870-614
+28/08/2006
+ 29/03/2023 PRIORIDADE: 2.0
+ (41) 99984-6914
+09/02/2017
+ 04/08/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99984-6914	N/A	ANATEL	
+(41) 99772-8986	N/A	ANATEL	
+(41) 3062-2076	N/A	ANATEL	
+(41) 3556-2092	N/A	ANATEL	
+(41) 3587-0614	N/A	ANATEL	
+(99) 7728986
+[09:58:43] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 99619-8430	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 25/06/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3246-2399	
+Fixo	2	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 4106-0046	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 99102-2026	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99111-0111
+[09:58:49]  (41) 32755-753
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 33755-753
+05/03/2009
+ 05/03/2009 PRIORIDADE: 2.0
+ (41) 33296-520
+05/03/2009
+ 30/10/2014 PRIORIDADE: 1.0
+ (41) 30245-976
+14/11/2006
+ 10/04/2015
+ (41) 32756-953
+22/11/2006
+ 10/02/2015
+ (41) 99111-0111
+30/11/2023
+ N/I
+ (41) 30392-734
+30/11/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99111-0111	N/A	ANATEL	
+(41) 99619-8430	N/A	ANATEL	
+(41) 3275-6953	N/A	ANATEL	
+(41) 3024-5976	N/A	ANATEL	
+(41) 3275-5753	N/A	ANATEL	
+(99) 1022026	N/A	ANATEL	
+(99) 1110111
+[09:58:57] (41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 98498-4165
+[09:59:03] (41) 98464-8557
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 33832-204
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (41) 98498-4165
+15/11/2019
+ N/I PRIORIDADE: 1.0
+ (41) 33825-366
+06/08/2010
+ 15/11/2019
+ (41) 35860-621
+06/08/2010
+ 15/11/2019
+ (41) 33762-026
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3586-0621	N/A	ANATEL	
+(41) 3382-5366	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3382-1533	N/A	ANATEL	
+(41) 3384-2162
+[09:59:11] (41) 99631-1754	
+Celular	6	
+ Inserção: 31/01/2014
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 98435-4955	
+Celular	7	
+ Inserção: 23/02/2010
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99184-8963	
+Celular	5	
+ Inserção: 24/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99174-9272	
+Celular	4	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 23/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99152-7060	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 27/05/2025
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99122-0966	
+Celular	3	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 24/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99151-1754	
+Celular
+[09:59:18]  (41) 99151-1457
+07/06/2013
+ N/I PRIORIDADE: 3.0
+ (41) 99842-3018
+08/07/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99631-1754
+11/04/2022
+ N/I PRIORIDADE: 1.0
+ (41) 33841-483
+13/02/2008
+ 06/04/2018
+ (41) 99151-1754
+05/05/2017
+ 04/08/2022
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99184-8963	N/A	ANATEL	
+(41) 99631-1754	N/A	ANATEL	
+(41) 98435-4955	N/A	ANATEL	
+(41) 99151-1457	N/A	ANATEL	
+(41) 99151-1754	N/A	ANATEL	
+(99) 8469907	N/A	ANATEL	
+(99) 1527060	N/A	ANATEL
+[09:59:46] (41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 98498-4165	
+Celular
+[09:59:52]  (41) 98464-8557
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 33832-204
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (41) 98498-4165
+15/11/2019
+ N/I PRIORIDADE: 1.0
+ (41) 33825-366
+06/08/2010
+ 15/11/2019
+ (41) 35860-621
+06/08/2010
+ 15/11/2019
+ (41) 33762-026
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3586-0621	N/A	ANATEL	
+(41) 3382-5366	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3382-1533	N/A	ANATEL	
+(41) 3384-2162
+[10:00:01] (41) 3282-4880	
+Fixo	8	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3384-1566	
+Fixo	6	
+ Inserção: 06/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 99123-6713	
+Celular	5	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99143-3971	
+Celular	2	
+ Inserção: 25/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99212-3550	
+Celular	7	
+ Inserção: 14/10/2010
+ Recência: 14/10/2010
+ Atualização: 14/10/2010
+Não confirmado
+Abrir WhatsApp
+(46) 3536-8300	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 3383-2897	
+Fixo	4	
+ Inserção: 12/05/2020
+ Recência: 03/12/2015
+ Atualização: 12/05/2020
+—
+(41) 99111-8662	
+Celular	1	
+ Inserção: 09/08/2023
+ Recência: 26/12/2024
+ Atualização: 09/08/2023
+Não confirmado
+Abrir WhatsApp
+
+[10:00:07]  (41) 33832-897
+07/12/2015
+ 06/01/2021 PRIORIDADE: 8.0
+ (41) 33851-207
+28/06/2012
+ 05/11/2013 PRIORIDADE: 7.0
+ (41) 99899-1917
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 32824-880
+21/11/2011
+ 17/02/2020 PRIORIDADE: 5.0
+ (41) 99690-9416
+04/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 30355-509
+06/04/2018
+ 04/08/2022 PRIORIDADE: 3.0
+ (41) 99521-3825
+06/04/2018
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99892-0458
+02/10/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99143-3971	N/A	ANATEL	
+(41) 99123-6713	N/A	ANATEL	
+(41) 3383-2897	N/A	ANATEL	
+(41) 3282-4880	N/A	ANATEL	
+(41) 3384-1566	N/A	
+[10:00:14] (41) 98898-9771	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(47) 3431-4700	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99285-2757	
+
+[10:00:20]  (15) 98150-4766
+11/03/2013
+ 21/08/2013 PRIORIDADE: 1.0
+ (47) 34314-700
+04/05/2020
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(15) 98150-4766	N/A	ANATEL	
+(41) 98898-9771	N/A	ANATEL	
+(99) 2852757	N/A
+[10:00:27] (41) 3287-1975	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(41) 99604-8757	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3643-1996
+[10:00:34]  (41) 99604-8757
+18/07/2013
+ 29/03/2019 PRIORIDADE: 7.0
+ (41) 34022-737
+31/12/2015
+ 26/09/2017 PRIORIDADE: 6.0
+ (41) 32871-975
+22/11/2006
+ 05/02/2019 PRIORIDADE: 5.0
+ (41) 32868-272
+18/03/2014
+ 07/04/2014 PRIORIDADE: 4.0
+ (41) 99931-2790
+29/03/2019
+ 30/09/2021 PRIORIDADE: 3.0
+ (45) 99604-8757
+30/09/2021
+ N/I PRIORIDADE: 2.0
+ (41) 30405-655
+06/04/2018
+ 30/09/2021 PRIORIDADE: 1.0
+ (41) 33143-100
+06/03/2011
+ 09/12/2013
+ (41) 32116-950
+06/01/2016
+ 07/02/2016
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99604-8757	N/A	ANATEL	
+(41) 3211-6950	N/A	ANATEL	
+(41) 3314-3100	N/A	ANATEL	
+(41) 3286-8272	N/A	ANATEL	
+(41) 3287-1975	
+[10:00:41] (41) 3834-1215	
+Fixo	4	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3384-1277	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99696-0236	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 12/09/2024
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99225-8054	
+C
+[10:00:48]  (41) 31463-845
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 98726-3459
+24/11/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99225-8054
+08/05/2017
+ 04/08/2022 PRIORIDADE: 1.0
+ (41) 32833-849
+08/04/2011
+ 30/09/2019
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99235-0966	N/A	ANATEL	
+(41) 99225-8054	N/A	ANATEL	
+(41) 3634-1215	N/A	ANATEL	
+(41) 3283-3849	N/A
+[10:00:56] (41) 3376-2026
+[10:01:00]  (12) 39239-640
+08/06/2022
+ N/I PRIORIDADE: 2.0
+ (42) 36249-814
+08/06/2022
+ N/I PRIORIDADE: 1.0
+[10:01:09] (41) 3019-4679	
+Fixo	5	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 29/07/2016
+—
+(41) 3598-0741	
+Fixo	6	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(41) 3598-0742	
+Fixo	8	
+ Inserção: 19/09/2014
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+—
+(41) 99670-0741	
+Celular	7	
+ Inserção: 31/10/2012
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3278-2191	
+Fixo	9	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3359-0741	
+Fixo	4	
+ Inserção: 16/05/2016
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 99232-9282	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99138-4951	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99811-0397	
+Celular
+[10:01:16] (45) 33590-741
+01/07/2014
+ 23/03/2015 PRIORIDADE: 10.0
+ (45) 30194-679
+01/07/2014
+ 23/03/2015 PRIORIDADE: 9.0
+ (41) 30194-679
+16/09/2012
+ 23/03/2020 PRIORIDADE: 8.0
+ (41) 33590-741
+27/11/2014
+ 23/03/2020 PRIORIDADE: 7.0
+ (41) 30458-639
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (45) 99670-0741
+30/09/2021
+ N/I PRIORIDADE: 5.0
+ (41) 99811-0397
+29/03/2019
+ 30/09/2021 PRIORIDADE: 4.0
+ (41) 35980-741
+22/03/2011
+ 22/02/2019 PRIORIDADE: 3.0
+ (41) 99670-0741
+26/01/2012
+ 16/05/2022 PRIORIDADE: 2.0
+ (41) 35980-742
+21/05/2014
+ 22/02/2019 PRIORIDADE: 1.0
+ (41) 32964-554
+14/05/2012
+ 06/04/2018
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3019-4679	N/A	ANATEL	
+(45) 3359-0741	N/A	ANATEL	
+(41) 99670-0741	N/A	ANATEL	
+(41) 3382-1012	N/A	ANATEL	
+(41) 3296-4554	N/A	ANATEL	
+(99) 8110397	N/A	ANATEL	
+(99) 6700741	N
+[10:01:25] (41) 3019-4679	
+Fixo	5	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 29/07/2016
+—
+(41) 3598-0741	
+Fixo	6	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(41) 3598-0742	
+Fixo	8	
+ Inserção: 19/09/2014
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+—
+(41) 99670-0741	
+Celular	7	
+ Inserção: 31/10/2012
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3278-2191	
+Fixo	9	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3359-0741	
+Fixo	4	
+ Inserção: 16/05/2016
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 99232-9282	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99138-4951	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99811-0397	
+Celular	
+[10:01:31]  (45) 33590-741
+01/07/2014
+ 23/03/2015 PRIORIDADE: 10.0
+ (45) 30194-679
+01/07/2014
+ 23/03/2015 PRIORIDADE: 9.0
+ (41) 30194-679
+16/09/2012
+ 23/03/2020 PRIORIDADE: 8.0
+ (41) 33590-741
+27/11/2014
+ 23/03/2020 PRIORIDADE: 7.0
+ (41) 30458-639
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (45) 99670-0741
+30/09/2021
+ N/I PRIORIDADE: 5.0
+ (41) 99811-0397
+29/03/2019
+ 30/09/2021 PRIORIDADE: 4.0
+ (41) 35980-741
+22/03/2011
+ 22/02/2019 PRIORIDADE: 3.0
+ (41) 99670-0741
+26/01/2012
+ 16/05/2022 PRIORIDADE: 2.0
+ (41) 35980-742
+21/05/2014
+ 22/02/2019 PRIORIDADE: 1.0
+ (41) 32964-554
+14/05/2012
+ 06/04/2018
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3019-4679	N/A	ANATEL	
+(45) 3359-0741	N/A	ANATEL	
+(41) 99670-0741	N/A	ANATEL	
+(41) 3382-1012	N/A	ANATEL	
+(41) 3296-4554	N/A	ANATEL	
+(99) 8110397	N/A	ANATEL	
+(99) 6700741	N/
+[10:01:40] lefone	Tipo	Ranking	Datas	Contato
+(41) 3282-6634	
+Fixo	1	
+ Inserção: 05/12/2010
+ Recência: 05/12/2010
+ Atualização: 05/12/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99540-4584	
+Celular	1	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 99156-4101	
+Celular	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98767-9739	
+Celular	3	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98766-3139	
+Celular	4	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 3404-4398	
+Fixo	5	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 99129-1887	
+Celular	1
+[10:01:46] (41) 3398-8163	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3382-8480	N/A	ANATEL	
+(41) 3282-6634	N/A	ANATEL	
+(41) 3084-2788
+[10:01:54] (41) 3282-2816	
+Fixo	1	
+ Inserção: 13/02/2010
+ Recência: 27/06/2015
+ Atualização: 12/05/2020
+—
+(41) 3058-2927	
+Fixo	1	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 3586-0345	
+Fixo	3	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(41) 3282-8927	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99970-0709	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 27/05/2025
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 99976-6045	
+
+[10:02:00] 41) 30582-927
+19/04/2011
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 32828-927
+05/03/2009
+ 23/01/2018 PRIORIDADE: 2.0
+ (41) 99976-6045
+01/02/2018
+ 21/08/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3058-2927	N/A	ANATEL	
+(41) 3282-8927	N/A	ANATEL	
+(41) 3282-2816	N/A	ANATEL	
+(99) 9766045	N/A	ANATEL	
+(99) 9700709	N/A
+[10:02:08] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3276-3631	
+Fixo	7	
+ Inserção: 15/10/2009
+ Recência: 31/10/2013
+ Atualização: 31/10/2013
+—
+(41) 3284-1388	
+Fixo	8	
+ Inserção: 14/02/2010
+ Recência: 14/02/2010
+ Atualização: 14/02/2010
+—
+(41) 3408-8122	
+Fixo	2	
+ Inserção: 19/09/2014
+ Recência: 23/05/2017
+ Atualização: 12/05/2020
+—
+(41) 2105-9034	
+Fixo	3	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99633-6618	
+Celular	6	
+ Inserção: 20/10/2017
+ Recência: 03/03/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99942-2464	
+Celular	4	
+ Inserção: 12/05/2020
+ Recência: 23/01/2017
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3078-1141	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 25/09/2017
+ Atualização: 12/05/2020
+—
+(41) 3524-0745	
+Fixo	
+[10:02:15]  (41) 33288-008
+29/04/2011
+ 23/01/2018 PRIORIDADE: 8.0
+ (41) 32763-631
+28/08/2006
+ 06/11/2019 PRIORIDADE: 7.0
+ (41) 21059-034
+03/05/2011
+ 07/01/2020 PRIORIDADE: 6.0
+ (41) 99942-2464
+25/01/2018
+ 23/04/2020 PRIORIDADE: 5.0
+ (41) 35240-745
+29/09/2015
+ 23/04/2020 PRIORIDADE: 4.0
+ (41) 30781-141
+15/02/2018
+ 23/04/2020 PRIORIDADE: 3.0
+ (41) 34088-122
+26/12/2012
+ 23/04/2020 PRIORIDADE: 2.0
+ (41) 99633-6618
+25/01/2018
+ 23/04/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3089-3609	N/A	ANATEL	
+(41) 3276-3631	N/A	ANATEL	
+(41) 3524-0745	N/A	ANATEL	
+(41) 3328-8008	N/A	ANATEL
+[10:02:23] (41) 99129-6339	
+Celular	5	
+ Inserção: 22/11/2010
+ Recência: 18/10/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99242-4719	
+Celular	6	
+ Inserção: 18/11/2010
+ Recência: 18/10/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3382-6618	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 99642-8444	
+Celular	4	
+ Inserção: 12/05/2020
+ Recência: 11/12/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99831-5841	
+Celular	2	
+ Inserção: 12/05/2020
+ Recência: 12/04/2017
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 98477-4375	
+Celular
+[10:02:28]  (41) 33826-618
+21/05/2013
+ 07/01/2020 PRIORIDADE: 2.0
+ (41) 99642-8444
+09/02/2017
+ 22/11/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99642-8444	N/A	ANATEL	
+(41) 99242-4719	N/A	ANATEL	
+(41) 99129-6339	N/A	ANATEL	
+(41) 3382-6618	N/A	ANATEL	
+(41) 99205-8228
+[10:02:36] (41) 98815-5437	
+Celular	2	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99155-4966	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 98701-8902	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99627-0316	
+Celular	3	
+ Inserção: 20/10/2017
+ Recência: 27/05/2025
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3012-1101	
+Fixo	1	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 3098-4674	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 3398-2079	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 06/12/2011
+ Atualização: 12/05/2020
+—
+(41) 98807-8007	
+Celular	1	
+ Inserção: 30/09/2024
+ Recência: 30/09/2024
+ Atualização: 30/09/2024
+Não confirmado
+Abrir WhatsApp
+ SIPNI
+[10:02:41]  (41) 30984-674
+20/08/2015
+ 16/03/2020 PRIORIDADE: 5.0
+ (41) 33801-108
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (41) 33839-406
+06/04/2018
+ 09/04/2020 PRIORIDADE: 3.0
+ (41) 98701-8902
+29/09/2015
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 33982-079
+02/10/2012
+ 05/01/2016 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98815-5437	N/A	ANATEL	
+(41) 98701-8902	N/A	ANATEL	
+(41) 99155-4966	N/A	ANATEL	
+(41) 3098-4674	N/A	ANATEL	
+(41) 3380-1108	N/A	ANATEL	
+(99) 6270316	N/A	ANATEL	
+(98) 8112632
+[10:02:49] (41) 98815-5437	
+Celular	2	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99155-4966	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 98701-8902	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99627-0316	
+Celular	3	
+ Inserção: 20/10/2017
+ Recência: 27/05/2025
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3012-1101	
+Fixo	1	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 3098-4674	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 3398-2079	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 06/12/2011
+ Atualização: 12/05/2020
+—
+(41) 98807-8007	
+Celular	
+[10:02:54]  TELEFONES
+ (41) 30984-674
+20/08/2015
+ 16/03/2020 PRIORIDADE: 5.0
+ (41) 33801-108
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (41) 33839-406
+06/04/2018
+ 09/04/2020 PRIORIDADE: 3.0
+ (41) 98701-8902
+29/09/2015
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 33982-079
+02/10/2012
+ 05/01/2016 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98815-5437	N/A	ANATEL	
+(41) 98701-8902	N/A	ANATEL	
+(41) 99155-4966	N/A	ANATEL	
+(41) 3098-4674	N/A	ANATEL	
+(41) 3380-1108	N/A	ANATEL	
+(99) 6270316	N/A	ANATEL	
+(98) 8112632	N/A	ANATEL
+[10:03:02] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3278-8800	
+Fixo	4	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3276-8594	
+Fixo	3	
+ Inserção: 01/12/2013
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 99683-4883	
+Celular	2	
+ Inserção: 02/10/2022
+ Recência: 12/09/2024
+ Atualização: 02/10/2022
+Não confirmado
+Abrir WhatsApp
+(41) 99683-4831	
+Celular	
+[10:03:08] 41) 30455-312
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 32785-012
+05/03/2009
+ 05/03/2009 PRIORIDADE: 4.0
+ (41) 32783-577
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 32768-594
+02/12/2013
+ 20/03/2018 PRIORIDADE: 2.0
+ (41) 99683-4883
+21/03/2019
+ 26/10/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3276-8594	N/A	ANATEL	
+(41) 3276-8594	N/A	ANATEL	
+(41) 3278-3577	N/A	ANATEL	
+(41) 3278-8800	N/A	ANATEL	
+(41) 3278-5012	N/A	ANATEL	
+
+[10:03:40]  (41) 99657-6156
+26/09/2010
+ 19/11/2011 PRIORIDADE: 7.0
+ (41) 33989-609
+08/04/2011
+ 13/12/2012 PRIORIDADE: 6.0
+ (41) 36384-282
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 33837-325
+06/04/2018
+ N/I PRIORIDADE: 4.0
+ (41) 99999-3371
+06/04/2018
+ 30/09/2021 PRIORIDADE: 3.0
+ (41) 32827-873
+03/01/2012
+ 06/01/2012 PRIORIDADE: 2.0
+ (41) 99516-0746
+24/11/2021
+ 20/09/2023 PRIORIDADE: 1.0
+ (41) 33826-545
+08/07/2021
+ 30/09/2021
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 96576-1560	N/A	ANATEL	
+(41) 99216-8391	N/A	ANATEL	
+(41) 99657-6156	N/A	ANATEL	
+(41) 3382-6545	N/A	ANATEL	
+(41) 3398-9609	N/A	ANATEL	
+(99) 5160746
+[10:03:48] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-4808	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(41) 99178-3357	
+Celular	1	
+ Inserção: 02/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99710-7113	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 15/05/2023
+Não confirmado
+Abrir WhatsApp
+
+[10:03:54]  (41) 33834-808
+24/03/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99710-7113
+24/03/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99178-3357	N/A	ANATEL	
+(99) 7107113
+[10:04:00] (41) 3278-8800	
+Fixo	4	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3276-8594	
+Fixo	3	
+ Inserção: 01/12/2013
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 99683-4883	
+Celular	2	
+ Inserção: 02/10/2022
+ Recência: 12/09/2024
+ Atualização: 02/10/2022
+Não confirmado
+Abrir WhatsApp
+(41) 99683-4831	
+Celular	
+[10:04:06]  (41) 30455-312
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 32785-012
+05/03/2009
+ 05/03/2009 PRIORIDADE: 4.0
+ (41) 32783-577
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 32768-594
+02/12/2013
+ 20/03/2018 PRIORIDADE: 2.0
+ (41) 99683-4883
+21/03/2019
+ 26/10/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3276-8594	N/A	ANATEL	
+(41) 3276-8594	N/A	ANATEL	
+(41) 3278-3577	N/A	ANATEL	
+(41) 3278-8800	N/A	ANATEL	
+(41) 3278-5012	N/A
+[10:04:15] (41) 3282-7989	
+Fixo	1	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99690-9508	
+Celular
+[10:04:20]  (41) 33830-950
+15/12/2014
+ N/I PRIORIDADE: 6.0
+ (41) 99886-4160
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 32828-099
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (41) 99582-1355
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 33984-057
+05/05/2011
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99690-9508
+04/08/2022
+ 09/11/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98812-2501	N/A	ANATEL	
+(41) 3383-0950	N/A	ANATEL	
+(41) 3398-4057	N/A	ANATEL	
+(99) 6909508
+[10:04:28] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3278-2567	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(41) 99751-2618	
+Celular
+[10:04:35]  (41) 32782-567
+17/03/2015
+ 09/04/2020 PRIORIDADE: 1.0
+ (41) 99751-2618
+06/04/2018
+ 09/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3278-2567	N/A	ANATEL	
+(99) 7512618
+[10:04:48]  (41) 31078-994
+02/12/2013
+ 10/03/2020 PRIORIDADE: 7.0
+ (41) 33841-200
+13/02/2008
+ 10/09/2019 PRIORIDADE: 6.0
+ (41) 33827-346
+05/03/2009
+ 05/03/2009 PRIORIDADE: 5.0
+ (41) 32829-382
+05/03/2009
+ 05/03/2009 PRIORIDADE: 4.0
+ (41) 99195-5505
+19/07/2017
+ 27/07/2017 PRIORIDADE: 3.0
+ (41) 33842-290
+05/03/2009
+ 02/12/2009 PRIORIDADE: 2.0
+ (41) 99579-2559
+05/04/2016
+ 21/08/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99579-2559	N/A	ANATEL	
+(41) 3384-1200	N/A	ANATEL	
+(41) 3384-2290	N/A	ANATEL	
+(41) 3282-9382	N/A	ANATEL	
+(41) 3382-7346	N/A
+[10:04:56] (41) 3283-2518	
+Fixo	3	
+ Inserção: 30/11/2009
+ Recência: 30/11/2009
+ Atualização: 30/11/2009
+—
+(41) 3376-2026	
+Fixo	2	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99665-6360	
+
+[10:05:03]  (41) 32832-518
+22/11/2006
+ 12/09/2016 PRIORIDADE: 3.0
+ (41) 35565-965
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99665-6360
+30/11/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99665-6360	N/A	ANATEL	
+(41) 3283-4457	N/A	ANATEL	
+(41) 3283-2518
+[10:05:11] Telefone	Tipo	Ranking	Datas	Contato
+(21) 2435-5326	
+Fixo	4	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(21) 98167-9821	
+Celular	2	
+ Inserção: 01/01/2012
+ Recência: 30/06/2012
+ Atualização: 30/06/2012
+Não confirmado
+Abrir WhatsApp
+(21) 2426-3514	
+Fixo	5	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(21) 3413-5525	
+Fixo	1	
+ Inserção: 05/02/2010
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+—
+(21) 3414-3541	
+Fixo	3	
+ Inserção: 15/03/2013
+ Recência: 15/03/2013
+ Atualização: 15/03/2013
+—
+(21) 3598-5635	
+Fixo	2	
+ Inserção: 15/03/2013
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(21) 98122-9610	
+Celular	1	
+ Inserção: 11/02/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(21) 98166-0102	
+Celular	1	
+ Inserção: 24/02/2010
+ Recência: 04/08/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 99145-3607	
+Celular	3	
+ Inserção: 24/02/2010
+ Recência: 30/06/2012
+ Atualização: 30/06/2012
+Não confirmado
+Abrir WhatsApp
+(21) 3342-6350	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 18/09/2017
+ Atualização: 16/05/2020
+—
+(21) 97836-6580	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 99385-6223	
+Celular	1	
+ Inserção: 18/03/2022
+ Recência: 18/03/2022
+ Atualização: 18/03/2022
+Não confirmado
+Abrir WhatsApp
+(21) 2443-2275	
+Fixo	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(21) 2424-3074	
+Fixo
+[10:05:17]  (21) 99385-6223
+11/06/2008
+ 28/06/2012 PRIORIDADE: 8.0
+ (21) 35985-635
+05/05/2012
+ 10/10/2018 PRIORIDADE: 7.0
+ (41) 35242-595
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (21) 24432-275
+11/06/2008
+ 23/04/2010 PRIORIDADE: 5.0
+ (21) 24263-514
+05/03/2009
+ 10/02/2015 PRIORIDADE: 4.0
+ (21) 98166-0102
+15/12/2009
+ 23/04/2020 PRIORIDADE: 3.0
+ (21) 33426-350
+15/02/2018
+ 23/04/2020 PRIORIDADE: 2.0
+ (21) 98122-9610
+30/11/2023
+ N/I PRIORIDADE: 1.0
+ (21) 97836-6580
+24/04/2020
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(21) 99385-6223	N/A	ANATEL	
+(21) 98122-9610	N/A	ANATEL	
+(21) 99145-3607	N/A	ANATEL	
+(21) 98166-0102	N/A	ANATEL	
+(21) 3598-5635	N/
+[10:05:24] 42) 3523-2316	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(42) 98872-5289	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atualização: 13/08/2025
+Tem WhatsApp
+Abrir WhatsApp
+(42) 99129-7918	
+Celular
+[10:05:29]  (42) 98885-7521
+17/11/2019
+ 26/10/2022 PRIORIDADE: 1.0
+[10:05:35] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 98470-2991	
+Celular	2	
+ Inserção: 05/05/2018
+ Recência: 05/05/2018
+ Atualização: 05/05/2018
+Não confirmado
+Abrir WhatsApp
+(41) 99211-0975	
+Celular	1	
+ Inserção: 10/08/2023
+ Recência: 10/08/2023
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98702-8931	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atualização: 13/08/2025
+Tem WhatsApp
+Abrir WhatsApp
+
+[10:05:39]  (41) 99211-0975
+17/11/2019
+ N/I PRIORIDADE: 4.0
+ (41) 98470-2991
+04/05/2020
+ N/I PRIORIDADE: 3.0
+ (41) 34047-135
+17/11/2019
+ N/I PRIORIDADE: 2.0
+ (41) 98724-2679
+[10:05:47] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-6203	
+Fixo	4	
+ Inserção: 01/12/2013
+ Recência: 04/08/2015
+ Atualização: 16/05/2020
+—
+(41) 3385-2568	
+Fixo	5	
+ Inserção: 04/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 99148-7911	
+Celular	3	
+ Inserção: 12/04/2023
+ Recência: 12/04/2023
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98481-2599	
+Celular	2	
+ Inserção: 12/04/2023
+ Recência: 12/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98829-3975	
+Celular
+[10:05:54]  (41) 32827-921
+17/08/2022
+ N/I PRIORIDADE: 8.0
+ (41) 33852-568
+02/12/2009
+ 10/03/2020 PRIORIDADE: 7.0
+ (41) 99947-0784
+04/08/2022
+ N/I PRIORIDADE: 6.0
+ (41) 98831-6326
+19/07/2017
+ N/I PRIORIDADE: 5.0
+ (41) 33836-203
+29/07/2013
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 98738-3710
+19/07/2017
+ 04/08/2022 PRIORIDADE: 3.0
+ (41) 33828-256
+06/04/2018
+ N/I PRIORIDADE: 2.0
+ (41) 99148-7911
+01/02/2018
+ 23/09/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3383-6203	N/A	ANATEL	
+(41) 3385-2568	N/A	ANATEL	
+(99) 1040496	N/A	ANATEL	
+(99) 1487911	N/A	ANATEL	
+
+[10:06:01] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3586-1602	
+Fixo	1	
+ Inserção: 11/02/2010
+ Recência: 11/10/2015
+ Atualização: 16/05/2020
+—
+(41) 4009-8703	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99529-0790	
+
+[10:06:05]  (41) 98465-3389
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 99703-4253
+08/07/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99745-4188
+27/07/2017
+ 04/08/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 4009-8649	N/A	ANATEL	
+(41) 3382-0931	N/A	ANATEL	
+(41) 3586-1602	N/A	ANATEL
+[10:06:17]  (41) 33851-425
+11/06/2008
+ 07/01/2014 PRIORIDADE: 8.0
+ (41) 99252-9051
+04/10/2013
+ N/I PRIORIDADE: 7.0
+ (41) 30586-482
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99832-7495
+29/03/2019
+ 09/04/2020 PRIORIDADE: 5.0
+ (41) 99264-9162
+06/04/2018
+ N/I PRIORIDADE: 4.0
+ (41) 99171-8794
+04/10/2013
+ N/I PRIORIDADE: 3.0
+ (41) 33827-865
+06/04/2018
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 30812-426
+06/04/2018
+ 09/04/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99171-8794	N/A	ANATEL	
+(41) 99252-9051	N/A	ANATEL	
+(41) 3348-1124	N/A	ANATEL	
+(41) 3282-9310	N/A	ANATEL	
+(41) 3385-1425	N/A
+[10:06:42] 05531743000101
+[10:06:58] (41) 2169-5110
+[10:07:05]  (41) 33851-425
+11/06/2008
+ 07/01/2014 PRIORIDADE: 8.0
+ (41) 99252-9051
+04/10/2013
+ N/I PRIORIDADE: 7.0
+ (41) 30586-482
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99832-7495
+29/03/2019
+ 09/04/2020 PRIORIDADE: 5.0
+ (41) 99264-9162
+06/04/2018
+ N/I PRIORIDADE: 4.0
+ (41) 99171-8794
+04/10/2013
+ N/I PRIORIDADE: 3.0
+ (41) 33827-865
+06/04/2018
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 30812-426
+06/04/2018
+ 09/04/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99171-8794	N/A	ANATEL	
+(41) 99252-9051	N/A	ANATEL	
+(41) 3348-1124	N/A	ANATEL	
+(41) 3282-9310	N/A	ANATEL	
+(41) 3385-1425	N/A
+[10:07:14] (41) 3098-3328	
+Fixo	1	
+ Inserção: 31/07/2016
+ Recência: 27/07/2015
+ Atualização: 31/07/2016
+—
+(41) 98503-8948	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 2105-9021	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 98856-4823	
+Celular
+[10:07:21]  TELEFONES
+ (41) 30983-328
+27/11/2014
+ 11/04/2022 PRIORIDADE: 3.0
+ (41) 30354-009
+23/04/2014
+ 12/05/2014 PRIORIDADE: 2.0
+ (41) 35569-175
+17/08/2022
+ N/I PRIORIDADE: 1.0
+ (41) 30353-267
+15/12/2014
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98503-8978	N/A	ANATEL	
+(41) 3098-3328	N/A	ANATEL	
+(41) 3035-3267	N/A	ANATEL	
+(41) 3282-2947	N/A	ANATEL	
+(41) 3035-4009
+[10:07:29] (41) 3376-8662	
+Fixo	2	
+ Inserção: 20/02/2010
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+—
+(41) 98412-8389	
+Celular	3	
+ Inserção: 02/06/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(42) 98416-9564	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99204-3552	
+Celular	2	
+ Inserção: 24/04/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3314-6700	
+Fixo	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 3377-4602	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 05/11/2010
+ Atualização: 16/05/2020
+—
+(41) 98418-8662	
+Celular	1
+[10:07:35]  (41) 32865-452
+04/01/2011
+ 08/10/2015 PRIORIDADE: 7.0
+ (41) 99204-3552
+23/01/2016
+ 23/04/2020 PRIORIDADE: 6.0
+ (41) 33768-662
+15/12/2014
+ 23/04/2020 PRIORIDADE: 5.0
+ (41) 98412-8389
+18/07/2013
+ 23/04/2020 PRIORIDADE: 4.0
+ (42) 98416-9564
+23/08/2016
+ 23/04/2020 PRIORIDADE: 3.0
+ (41) 33774-602
+23/08/2016
+ 23/04/2020 PRIORIDADE: 2.0
+ (41) 33146-700
+23/01/2018
+ 05/04/2018 PRIORIDADE: 1.0
+ (41) 33764-808
+13/05/2008
+ 21/08/2020
+ (41) 98418-8662
+15/12/2009
+ 21/08/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3376-4808	N/A	ANATEL	
+(41) 98418-8662	N/A	ANATEL	
+(42) 98416-9564	N/A	ANATEL	
+(41) 99204-3552	N/A	ANATEL	
+(41) 98412-8389	N/A
+[10:07:46] 
+Telefone	Tipo	Ranking	Datas	Contato
+(81) 3341-9583	
+Fixo	1	
+ Inserção: 09/02/2010
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3343-3999	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3974-6400	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(81) 99537-7887	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 04/08/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(81) 99637-0187	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 25/01/2017
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(81) 3061-2510	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 19/08/2010
+ Atualização: 16/05/2020
+—
+(81) 3077-2237	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3461-9703	
+Fixo	
+[10:07:53]  (81) 34619-703
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (81) 99637-0187
+09/02/2017
+ 09/04/2020 PRIORIDADE: 2.0
+ (81) 33433-999
+22/11/2006
+ 10/09/2019 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(81) 99637-0250	N/A	ANATEL	
+(81) 3341-9583	N/A	ANATEL	
+(81) 99537-7887	N/A	ANATEL	
+(81) 3343-3999	N/A	ANATEL	
+(81) 99637-0187	N/A	ANATEL	
+
+[10:08:01] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3283-2545	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 14/02/2010
+ Atualização: 14/02/2010
+—
+(41) 3306-0029	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 3146-6003	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 13/06/2019
+ Atualização: 16/05/2020
+—
+
+[10:08:07]  (41) 32833-734
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 33859-707
+27/07/2017
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-4369	N/A	ANATEL	
+(41) 3283-2545	N/A	ANATEL	
+
+[10:08:17] (31) 3352-9635	
+Fixo	1	
+ Inserção: 25/02/2010
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+—
+(31) 98668-6579	
+Celular	1	
+ Inserção: 01/06/2012
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 99250-9757	
+Celular	4	
+ Inserção: 19/10/2017
+ Recência: 12/09/2024
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99226-1009	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99300-4900	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3398-6579	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 22/07/2011
+ Atualização: 16/05/2020
+—
+(31) 99245-7696	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/07/2012
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3519-1990	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(31) 97110-9293	
+Celular	1	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98467-5548	
+Celular	3	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 24/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98391-7132	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 30/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 99930-0490	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/0
+[10:08:25]  (31) 33986-579
+05/03/2009
+ 08/01/2019 PRIORIDADE: 6.0
+ (31) 32828-536
+17/08/2022
+ N/I PRIORIDADE: 5.0
+ (31) 99930-0490
+01/08/2022
+ 26/09/2023 PRIORIDADE: 4.0
+ (31) 33529-635
+22/11/2006
+ 08/01/2019 PRIORIDADE: 3.0
+ (31) 35191-968
+07/03/2022
+ N/I PRIORIDADE: 2.0
+ (31) 99250-9757
+01/02/2018
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(31) 98668-6579	N/A	ANATEL	
+(31) 99226-1009	N/A	ANATEL	
+(31) 3519-1990	N/A	ANATEL	
+(31) 2559-0347	N/A	ANATEL	
+(31) 99245-7696	N/A	ANATEL	
+(98) 3917132	N/A	ANATEL	
+(99) 2509757	N/A	ANATEL	
+(99) 3004900	N/A
+[10:08:35] (41) 3376-2026	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 98704-1712	
+
+[10:08:39]  (41) 33835-462
+17/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 99646-8532
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 98838-5001
+30/09/2021
+ 24/11/2021 PRIORIDADE: 2.0
+ (41) 98704-1712
+06/04/2018
+ 24/11/2021 PRIORIDADE: 1.0
+[10:08:41] TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-6980	N/A	ANATEL	
+(98) 7041712
+[10:08:52] 
+Telefone	Tipo	Ranking	Datas	Contato
+(35) 3212-7910	
+Fixo	6	
+ Inserção: 03/09/2013
+ Recência: 26/09/2015
+ Atualização: 16/05/2020
+—
+(71) 3285-5204	
+Fixo	4	
+ Inserção: 15/02/2010
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+—
+(71) 3364-1506	
+Fixo	7	
+ Inserção: 05/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(11) 5979-2261	
+Fixo	8	
+ Inserção: 18/02/2010
+ Recência: 18/02/2010
+ Atualização: 18/02/2010
+—
+(41) 3382-3069	
+Fixo	5	
+ Inserção: 16/05/2020
+ Recência: 09/10/2016
+ Atualização: 16/05/2020
+—
+(41) 91007-9897	
+Celular	3	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99754-2537	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98508-5747	
+Celular	1	
+ Inserção: 19/04/2023
+ Recência: 12/09/2024
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98738-6357	
+Celular
+[10:08:57]  (35) 32127-910
+26/12/2012
+ 07/01/2020 PRIORIDADE: 7.0
+ (71) 33641-506
+26/12/2012
+ 29/04/2019 PRIORIDADE: 6.0
+ (35) 32129-604
+05/03/2009
+ 09/07/2018 PRIORIDADE: 5.0
+ (71) 32855-204
+16/04/2009
+ 23/01/2018 PRIORIDADE: 4.0
+ (41) 33811-714
+09/09/2015
+ 08/10/2015 PRIORIDADE: 3.0
+ (41) 33823-069
+09/10/2015
+ 06/12/2018 PRIORIDADE: 2.0
+ (41) 99754-2537
+06/03/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(38) 3212-7910	N/A	ANATEL	
+(41) 3381-1714	N/A	ANATEL	
+(41) 99286-2138	N/A	ANATEL	
+(11) 5979-2261	N/A	ANATEL	
+(35) 3212-9604	N/
+[10:09:04] (48) 99110-5841	
+Celular	1	
+ Inserção: 05/05/2018
+ Recência: 05/05/2018
+ Atualização: 05/05/2018
+Não confirmado
+Abrir WhatsApp
+(49) 3527-5100	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(48) 99823-2250	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99894-4336	
+Celular	
+[10:09:11]  TELEFONES
+ (48) 99823-2250
+29/03/2019
+ N/I PRIORIDADE: 2.0
+ (41) 99894-4336
+26/10/2022
+ N/I PRIORIDADE: 1.0
+ (49) 35275-100
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99132-2192	N/A	ANATEL	
+(49) 3435-0181	N/A	ANATEL	
+(48) 99110-5841	N/
+[10:09:22] (41) 3058-1250	
+Fixo	2	
+ Inserção: 19/09/2014
+ Recência: 07/02/2011
+ Atualização: 16/05/2020
+—
+(41) 99954-2703	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98482-3524	
+Celular	2	
+ Inserção: 20/10/2017
+ Recência: 25/10/2011
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3361-6629	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 05/07/2010
+ Atualização: 16/05/2020
+—
+(41) 3330-2356	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 09/08/2012
+ Atualização: 16/05/2020
+—
+(41) 99290-2703	
+Celular	
+[10:09:28]  (41) 99954-2703
+29/03/2019
+ N/I PRIORIDADE: 11.0
+ (41) 99788-4245
+27/07/2017
+ N/I PRIORIDADE: 10.0
+ (41) 30818-196
+15/12/2014
+ 06/04/2018 PRIORIDADE: 9.0
+ (41) 33982-738
+15/12/2014
+ N/I PRIORIDADE: 8.0
+ (41) 30581-250
+22/03/2011
+ 06/08/2019 PRIORIDADE: 7.0
+ (41) 33616-629
+23/08/2016
+ 23/01/2018 PRIORIDADE: 6.0
+ (41) 33854-250
+15/12/2014
+ 23/01/2018 PRIORIDADE: 5.0
+ (41) 33824-580
+30/09/2021
+ N/I PRIORIDADE: 4.0
+ (41) 98845-3480
+19/07/2017
+ N/I PRIORIDADE: 3.0
+ (41) 33302-356
+15/02/2018
+ N/I PRIORIDADE: 2.0
+ (41) 99112-3524
+27/07/2017
+ 30/09/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98841-2274	N/A	ANATEL	
+(41) 3058-1250	N/A	ANATEL	
+(41) 3385-4250	N/A	ANATEL	
+(41) 3081-8196	N/A	ANATEL	
+(41) 3361-6629	N/A
+[10:10:30] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-2357	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3398-8381	
+Fixo	4	
+ Inserção: 11/02/2010
+ Recência: 11/02/2010
+ Atualização: 11/02/2010
+—
+(41) 3388-9898	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99196-9808	
+Celular
+[10:10:35]  (41) 33820-906
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99219-2023
+18/03/2015
+ 04/08/2022 PRIORIDADE: 5.0
+ (41) 32820-630
+21/10/2014
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 33857-143
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 99103-1718
+04/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99196-9808
+15/02/2021
+ 13/07/2022 PRIORIDADE: 1.0
+ (41) 33836-067
+21/10/2014
+ 09/12/2014
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99219-2023	N/A	ANATEL	
+(41) 3383-6067	N/A	ANATEL	
+(41) 3382-0906	N/A	ANATEL	
+(41) 3398-8381	N/A	ANATEL	
+(41) 3282-0630
+[10:11:01] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 3758-8673	
+Fixo	7	
+ Inserção: 31/01/2011
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(73) 3203-3600	
+Fixo	4	
+ Inserção: 19/02/2010
+ Recência: 26/09/2015
+ Atualização: 15/05/2020
+—
+(51) 3388-3287	
+Fixo	17	
+ Inserção: 20/10/2009
+ Recência: 01/12/2013
+ Atualização: 01/12/2013
+—
+(11) 3856-2601	
+Fixo	8	
+ Inserção: 09/09/2010
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 97608-0326	
+Celular	6	
+ Inserção: 11/06/2012
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99245-2128	
+Celular	5	
+ Inserção: 17/02/2010
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99611-5619	
+Celular	3	
+ Inserção: 15/05/2020
+ Recência: 05/05/2017
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 99489-8490	
+Celular	18	
+ Inserção: 15/05/2020
+ Recência: 09/09/2011
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 2203-3600	
+Fixo	12	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 3473-0082	
+Fixo	9	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 2532-5436	
+Fixo	13	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 99489-8464	
+Celular	10	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 3759-0082	
+Fixo	15	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 2532-5428	
+Fixo	11	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+—
+(11) 99489-8494	
+Celular	16	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(51) 99155-4309	
+Celular	14	
+ Inserção: 15/05/2020
+ Recência: 22/01/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 98093-5369	
+Celular	1	
+ Inserção: 12/04/2023
+ Recência: 12/09/2024
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 97992-1512	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ At
+[10:11:07] 
+ TELEFONES
+ (11) 37588-673
+21/05/2014
+ 12/09/2016 PRIORIDADE: 5.0
+ (51) 33883-287
+11/06/2008
+ 09/12/2019 PRIORIDADE: 4.0
+ (11) 40728-711
+06/01/2016
+ 24/05/2016 PRIORIDADE: 3.0
+ (13) 98824-6798
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (11) 34730-082
+30/11/2023
+ N/I PRIORIDADE: 1.0
+ (21) 22033-600
+15/04/2010
+ 09/12/2019
+ (11) 37582-969
+07/01/2011
+ 09/12/2019
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 99489-8494	N/A	ANATEL	
+(11) 99489-8464	N/A	ANATEL	
+(11) 99245-2128	N/A	ANATEL	
+(11) 97608-0326	N/A	ANATEL	
+(11) 3758-2969	N/A	ANATEL	
+(97) 9921512	N/A	ANATEL	
+(98) 0935369	N/A	ANATEL
+[10:11:19] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 3257-0113	
+Fixo	6	
+ Inserção: 22/02/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 98141-9163	
+Celular	2	
+ Inserção: 21/02/2010
+ Recência: 13/04/2017
+ Atualização: 18/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 98517-6625	
+Celular	5	
+ Inserção: 11/03/2013
+ Recência: 26/03/2013
+ Atualização: 26/03/2013
+Não confirmado
+Abrir WhatsApp
+(11) 99305-7781	
+Celular	3	
+ Inserção: 21/02/2010
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 2369-5464	
+Fixo	4	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(11) 98351-9388	
+Celular	1
+[10:11:24] (11) 98351-9388
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (11) 21221-283
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (11) 23695-464
+05/05/2012
+ 06/12/2018 PRIORIDADE: 2.0
+ (11) 32570-113
+15/04/2010
+ 18/06/2019 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 98346-9940	N/A	ANATEL	
+(11) 99305-7781	N/A	ANATEL	
+(11) 98517-6625	N/A	ANATEL	
+(11) 98141-9163	N/A	ANATEL	
+(11) 3257-0113
+[10:11:33] Telefone	Tipo	Ranking	Datas	Contato
+(41) 3404-4398	
+Fixo	8	
+ Inserção: 17/11/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3282-2556	
+Fixo	9	
+ Inserção: 15/10/2009
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 3283-2277	
+Fixo	10	
+ Inserção: 20/10/2009
+ Recência: 20/10/2009
+ Atualização: 20/10/2009
+—
+(41) 91023-1717	
+Celular	7	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 91022-9136	
+Celular	6	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98823-4856	
+Celular	1	
+ Inserção: 17/04/2023
+ Recência: 12/09/2024
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 91021-6363	
+Celular	5	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99155-2375	
+Celular	3	
+ Inserção: 10/08/2023
+ Recência: 26/12/2024
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99109-3337	
+Celular	4	
+ Inserção: 10/08/2023
+ Recência: 26/12/2024
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99167-6660	
+Celular	
+[10:11:41]  TELEFONES
+ (41) 98823-4856
+19/07/2017
+ N/I PRIORIDADE: 4.0
+ (41) 34044-398
+27/11/2014
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 35861-617
+06/01/2012
+ 18/03/2015 PRIORIDADE: 2.0
+ (41) 98429-5887
+27/07/2017
+ 09/04/2020 PRIORIDADE: 1.0
+ (41) 33988-163
+02/11/2011
+ 05/06/2012
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-8163	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-6573	N/A	ANATEL	
+(41) 3404-4398	N/A	ANATEL	
+(41) 99155-2375	N/A	ANATEL	
+(99) 1552375	N/A	
+[10:11:50] (41) 3283-7695	
+Fixo	1	
+ Inserção: 20/11/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 99152-6593	
+Celular	4	
+ Inserção: 02/06/2012
+ Recência: 13/04/2017
+ Atualização: 17/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3385-7646	
+Fixo	1	
+ Inserção: 15/10/2009
+ Recência: 13/03/2013
+ Atualização: 15/05/2020
+—
+(41) 99122-0367	
+Celular	3	
+ Inserção: 14/10/2010
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99147-9452	
+Celular	2	
+ Inserção: 30/05/2012
+ Recência: 20/04/2016
+ Atualização: 11/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99109-8581	
+Celular	1	
+ Inserção: 01/01/2012
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 3385-2905	
+Fixo	1	
+ Inserção: 17/10/2014
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3587-0435	
+Fixo	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 3035-8100	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99123-6127	
+Celular	
+[10:11:56]  (41) 33857-646
+28/08/2006
+ 06/12/2018 PRIORIDADE: 4.0
+ (41) 33852-905
+02/07/2015
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 32837-695
+20/08/2015
+ 20/03/2018 PRIORIDADE: 2.0
+ (41) 99152-6593
+18/07/2013
+ 06/04/2018 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99152-6593	N/A	ANATEL	
+(41) 99122-0367	N/A	ANATEL	
+(41) 99109-8581	N/A	ANATEL	
+(41) 3283-7695	N/A	ANATEL	
+(41) 3385-2905	N/A	ANATEL	
+(99) 1526593	N/A
+[10:12:04] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3035-3011	
+Fixo	10	
+ Inserção: 15/10/2009
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 3224-3728	
+Fixo	11	
+ Inserção: 20/10/2009
+ Recência: 20/10/2009
+ Atualização: 20/10/2009
+—
+(41) 98721-0863	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 12/09/2024
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99227-9783	
+Celular	9	
+ Inserção: 24/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 3525-5300	
+Fixo	8	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 99776-7475	
+Celular	7	
+ Inserção: 15/05/2020
+ Recência: 27/05/2025
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 98861-7093	
+Celular	6	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98857-1513	
+Celular	5	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 3373-5582	
+Fixo	4	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3264-1600	
+Fixo	3	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3084-0342	
+Fixo	2	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+[10:12:09]  (41) 30353-011
+28/08/2006
+ 01/02/2008 PRIORIDADE: 5.0
+ (41) 98861-7093
+05/03/2009
+ 30/01/2013 PRIORIDADE: 4.0
+ (41) 36066-854
+05/03/2009
+ 05/03/2009 PRIORIDADE: 3.0
+ (41) 30840-342
+05/05/2012
+ 10/03/2020 PRIORIDADE: 2.0
+ (41) 99776-7475
+07/09/2016
+ 23/04/2020 PRIORIDADE: 1.0
+ (41) 21058-000
+15/12/2014
+ N/I
+ (41) 32641-975
+15/02/2018
+ 23/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98721-0863	N/A	ANATEL	
+(41) 98861-7093	N/A	ANATEL	
+(41) 99776-7475	N/A	ANATEL	
+(41) 99227-9783	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(99) 7767475
+[10:12:16] (41) 3098-0660	
+Fixo	1	
+ Inserção: 03/12/2014
+ Recência: 06/07/2016
+ Atualização: 15/05/2020
+—
+(55) 3411-1824	
+Fixo	1	
+ Inserção: 20/10/2009
+ Recência: 24/06/2015
+ Atualização: 15/05/2020
+—
+(41) 3098-6691	
+Fixo	1	
+ Inserção: 09/12/2014
+ Recência: 27/10/2015
+ Atualização: 29/07/2016
+—
+(41) 99847-1923	
+Celular	3	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98471-9235	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98535-8157	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(55) 99933-0092	
+Celular	1	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(55) 99664-8915	
+Celular	2	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99172-7758	
+Celular	1
+[10:12:21]  TELEFONES
+ (55) 34111-824
+02/12/2009
+ 06/01/2021 PRIORIDADE: 6.0
+ (41) 99106-4809
+19/07/2017
+ N/I PRIORIDADE: 5.0
+ (41) 30986-691
+20/08/2015
+ 07/11/2022 PRIORIDADE: 4.0
+ (55) 99664-8915
+19/07/2017
+ N/I PRIORIDADE: 3.0
+ (41) 30980-660
+01/07/2014
+ 31/05/2023 PRIORIDADE: 2.0
+ (41) 98535-8157
+[10:12:23] TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3098-6691	N/A	ANATEL	
+(41) 3098-0660	N/A	ANATEL	
+(55) 3411-1824
+[10:12:30] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 99631-1754	
+Celular	6	
+ Inserção: 31/01/2014
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 98435-4955	
+Celular	7	
+ Inserção: 23/02/2010
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99184-8963	
+Celular	5	
+ Inserção: 24/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99174-9272	
+Celular	4	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 23/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99152-7060	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 27/05/2025
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99122-0966	
+Celular	3	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 24/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99151-1754	
+Celular	2	
+ Inserção: 10/08/2023
+[10:12:38] 41) 99151-1457
+07/06/2013
+ N/I PRIORIDADE: 3.0
+ (41) 99842-3018
+08/07/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99631-1754
+11/04/2022
+ N/I PRIORIDADE: 1.0
+ (41) 33841-483
+13/02/2008
+ 06/04/2018
+ (41) 99151-1754
+[10:12:39] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99184-8963	N/A	ANATEL	
+(41) 99631-1754	N/A	ANATEL	
+(41) 98435-4955	N/A	ANATEL	
+(41) 99151-1457	N/A	ANATEL	
+(41) 99151-1754	N/A	ANATEL	
+(99) 8469907	N/A	ANATEL	
+(99) 1527060	N/A	ANATEL	
+
+[10:12:47] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 98853-5494	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 12/09/2024
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 98874-5941	
+Celular	5	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 3248-3784	
+Fixo	4	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99538-2251	
+Celular	3	
+ Inserção: 19/11/2021
+ Recência: 27/05/2025
+ Atualização: 19/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98474-6498	
+Celular	
+[10:12:53]  (41) 99984-7798
+28/04/2021
+ N/I PRIORIDADE: 2.0
+ (41) 98474-6498
+19/05/2016
+ 05/04/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98853-5494	N/A	ANATEL	
+(41) 98874-5941	N/A	ANATEL	
+(41) 98474-6498	N/A	ANATEL	
+(99) 5382251	N/A
+[10:13:00] 
+Telefone	Tipo	Ranking	Datas	Contato
+(54) 3358-4505	
+Fixo	1	
+ Inserção: 03/02/2010
+ Recência: 03/02/2010
+ Atualização: 03/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(54) 3358-8188	
+Fixo	1	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3283-5509	
+Fixo
+[10:13:07] (54) 3358-4505	N/A	ANATEL	
+(41) 3398-1479	N/A	ANATEL	
+(54) 3358-8188
+[10:13:15] 
+Telefone	Tipo	Ranking	Datas	Contato
+(85) 3296-0954	
+Fixo	8	
+ Inserção: 18/11/2010
+ Recência: 13/04/2017
+ Atualização: 17/10/2017
+—
+(41) 99601-9509	
+Celular	15	
+ Inserção: 14/06/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+Não confirmado
+Abrir WhatsApp
+(41) 3010-4514	
+Fixo	12	
+ Inserção: 31/07/2016
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3348-1268	
+Fixo	11	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 98515-1520	
+Celular	10	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98415-1520	
+Celular	9	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3408-0449	
+Fixo	14	
+ Inserção: 15/05/2020
+ Recência: 29/11/2014
+ Atualização: 15/05/2020
+—
+(41) 99750-7247	
+Celular	7	
+ Inserção: 15/05/2020
+ Recência: 25/09/2017
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99829-3558	
+Celular	13	
+ Inserção: 15/05/2020
+ Recência: 05/08/2016
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3564-6259	
+Fixo	4	
+ Inserção: 03/02/2022
+ Recência: 03/02/2022
+ Atualização: 03/02/2022
+—
+(41) 3533-3316	
+Fixo	6	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 3287-5206	
+Fixo	5	
+ Inserção: 19/11/2021
+ Recência: 19/11/2021
+ Atualização: 19/11/2021
+—
+(41) 91006-8466	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98725-6251	
+Celular	2	
+ Inserção: 16/04/2023
+ Recência: 16/04/2023
+ Atualização: 17/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98728-5115	
+Celular
+[10:13:22]  (41) 34080-449
+07/12/2015
+ 08/04/2020 PRIORIDADE: 13.0
+ (41) 35646-259
+16/06/2011
+ 14/10/2013 PRIORIDADE: 12.0
+ (85) 32960-954
+16/04/2009
+ 31/03/2020 PRIORIDADE: 11.0
+ (41) 32875-206
+12/03/2011
+ 18/03/2015 PRIORIDADE: 10.0
+ (11) 20741-862
+15/12/2014
+ N/I PRIORIDADE: 9.0
+ (41) 30859-100
+15/12/2014
+ N/I PRIORIDADE: 8.0
+ (41) 98502-1880
+22/10/2010
+ 29/03/2011 PRIORIDADE: 7.0
+ (41) 34055-560
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 33481-268
+29/12/2014
+ 10/10/2018 PRIORIDADE: 5.0
+ (41) 99601-9509
+15/01/2016
+ 22/01/2016 PRIORIDADE: 4.0
+ (41) 98515-1520
+05/05/2017
+ 26/11/2020 PRIORIDADE: 3.0
+ (41) 32774-551
+28/09/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99750-7247
+25/01/2018
+ 13/02/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3010-4514	N/A	ANATEL	
+(41) 99829-3558	N/A	ANATEL	
+(41) 98502-1880	N/A	ANATEL	
+(41) 99601-9509	N/A	ANATEL	
+(41) 3408-0449	N/A
+[10:13:31] 
+Telefone	Tipo	Ranking	Datas	Contato
+(54) 3358-2890	
+Fixo	11	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 98701-1551	
+Celular	9	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 98704-0859	
+Celular	10	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99199-0460	
+Celular	7	
+ Inserção: 02/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99137-5527	
+Celular	6	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 99543-8186	
+Celular	4	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3084-5424	
+Fixo	5	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 3376-2026	
+Fixo	8	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 3385-0827	
+Fixo	3	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3384-2895	
+Fixo	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 3035-1269	
+Fixo	1	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/
+[10:13:36]  (41) 30845-424
+03/04/2017
+ 02/09/2020 PRIORIDADE: 4.0
+ (41) 30351-269
+04/06/2012
+ 28/05/2015 PRIORIDADE: 3.0
+ (41) 33850-827
+11/03/2015
+ 28/05/2015 PRIORIDADE: 2.0
+ (41) 99543-8186
+19/05/2022
+ 04/07/2022 PRIORIDADE: 1.0
+ (41) 33762-026
+15/02/2018
+ 23/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98701-1551	N/A	ANATEL	
+(41) 98704-0859	N/A	ANATEL	
+(41) 99199-0460	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3084-5424	N/A
+[10:13:43] (41) 3627-3350	
+Fixo	1	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99642-8663	
+
+[10:13:47]  (87) 33724-603
+24/03/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99642-8663
+24/03/2023
+ N/I PRIORIDADE: 1.0
+
+[10:13:49] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99642-8663	N/A	ANATEL	
+(41) 3627-3350	N/A	ANATEL	
+
+[10:13:57] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3276-4941	
+Fixo	9	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3282-7168	
+Fixo	7	
+ Inserção: 20/10/2009
+ Recência: 08/01/2013
+ Atualização: 15/05/2020
+—
+(41) 3383-8913	
+Fixo	6	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99199-3501	
+Celular	5	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 2105-9002	
+Fixo	8	
+ Inserção: 15/05/2020
+ Recência: 12/06/2011
+ Atualização: 15/05/2020
+—
+(41) 99986-6042	
+Celular	4	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 22/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99839-9539	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99925-4361	
+Celular	3	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99945-8978	
+Celular	
+[10:14:06]  (41) 32827-168
+13/05/2008
+ 06/08/2019 PRIORIDADE: 4.0
+ (41) 36780-509
+17/08/2022
+ N/I PRIORIDADE: 3.0
+ (41) 99199-3501
+05/04/2018
+ N/I PRIORIDADE: 2.0
+ (41) 33838-913
+23/01/2018
+ 05/04/2018 PRIORIDADE: 1.0
+ (41) 32764-941
+22/11/2006
+ 05/03/2009
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99945-8978	N/A	ANATEL	
+(41) 3282-7168	N/A	ANATEL	
+(41) 2105-9002	N/A	ANATEL	
+(41) 3276-4941	N/A	ANATEL	
+(99) 9866042	N/A	ANATEL	
+
+[10:14:15] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3282-4240	
+Fixo	7	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3282-7164	
+Fixo	4	
+ Inserção: 05/12/2010
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 99155-3422	
+Celular	5	
+ Inserção: 25/11/2010
+ Recência: 12/09/2024
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99163-0197	
+Celular	3	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3282-6471	
+Fixo	6	
+ Inserção: 15/05/2020
+ Recência: 23/06/2011
+ Atualização: 15/05/2020
+—
+(41) 98423-5430	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 18/04/2023
+ Atualização: 01/06/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98423-3336	
+Celular	1	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 13/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98887-2509	
+Celular	
+[10:14:21]  TELEFONES
+ (41) 32824-240
+19/04/2011
+ 15/01/2016 PRIORIDADE: 7.0
+ (41) 99163-0197
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 32833-159
+15/12/2014
+ N/I PRIORIDADE: 5.0
+ (41) 32839-388
+17/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 32826-471
+04/05/2020
+ N/I PRIORIDADE: 3.0
+ (41) 32827-164
+04/05/2020
+ N/I PRIORIDADE: 2.0
+ (41) 99155-3422
+04/05/2020
+ N/I PRIORIDADE: 1.0
+ (11) 30388-100
+19/01/2011
+ 20/01/2011
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99155-3422	N/A	ANATEL	
+(41) 3282-4240	N/A	ANATEL	
+(41) 3312-5400	N/A	ANATEL	
+(11) 3038-8100	N/A	ANATEL	
+(41) 3282-7164	N/A	ANATEL	
+(98) 8872509	N/A	ANATEL	
+(98) 8866914	N/A	ANATEL	
+(99) 1553422	N/A	ANATEL	
+(99) 1630197	N/A	ANATEL	
+(98) 8871865	N/A	ANATEL	
+(98) 4233336	N/A
+[10:14:28] Telefone	Tipo	Ranking	Datas	Contato
+(41) 3587-0614	
+Fixo	1	
+ Inserção: 15/10/2009
+ Recência: 09/10/2016
+ Atualização: 15/05/2020
+—
+(41) 3306-2289	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99984-6914	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 04/08/2016
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99772-8986	
+Celular	1	
+ Inserção: 15/05/2020
+ Recência: 27/05/2025
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3062-2076	
+Fixo	1	
+ Inserção: 03/02/2022
+ Recência: 03/02/2022
+ Atualização: 03/02/2022
+—
+(41) 91005-3420	
+Celular	1
+[10:14:42]  (41) 35562-092
+31/03/2015
+ 26/09/2017 PRIORIDADE: 6.0
+ (41) 99772-8986
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 99673-3476
+04/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 35870-270
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 35870-614
+28/08/2006
+ 29/03/2023 PRIORIDADE: 2.0
+ (41) 99984-6914
+09/02/2017
+ 04/08/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99984-6914	N/A	ANATEL	
+(41) 99772-8986	N/A	ANATEL	
+(41) 3062-2076	N/A	ANATEL	
+(41) 3556-2092	N/A	ANATEL	
+(41) 3587-0614	N/A	ANATEL	
+(99) 7728986
+[10:14:50] (41) 99619-8430	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 25/06/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3246-2399	
+Fixo	2	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 4106-0046	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 99102-2026	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99111-0111	
+
+[10:14:59]  (41) 32755-753
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 33755-753
+05/03/2009
+ 05/03/2009 PRIORIDADE: 2.0
+ (41) 33296-520
+05/03/2009
+ 30/10/2014 PRIORIDADE: 1.0
+ (41) 30245-976
+14/11/2006
+ 10/04/2015
+ (41) 32756-953
+22/11/2006
+ 10/02/2015
+ (41) 99111-0111
+30/11/2023
+ N/I
+ (41) 30392-734
+30/11/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99111-0111	N/A	ANATEL	
+(41) 99619-8430	N/A	ANATEL	
+(41) 3275-6953	N/A	ANATEL	
+(41) 3024-5976	N/A	ANATEL	
+(41) 3275-5753	N/A	ANATEL	
+(99) 1022026	N/A	ANATEL	
+(99) 1110111	N/A	ANATEL	
+
+[10:18:57] (41) 99619-8430	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 25/06/2015
+ Atualização: 15/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3246-2399	
+Fixo	2	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 4106-0046	
+Fixo	1	
+ Inserção: 15/05/2020
+ Recência: 18/08/2017
+ Atualização: 15/05/2020
+—
+(41) 99102-2026	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99111-0111	
+Celular
+[10:19:02]  TELEFONES
+ (41) 32755-753
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 33755-753
+05/03/2009
+ 05/03/2009 PRIORIDADE: 2.0
+ (41) 33296-520
+05/03/2009
+ 30/10/2014 PRIORIDADE: 1.0
+ (41) 30245-976
+14/11/2006
+ 10/04/2015
+ (41) 32756-953
+22/11/2006
+ 10/02/2015
+ (41) 99111-0111
+30/11/2023
+ N/I
+ (41) 30392-734
+30/11/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99111-0111	N/A	ANATEL	
+(41) 99619-8430	N/A	ANATEL	
+(41) 3275-6953	N/A	ANATEL	
+(41) 3024-5976	N/A	ANATEL	
+(41) 3275-5753	N/A	ANATEL	
+(99) 1022026	N
+[10:19:04] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99111-0111	N/A	ANATEL	
+(41) 99619-8430	N/A	ANATEL	
+(41) 3275-6953	N/A	ANATEL	
+(41) 3024-5976	N/A	ANATEL	
+(41) 3275-5753	N/A	ANATEL	
+(99) 1022026	N/A	ANATEL	
+(99) 1110111
+[10:19:12]  (41) 98464-8557
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 33832-204
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (41) 98498-4165
+15/11/2019
+ N/I PRIORIDADE: 1.0
+ (41) 33825-366
+06/08/2010
+ 15/11/2019
+ (41) 35860-621
+06/08/2010
+ 15/11/2019
+ (41) 33762-026
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3586-0621	N/A	ANATEL	
+(41) 3382-5366	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3382-1533	N/A	ANATEL	
+(41) 3384-2162	N/A
+[10:19:20] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 99216-8391	
+Celular	3	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 3381-5000	
+Fixo	2	
+ Inserção: 15/05/2020
+ Recência: 01/02/2016
+ Atualização: 15/05/2020
+—
+(41) 99516-0746	
+Celular	1
+[10:19:26]  TELEFONES
+ (41) 99657-6156
+26/09/2010
+ 19/11/2011 PRIORIDADE: 7.0
+ (41) 33989-609
+08/04/2011
+ 13/12/2012 PRIORIDADE: 6.0
+ (41) 36384-282
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 33837-325
+06/04/2018
+ N/I PRIORIDADE: 4.0
+ (41) 99999-3371
+06/04/2018
+ 30/09/2021 PRIORIDADE: 3.0
+ (41) 32827-873
+03/01/2012
+ 06/01/2012 PRIORIDADE: 2.0
+ (41) 99516-0746
+24/11/2021
+ 20/09/2023 PRIORIDADE: 1.0
+ (41) 33826-545
+08/07/2021
+ 30/09/2021
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 96576-1560	N/A	ANATEL	
+(41) 99216-8391	N/A	ANATEL	
+(41) 99657-6156	N/A	ANATEL	
+(41) 3382-6545	N/A	ANATEL	
+(41) 3398-9609	N/A	ANATEL	
+(99) 5160746	N/A	ANATEL
+[10:19:47] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 98898-9771	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(47) 3431-4700	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99285-2757	
+
+[10:19:53]  (15) 98150-4766
+11/03/2013
+ 21/08/2013 PRIORIDADE: 1.0
+ (47) 34314-700
+04/05/2020
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(15) 98150-4766	N/A	ANATEL	
+(41) 98898-9771	N/A	ANATEL	
+(99) 2852757	N/A	ANATEL	
+
+[10:20:10] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3834-1215	
+Fixo	4	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3384-1277	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99696-0236	
+Celular	1	
+ Inserção: 16/04/2023
+ Recência: 12/09/2024
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99225-8054	
+Celular	2	
+ Inserção: 10/08/2023
+ Recência: 26/12/2024
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+
+[10:20:16]  TELEFONES
+ (41) 31463-845
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 98726-3459
+24/11/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99225-8054
+08/05/2017
+ 04/08/2022 PRIORIDADE: 1.0
+ (41) 32833-849
+08/04/2011
+ 30/09/2019
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99235-0966	N/A	ANATEL	
+(41) 99225-8054	N/A	ANATEL	
+(41) 3634-1215	N/A	ANATEL	
+(41) 3283-3849
+[10:20:22] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+
+[10:20:27]  (12) 39239-640
+08/06/2022
+ N/I PRIORIDADE: 2.0
+ (42) 36249-814
+08/06/2022
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 4074-5450	N/A	ANATEL	
+
+[10:20:34] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3019-4679	
+Fixo	5	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 29/07/2016
+—
+(41) 3598-0741	
+Fixo	6	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(41) 3598-0742	
+Fixo	8	
+ Inserção: 19/09/2014
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+—
+(41) 99670-0741	
+Celular	7	
+ Inserção: 31/10/2012
+ Recência: 03/07/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3278-2191	
+Fixo	9	
+ Inserção: 19/02/2010
+ Recência: 19/02/2010
+ Atualização: 19/02/2010
+—
+(41) 3359-0741	
+Fixo	4	
+ Inserção: 16/05/2016
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 99232-9282	
+Celular	3	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99138-4951	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99811-0397	
+Celular	1	
+ Inserção: 18/
+[10:20:39]  (45) 33590-741
+01/07/2014
+ 23/03/2015 PRIORIDADE: 10.0
+ (45) 30194-679
+01/07/2014
+ 23/03/2015 PRIORIDADE: 9.0
+ (41) 30194-679
+16/09/2012
+ 23/03/2020 PRIORIDADE: 8.0
+ (41) 33590-741
+27/11/2014
+ 23/03/2020 PRIORIDADE: 7.0
+ (41) 30458-639
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (45) 99670-0741
+30/09/2021
+ N/I PRIORIDADE: 5.0
+ (41) 99811-0397
+29/03/2019
+ 30/09/2021 PRIORIDADE: 4.0
+ (41) 35980-741
+22/03/2011
+ 22/02/2019 PRIORIDADE: 3.0
+ (41) 99670-0741
+26/01/2012
+ 16/05/2022 PRIORIDADE: 2.0
+ (41) 35980-742
+21/05/2014
+ 22/02/2019 PRIORIDADE: 1.0
+ (41) 32964-554
+14/05/2012
+ 06/04/2018
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3019-4679	N/A	ANATEL	
+(45) 3359-0741	N/A	ANATEL	
+(41) 99670-0741	N/A	ANATEL	
+(41) 3382-1012	N/A	ANATEL	
+(41) 3296-4554	N/A	ANATEL	
+(99) 8110397	N/A	ANATEL	
+(99) 6700741	N/A
+[10:20:47] (41) 3383-4808	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(41) 99178-3357	
+Celular	1	
+ Inserção: 02/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99710-7113	
+Celular
+[10:20:51]  (41) 33834-808
+24/03/2023
+ N/I PRIORIDADE: 2.0
+ (41) 99710-7113
+24/03/2023
+ N/I PRIORIDADE: 1.0
+[10:20:57] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3282-6634	
+Fixo	1	
+ Inserção: 05/12/2010
+ Recência: 05/12/2010
+ Atualização: 05/12/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99540-4584	
+Celular	1	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 99156-4101	
+Celular	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98767-9739	
+Celular	3	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 98766-3139	
+Celular	4	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+Não confirmado
+Abrir WhatsApp
+(41) 3404-4398	
+Fixo	5	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(41) 99129-1887	
+Celular
+[10:21:04]  (41) 32826-634
+21/11/2011
+ 12/09/2016 PRIORIDADE: 4.0
+ (41) 98827-1983
+27/07/2017
+ 04/08/2022 PRIORIDADE: 3.0
+ (41) 35861-617
+27/07/2017
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 34044-398
+05/04/2016
+ 06/01/2021 PRIORIDADE: 1.0
+ (41) 33988-163
+02/11/2011
+ 07/04/2014
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-8163	N/A	ANATEL	
+(41) 2105-9000	N/A	ANATEL	
+(41) 3382-8480	N/A	ANATEL	
+(41) 3282-6634	N/A	ANATEL	
+(41) 3084-2788	N/A	ANATEL
+[10:21:10] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3282-2816	
+Fixo	1	
+ Inserção: 13/02/2010
+ Recência: 27/06/2015
+ Atualização: 12/05/2020
+—
+(41) 3058-2927	
+Fixo	1	
+ Inserção: 19/09/2014
+ Recência: 27/07/2015
+ Atualização: 30/07/2016
+—
+(41) 3586-0345	
+Fixo	3	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(41) 3282-8927	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 99970-0709	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 27/05/2025
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 99976-6045	
+Celular
+[10:21:15]  TELEFONES
+ (41) 30582-927
+19/04/2011
+ 06/12/2018 PRIORIDADE: 3.0
+ (41) 32828-927
+05/03/2009
+ 23/01/2018 PRIORIDADE: 2.0
+ (41) 99976-6045
+01/02/2018
+ 21/08/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3058-2927	N/A	ANATEL	
+(41) 3282-8927	N/A	ANATEL	
+(41) 3282-2816	N/A	ANATEL	
+(99) 9766045	N/A	ANATEL	
+(99) 9700709	N/A
+[10:21:23] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 99129-6339	
+Celular	5	
+ Inserção: 22/11/2010
+ Recência: 18/10/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99242-4719	
+Celular	6	
+ Inserção: 18/11/2010
+ Recência: 18/10/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3382-6618	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 99642-8444	
+Celular	4	
+ Inserção: 12/05/2020
+ Recência: 11/12/2015
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99831-5841	
+Celular	2	
+ Inserção: 12/05/2020
+ Recência: 12/04/2017
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 98477-4375	
+Celular
+[10:21:28]  TELEFONES
+ (41) 33826-618
+21/05/2013
+ 07/01/2020 PRIORIDADE: 2.0
+ (41) 99642-8444
+09/02/2017
+ 22/11/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99642-8444	N/A	ANATEL	
+(41) 99242-4719	N/A	ANATEL	
+(41) 99129-6339	N/A	ANATEL	
+(41) 3382-6618	N/A	ANATEL	
+(41) 99205-8228	N/A
+[10:21:35] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3278-8800	
+Fixo	4	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3276-8594	
+Fixo	3	
+ Inserção: 01/12/2013
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 99683-4883	
+Celular	2	
+ Inserção: 02/10/2022
+ Recência: 12/09/2024
+ Atualização: 02/10/2022
+Não confirmado
+Abrir WhatsApp
+(41) 99683-4831	
+Celular	1	
+ Inserção: 13/04/2023
+ Recência: 12/09/2024
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+
+[10:21:40]  (41) 30455-312
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 32785-012
+05/03/2009
+ 05/03/2009 PRIORIDADE: 4.0
+ (41) 32783-577
+15/12/2014
+ N/I PRIORIDADE: 3.0
+ (41) 32768-594
+02/12/2013
+ 20/03/2018 PRIORIDADE: 2.0
+ (41) 99683-4883
+21/03/2019
+ 26/10/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3276-8594	N/A	ANATEL	
+(41) 3276-8594	N/A	ANATEL	
+(41) 3278-3577	N/A	ANATEL	
+(41) 3278-8800	N/A	ANATEL	
+(41) 3278-5012	N/A
+[10:21:46] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3282-7989	
+Fixo	1	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3376-2026	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99690-9508	
+Celular
+[10:21:51]  TELEFONES
+ (41) 33830-950
+15/12/2014
+ N/I PRIORIDADE: 6.0
+ (41) 99886-4160
+30/11/2023
+ N/I PRIORIDADE: 5.0
+ (41) 32828-099
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (41) 99582-1355
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 33984-057
+05/05/2011
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99690-9508
+04/08/2022
+ 09/11/2023 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98812-2501	N/A	ANATEL	
+(41) 3383-0950	N/A	ANATEL	
+(41) 3398-4057	N/A	ANATEL	
+(99) 6909508	N/A	ANATEL	
+
+[10:22:00]  TELEFONES
+ (41) 32782-567
+17/03/2015
+ 09/04/2020 PRIORIDADE: 1.0
+ (41) 99751-2618
+06/04/2018
+ 09/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3278-2567	N/A	ANATEL	
+(99) 7512618	N/A
+[10:22:07] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3384-1200	
+Fixo	1	
+ Inserção: 18/02/2010
+ Recência: 18/02/2010
+ Atualização: 18/02/2010
+—
+(41) 99579-2559	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/11/2019
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3299-3161	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+
+[10:22:12] (41) 31078-994
+02/12/2013
+ 10/03/2020 PRIORIDADE: 7.0
+ (41) 33841-200
+13/02/2008
+ 10/09/2019 PRIORIDADE: 6.0
+ (41) 33827-346
+05/03/2009
+ 05/03/2009 PRIORIDADE: 5.0
+ (41) 32829-382
+05/03/2009
+ 05/03/2009 PRIORIDADE: 4.0
+ (41) 99195-5505
+19/07/2017
+ 27/07/2017 PRIORIDADE: 3.0
+ (41) 33842-290
+05/03/2009
+ 02/12/2009 PRIORIDADE: 2.0
+ (41) 99579-2559
+05/04/2016
+ 21/08/2020 PRIORIDADE: 1.0
+[10:22:13] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99579-2559	N/A	ANATEL	
+(41) 3384-1200	N/A	ANATEL	
+(41) 3384-2290	N/A	ANATEL	
+(41) 3282-9382	N/A	ANATEL	
+(41) 3382-7346	N/A	ANATEL	
+ E-MAILS
+
+[10:22:24] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3283-2518	
+Fixo	3	
+ Inserção: 30/11/2009
+ Recência: 30/11/2009
+ Atualização: 30/11/2009
+—
+(41) 3376-2026	
+Fixo	2	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 99665-6360	
+Celular	1	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+
+[10:22:28]  (41) 32832-518
+22/11/2006
+ 12/09/2016 PRIORIDADE: 3.0
+ (41) 35565-965
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99665-6360
+30/11/2023
+ N/I PRIORIDADE: 1.0
+[10:22:29] (41) 99665-6360	N/A	ANATEL	
+(41) 3283-4457	N/A	ANATEL	
+(41) 3283-2518
+[10:22:35] (21) 2435-5326	
+Fixo	4	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(21) 98167-9821	
+Celular	2	
+ Inserção: 01/01/2012
+ Recência: 30/06/2012
+ Atualização: 30/06/2012
+Não confirmado
+Abrir WhatsApp
+(21) 2426-3514	
+Fixo	5	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(21) 3413-5525	
+Fixo	1	
+ Inserção: 05/02/2010
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+—
+(21) 3414-3541	
+Fixo	3	
+ Inserção: 15/03/2013
+ Recência: 15/03/2013
+ Atualização: 15/03/2013
+—
+(21) 3598-5635	
+Fixo	2	
+ Inserção: 15/03/2013
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(21) 98122-9610	
+Celular	1	
+ Inserção: 11/02/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(21) 98166-0102	
+Celular	1	
+ Inserção: 24/02/2010
+ Recência: 04/08/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 99145-3607	
+Celular	3	
+ Inserção: 24/02/2010
+ Recência: 30/06/2012
+ Atualização: 30/06/2012
+Não confirmado
+Abrir WhatsApp
+(21) 3342-6350	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 18/09/2017
+ Atualização: 16/05/2020
+—
+(21) 97836-6580	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(21) 99385-6223	
+Celular	1	
+ Inserção: 18/03/2022
+ Recência: 18/03/2022
+ Atualização: 18/03/2022
+Não confirmado
+Abrir WhatsApp
+(21) 2443-2275	
+Fixo	2	
+ Inserção: 20/11/2021
+ Recência: 19/11/2021
+ Atualização: 20/11/2021
+—
+(21) 2424-3074	
+Fixo	3
+[10:22:40]  (21) 99385-6223
+11/06/2008
+ 28/06/2012 PRIORIDADE: 8.0
+ (21) 35985-635
+05/05/2012
+ 10/10/2018 PRIORIDADE: 7.0
+ (41) 35242-595
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (21) 24432-275
+11/06/2008
+ 23/04/2010 PRIORIDADE: 5.0
+ (21) 24263-514
+05/03/2009
+ 10/02/2015 PRIORIDADE: 4.0
+ (21) 98166-0102
+15/12/2009
+ 23/04/2020 PRIORIDADE: 3.0
+ (21) 33426-350
+15/02/2018
+ 23/04/2020 PRIORIDADE: 2.0
+ (21) 98122-9610
+30/11/2023
+ N/I PRIORIDADE: 1.0
+ (21) 97836-6580
+24/04/2020
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(21) 99385-6223	N/A	ANATEL	
+(21) 98122-9610	N/A	ANATEL	
+(21) 99145-3607	N/A	ANATEL	
+(21) 98166-0102	N/A	ANATEL	
+(21) 3598-5635
+[10:22:50]  (42) 98885-7521
+[10:22:57] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 98815-5437	
+Celular	2	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99155-4966	
+Celular	1	
+ Inserção: 23/02/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 98701-8902	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99627-0316	
+Celular	3	
+ Inserção: 20/10/2017
+ Recência: 27/05/2025
+ Atualização: 20/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3012-1101	
+Fixo	1	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(41) 3098-4674	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(41) 3398-2079	
+Fixo	1	
+ Inserção: 12/05/2020
+ Recência: 06/12/2011
+ Atualização: 12/05/2020
+—
+(41) 98807-8007	
+Celular
+[10:23:01]  TELEFONES
+ (41) 30984-674
+20/08/2015
+ 16/03/2020 PRIORIDADE: 5.0
+ (41) 33801-108
+30/11/2023
+ N/I PRIORIDADE: 4.0
+ (41) 33839-406
+06/04/2018
+ 09/04/2020 PRIORIDADE: 3.0
+ (41) 98701-8902
+29/09/2015
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 33982-079
+02/10/2012
+ 05/01/2016 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98815-5437	N/A	ANATEL	
+(41) 98701-8902	N/A	ANATEL	
+(41) 99155-4966	N/A	ANATEL	
+(41) 3098-4674	N/A	ANATEL	
+(41) 3380-1108	N/A	ANATEL	
+(99) 6270316	N/A	ANATEL	
+(98) 8112632	N/A	
+[10:23:10]  (41) 33288-008
+29/04/2011
+ 23/01/2018 PRIORIDADE: 8.0
+ (41) 32763-631
+28/08/2006
+ 06/11/2019 PRIORIDADE: 7.0
+ (41) 21059-034
+03/05/2011
+ 07/01/2020 PRIORIDADE: 6.0
+ (41) 99942-2464
+25/01/2018
+ 23/04/2020 PRIORIDADE: 5.0
+ (41) 35240-745
+29/09/2015
+ 23/04/2020 PRIORIDADE: 4.0
+ (41) 30781-141
+15/02/2018
+ 23/04/2020 PRIORIDADE: 3.0
+ (41) 34088-122
+26/12/2012
+ 23/04/2020 PRIORIDADE: 2.0
+ (41) 99633-6618
+25/01/2018
+ 23/04/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3089-3609	N/A	ANATEL	
+(41) 3276-3631	N/A	ANATEL	
+(41) 3524-0745	N/A	ANATEL	
+(41) 3328-8008	N/A	ANATEL	
+ E-MAILS
+[10:23:15] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3287-1975	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(41) 99604-8757	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 3643-1996	
+Fixo
+[10:23:20]  TELEFONES
+ (41) 99604-8757
+18/07/2013
+ 29/03/2019 PRIORIDADE: 7.0
+ (41) 34022-737
+31/12/2015
+ 26/09/2017 PRIORIDADE: 6.0
+ (41) 32871-975
+22/11/2006
+ 05/02/2019 PRIORIDADE: 5.0
+ (41) 32868-272
+18/03/2014
+ 07/04/2014 PRIORIDADE: 4.0
+ (41) 99931-2790
+29/03/2019
+ 30/09/2021 PRIORIDADE: 3.0
+ (45) 99604-8757
+30/09/2021
+ N/I PRIORIDADE: 2.0
+ (41) 30405-655
+06/04/2018
+ 30/09/2021 PRIORIDADE: 1.0
+ (41) 33143-100
+06/03/2011
+ 09/12/2013
+ (41) 32116-950
+06/01/2016
+ 07/02/2016
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99604-8757	N/A	ANATEL	
+(41) 3211-6950	N/A	ANATEL	
+(41) 3314-3100	N/A	ANATEL	
+(41) 3286-8272	N/A	ANATEL	
+(41) 3287-1975	N/A
+[10:23:29] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3282-4880	
+Fixo	8	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3384-1566	
+Fixo	6	
+ Inserção: 06/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 99123-6713	
+Celular	5	
+ Inserção: 02/06/2012
+ Recência: 31/12/2014
+ Atualização: 31/12/2014
+Não confirmado
+Abrir WhatsApp
+(41) 99143-3971	
+Celular	2	
+ Inserção: 25/11/2010
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(41) 99212-3550	
+Celular	7	
+ Inserção: 14/10/2010
+ Recência: 14/10/2010
+ Atualização: 14/10/2010
+Não confirmado
+Abrir WhatsApp
+(46) 3536-8300	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(41) 3383-2897	
+Fixo	4	
+ Inserção: 12/05/2020
+ Recência: 03/12/2015
+ Atualização: 12/05/2020
+—
+(41) 99111-8662	
+Celular	1	
+ Inserção: 0
+[10:23:34]  (41) 33832-897
+07/12/2015
+ 06/01/2021 PRIORIDADE: 8.0
+ (41) 33851-207
+28/06/2012
+ 05/11/2013 PRIORIDADE: 7.0
+ (41) 99899-1917
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 32824-880
+21/11/2011
+ 17/02/2020 PRIORIDADE: 5.0
+ (41) 99690-9416
+04/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 30355-509
+06/04/2018
+ 04/08/2022 PRIORIDADE: 3.0
+ (41) 99521-3825
+06/04/2018
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99892-0458
+02/10/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99143-3971	N/A	ANATEL	
+(41) 99123-6713	N/A	ANATEL	
+(41) 3383-2897	N/A	ANATEL	
+(41) 3282-4880	N/A	ANATEL	
+(41) 3384-1566	N/A	ANATEL	
+
+[10:24:00] (42) 3523-2316	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 20/02/2010
+ Atualização: 20/02/2010
+—
+(42) 98872-5289	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atualização: 13/08/2025
+Tem WhatsApp
+Abrir WhatsApp
+(42) 99129-7918	
+
+[10:24:06]  (42) 98885-7521
+17/11/2019
+ 26/10/2022 PRIORIDADE: 1.0
+[10:24:14] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 98470-2991	
+Celular	2	
+ Inserção: 05/05/2018
+ Recência: 05/05/2018
+ Atualização: 05/05/2018
+Não confirmado
+Abrir WhatsApp
+(41) 99211-0975	
+Celular	1	
+ Inserção: 10/08/2023
+ Recência: 10/08/2023
+ Atualização: 10/08/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98702-8931	
+
+[10:24:18] 
+ TELEFONES
+ (41) 99211-0975
+17/11/2019
+ N/I PRIORIDADE: 4.0
+ (41) 98470-2991
+04/05/2020
+ N/I PRIORIDADE: 3.0
+ (41) 34047-135
+17/11/2019
+ N/I PRIORIDADE: 2.0
+ (41) 98724-2679
+[10:24:24] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-6203	
+Fixo	4	
+ Inserção: 01/12/2013
+ Recência: 04/08/2015
+ Atualização: 16/05/2020
+—
+(41) 3385-2568	
+Fixo	5	
+ Inserção: 04/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(41) 99148-7911	
+Celular	3	
+ Inserção: 12/04/2023
+ Recência: 12/04/2023
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98481-2599	
+Celular	2	
+ Inserção: 12/04/2023
+ Recência: 12/04/2023
+ Atualização: 26/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98829-3975	
+Celular	1	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 29/05/2023
+Não confirmado
+Abrir WhatsApp
+ SIPNI – Cadastro Nacional de Vacinação
+Nome	 —
+Nome da Mãe	—
+[10:24:29]  TELEFONES
+ (41) 32827-921
+17/08/2022
+ N/I PRIORIDADE: 8.0
+ (41) 33852-568
+02/12/2009
+ 10/03/2020 PRIORIDADE: 7.0
+ (41) 99947-0784
+04/08/2022
+ N/I PRIORIDADE: 6.0
+ (41) 98831-6326
+19/07/2017
+ N/I PRIORIDADE: 5.0
+ (41) 33836-203
+29/07/2013
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 98738-3710
+19/07/2017
+ 04/08/2022 PRIORIDADE: 3.0
+ (41) 33828-256
+06/04/2018
+ N/I PRIORIDADE: 2.0
+ (41) 99148-7911
+01/02/2018
+ 23/09/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3383-6203	N/A	ANATEL	
+(41) 3385-2568	N/A	ANATEL	
+(99) 1040496	N/A	ANATEL	
+(99) 1487911	N/A	ANATEL
+[10:24:35] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3586-1602	
+Fixo	1	
+ Inserção: 11/02/2010
+ Recência: 11/10/2015
+ Atualização: 16/05/2020
+—
+(41) 4009-8703	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99529-0790	
+Celular
+[10:24:40]  TELEFONES
+ (41) 98465-3389
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 99703-4253
+08/07/2021
+ 04/08/2022 PRIORIDADE: 2.0
+ (41) 99745-4188
+27/07/2017
+ 04/08/2022 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 4009-8649	N/A	ANATEL	
+(41) 3382-0931	N/A	ANATEL	
+(41) 3586-1602	N/A
+[10:24:56]  TELEFONES
+ (41) 33851-425
+11/06/2008
+ 07/01/2014 PRIORIDADE: 8.0
+ (41) 99252-9051
+04/10/2013
+ N/I PRIORIDADE: 7.0
+ (41) 30586-482
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99832-7495
+29/03/2019
+ 09/04/2020 PRIORIDADE: 5.0
+ (41) 99264-9162
+06/04/2018
+ N/I PRIORIDADE: 4.0
+ (41) 99171-8794
+04/10/2013
+ N/I PRIORIDADE: 3.0
+ (41) 33827-865
+06/04/2018
+ 09/04/2020 PRIORIDADE: 2.0
+ (41) 30812-426
+06/04/2018
+ 09/04/2020 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99171-8794	N/A	ANATEL	
+(41) 99252-9051	N/A	ANATEL	
+(41) 3348-1124	N/A	ANATEL	
+(41) 3282-9310	N/A	ANATEL	
+(41) 3385-1425
+[10:25:04] (41) 3098-3328	
+Fixo	1	
+ Inserção: 31/07/2016
+ Recência: 27/07/2015
+ Atualização: 31/07/2016
+—
+(41) 98503-8948	
+Celular	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 2105-9021	
+Fixo	2	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 98856-4823	
+Celular
+[10:25:09]  (41) 30983-328
+27/11/2014
+ 11/04/2022 PRIORIDADE: 3.0
+ (41) 30354-009
+23/04/2014
+ 12/05/2014 PRIORIDADE: 2.0
+ (41) 35569-175
+17/08/2022
+ N/I PRIORIDADE: 1.0
+ (41) 30353-267
+15/12/2014
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98503-8978	N/A	ANATEL	
+(41) 3098-3328	N/A	ANATEL	
+(41) 3035-3267	N/A	ANATEL	
+(41) 3282-2947	N/A	ANATEL	
+(41) 3035-4009
+[10:25:17] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3376-8662	
+Fixo	2	
+ Inserção: 20/02/2010
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+—
+(41) 98412-8389	
+Celular	3	
+ Inserção: 02/06/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(42) 98416-9564	
+Celular	1	
+ Inserção: 02/06/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99204-3552	
+Celular	2	
+ Inserção: 24/04/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3314-6700	
+Fixo	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+—
+(41) 3377-4602	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 05/11/2010
+ Atualização: 16/05/2020
+—
+(41) 98418-8662	
+Celular	1
+[10:25:23]  TELEFONES
+ (41) 32865-452
+04/01/2011
+ 08/10/2015 PRIORIDADE: 7.0
+ (41) 99204-3552
+23/01/2016
+ 23/04/2020 PRIORIDADE: 6.0
+ (41) 33768-662
+15/12/2014
+ 23/04/2020 PRIORIDADE: 5.0
+ (41) 98412-8389
+18/07/2013
+ 23/04/2020 PRIORIDADE: 4.0
+ (42) 98416-9564
+23/08/2016
+ 23/04/2020 PRIORIDADE: 3.0
+ (41) 33774-602
+23/08/2016
+ 23/04/2020 PRIORIDADE: 2.0
+ (41) 33146-700
+23/01/2018
+ 05/04/2018 PRIORIDADE: 1.0
+ (41) 33764-808
+13/05/2008
+ 21/08/2020
+ (41) 98418-8662
+15/12/2009
+ 21/08/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(45) 3376-4808	N/A	ANATEL	
+(41) 98418-8662	N/A	ANATEL	
+(42) 98416-9564	N/A	ANATEL	
+(41) 99204-3552	N/A	ANATEL	
+(41) 98412-8389
+[10:25:31] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-3570	
+Fixo	6	
+ Inserção: 04/02/2010
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+—
+(41) 3383-9414	
+Fixo	8	
+ Inserção: 03/12/2010
+ Recência: 01/12/2013
+ Atualização: 01/12/2013
+—
+(41) 99112-0859	
+Celular	4	
+ Inserção: 30/05/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 99181-5127	
+Celular	5	
+ Inserção: 02/06/2012
+ Recência: 25/06/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3383-3147	
+Fixo	9	
+ Inserção: 30/06/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(41) 99933-4987	
+Celular	7	
+ Inserção: 16/05/2020
+ Recência: 20/05/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3282-0775	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 09/10/2016
+ Atualização: 16/05/2020
+—
+(41) 98836-9449	
+Celular	1	
+ Inserção: 13/04/2023
+ Recência: 12/09/2024
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99830-8923	
+Celular	2	
+ Inserção:
+[10:25:38]  TELEFONES
+ (41) 30987-276
+06/04/2018
+ N/I PRIORIDADE: 8.0
+ (41) 33833-147
+10/07/2014
+ 10/03/2020 PRIORIDADE: 7.0
+ (41) 33839-414
+16/04/2009
+ 10/09/2019 PRIORIDADE: 6.0
+ (41) 33833-570
+18/06/2007
+ 22/01/2016 PRIORIDADE: 5.0
+ (41) 99830-8923
+06/04/2018
+ 26/10/2022 PRIORIDADE: 4.0
+ (41) 30844-909
+06/04/2018
+ 26/10/2022 PRIORIDADE: 3.0
+ (41) 98454-5685
+08/07/2021
+ 26/10/2022 PRIORIDADE: 2.0
+ (41) 99933-4987
+08/07/2021
+ 12/08/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99112-0859	N/A	ANATEL	
+(41) 99181-5127	N/A	ANATEL	
+(41) 3383-3147	N/A	ANATEL	
+(41) 3383-9414	N/A	ANATEL	
+(41) 3383-3570	N/A	ANATEL	
+(98) 8369449	N/A	ANATEL	
+(99) 8308923	N/A	ANATEL	
+
+[10:25:47] 
+Telefone	Tipo	Ranking	Datas	Contato
+(81) 3341-9583	
+Fixo	1	
+ Inserção: 09/02/2010
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3343-3999	
+Fixo	1	
+ Inserção: 20/02/2010
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3974-6400	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(81) 99537-7887	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 04/08/2016
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(81) 99637-0187	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 25/01/2017
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(81) 3061-2510	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 19/08/2010
+ Atualização: 16/05/2020
+—
+(81) 3077-2237	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 10/07/2016
+ Atualização: 16/05/2020
+—
+(81) 3461-9703	
+Fixo
+[10:25:53]  TELEFONES
+ (81) 34619-703
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (81) 99637-0187
+09/02/2017
+ 09/04/2020 PRIORIDADE: 2.0
+ (81) 33433-999
+22/11/2006
+ 10/09/2019 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(81) 99637-0250	N/A	ANATEL	
+(81) 3341-9583	N/A	ANATEL	
+(81) 99537-7887	N/A	ANATEL	
+(81) 3343-3999	N/A	ANATEL	
+(81) 99637-0187	N/A	ANATEL	
+
+[10:25:59] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-2357	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3398-8381	
+Fixo	4	
+ Inserção: 11/02/2010
+ Recência: 11/02/2010
+ Atualização: 11/02/2010
+—
+(41) 3388-9898	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99196-9808
+[10:26:06]  (41) 33820-906
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99219-2023
+18/03/2015
+ 04/08/2022 PRIORIDADE: 5.0
+ (41) 32820-630
+21/10/2014
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 33857-143
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 99103-1718
+04/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99196-9808
+15/02/2021
+ 13/07/2022 PRIORIDADE: 1.0
+ (41) 33836-067
+21/10/2014
+ 09/12/2014
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99219-2023	N/A	ANATEL	
+(41) 3383-6067	N/A	ANATEL	
+(41) 3382-0906	N/A	ANATEL	
+(41) 3398-8381	N/A	ANATEL	
+(41) 3282-0630	N/A	ANATEL	
+
+[10:26:12] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3283-2545	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 14/02/2010
+ Atualização: 14/02/2010
+—
+(41) 3306-0029	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 3146-6003
+[10:26:16]  (41) 32833-734
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 33859-707
+27/07/2017
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-4369	N/A	ANATEL	
+(41) 3283-2545	N/A
+[10:26:22] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-2357	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3398-8381	
+Fixo	4	
+ Inserção: 11/02/2010
+ Recência: 11/02/2010
+ Atualização: 11/02/2010
+—
+(41) 3388-9898	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99196-9808	
+Celular	
+[10:26:26]  (41) 33820-906
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99219-2023
+18/03/2015
+ 04/08/2022 PRIORIDADE: 5.0
+ (41) 32820-630
+21/10/2014
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 33857-143
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 99103-1718
+04/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99196-9808
+15/02/2021
+ 13/07/2022 PRIORIDADE: 1.0
+ (41) 33836-067
+21/10/2014
+ 09/12/2014
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99219-2023	N/A	ANATEL	
+(41) 3383-6067	N/A	ANATEL	
+(41) 3382-0906	N/A	ANATEL	
+(41) 3398-8381	N/A	ANATEL	
+(41) 3282-0630	N/A	ANATEL
+[10:26:33] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3283-2545	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 14/02/2010
+ Atualização: 14/02/2010
+—
+(41) 3306-0029	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 3146-6003	
+Fixo	1
+[10:26:39] 
+ TELEFONES
+ (41) 32833-734
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 33859-707
+27/07/2017
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-4369	N/A	ANATEL	
+(41) 3283-2545	N/A	ANATEL
+[10:26:45] 
+Telefone	Tipo	Ranking	Datas	Contato
+(31) 3352-9635	
+Fixo	1	
+ Inserção: 25/02/2010
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+—
+(31) 98668-6579	
+Celular	1	
+ Inserção: 01/06/2012
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 99250-9757	
+Celular	4	
+ Inserção: 19/10/2017
+ Recência: 12/09/2024
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99226-1009	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99300-4900	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3398-6579	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 22/07/2011
+ Atualização: 16/05/2020
+—
+(31) 99245-7696	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/07/2012
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3519-1990	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(31) 97110-9293	
+Celular	1	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98467-5548	
+Celular	3	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 24/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98391-7132	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 30/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 99930-0490	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atu
+[10:26:51]  TELEFONES
+ (31) 33986-579
+05/03/2009
+ 08/01/2019 PRIORIDADE: 6.0
+ (31) 32828-536
+17/08/2022
+ N/I PRIORIDADE: 5.0
+ (31) 99930-0490
+01/08/2022
+ 26/09/2023 PRIORIDADE: 4.0
+ (31) 33529-635
+22/11/2006
+ 08/01/2019 PRIORIDADE: 3.0
+ (31) 35191-968
+07/03/2022
+ N/I PRIORIDADE: 2.0
+ (31) 99250-9757
+01/02/2018
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(31) 98668-6579	N/A	ANATEL	
+(31) 99226-1009	N/A	ANATEL	
+(31) 3519-1990	N/A	ANATEL	
+(31) 2559-0347	N/A	ANATEL	
+(31) 99245-7696	N/A	ANATEL	
+(98) 3917132	N/A	ANATEL	
+(99) 2509757	N/A	ANATEL	
+(99) 3004900	N/A	
+[10:26:59]  TELEFONES (DATAB 26)
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3376-2026	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 98704-1712	
+Celular	1
+[10:27:06]  TELEFONES
+ (41) 33835-462
+17/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 99646-8532
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 98838-5001
+30/09/2021
+ 24/11/2021 PRIORIDADE: 2.0
+ (41) 98704-1712
+06/04/2018
+ 24/11/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-6980	N/A	ANATEL	
+(98) 7041712	N/A
+[10:27:12]  TELEFONES (DATAB 26)
+Telefone	Tipo	Ranking	Datas	Contato
+(35) 3212-7910	
+Fixo	6	
+ Inserção: 03/09/2013
+ Recência: 26/09/2015
+ Atualização: 16/05/2020
+—
+(71) 3285-5204	
+Fixo	4	
+ Inserção: 15/02/2010
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+—
+(71) 3364-1506	
+Fixo	7	
+ Inserção: 05/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(11) 5979-2261	
+Fixo	8	
+ Inserção: 18/02/2010
+ Recência: 18/02/2010
+ Atualização: 18/02/2010
+—
+(41) 3382-3069	
+Fixo	5	
+ Inserção: 16/05/2020
+ Recência: 09/10/2016
+ Atualização: 16/05/2020
+—
+(41) 91007-9897	
+Celular	3	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99754-2537	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98508-5747	
+Celular	1	
+ Inserção: 19/04/2023
+ Recência: 12/09/2024
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98738-6357	
+Celular	1	
+ Ins
+[10:27:16]  (35) 32127-910
+26/12/2012
+ 07/01/2020 PRIORIDADE: 7.0
+ (71) 33641-506
+26/12/2012
+ 29/04/2019 PRIORIDADE: 6.0
+ (35) 32129-604
+05/03/2009
+ 09/07/2018 PRIORIDADE: 5.0
+ (71) 32855-204
+16/04/2009
+ 23/01/2018 PRIORIDADE: 4.0
+ (41) 33811-714
+09/09/2015
+ 08/10/2015 PRIORIDADE: 3.0
+ (41) 33823-069
+09/10/2015
+ 06/12/2018 PRIORIDADE: 2.0
+ (41) 99754-2537
+06/03/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(38) 3212-7910	N/A	ANATEL	
+(41) 3381-1714	N/A	ANATEL	
+(41) 99286-2138	N/A	ANATEL	
+(11) 5979-2261	N/A	ANATEL	
+(35) 3212-9604	N/A
+[10:27:27]  (48) 99823-2250
+29/03/2019
+ N/I PRIORIDADE: 2.0
+ (41) 99894-4336
+26/10/2022
+ N/I PRIORIDADE: 1.0
+ (49) 35275-100
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99132-2192	N/A	ANATEL	
+(49) 3435-0181	N/A	ANATEL	
+(48) 99110-5841	N/A
+[10:27:34] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3058-1250	
+Fixo	2	
+ Inserção: 19/09/2014
+ Recência: 07/02/2011
+ Atualização: 16/05/2020
+—
+(41) 99954-2703	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98482-3524	
+Celular	2	
+ Inserção: 20/10/2017
+ Recência: 25/10/2011
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3361-6629	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 05/07/2010
+ Atualização: 16/05/2020
+—
+(41) 3330-2356	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 09/08/2012
+ Atualização: 16/05/2020
+—
+(41) 99290-2703	
+Celular	
+[10:27:40]  TELEFONES
+ (41) 99954-2703
+29/03/2019
+ N/I PRIORIDADE: 11.0
+ (41) 99788-4245
+27/07/2017
+ N/I PRIORIDADE: 10.0
+ (41) 30818-196
+15/12/2014
+ 06/04/2018 PRIORIDADE: 9.0
+ (41) 33982-738
+15/12/2014
+ N/I PRIORIDADE: 8.0
+ (41) 30581-250
+22/03/2011
+ 06/08/2019 PRIORIDADE: 7.0
+ (41) 33616-629
+23/08/2016
+ 23/01/2018 PRIORIDADE: 6.0
+ (41) 33854-250
+15/12/2014
+ 23/01/2018 PRIORIDADE: 5.0
+ (41) 33824-580
+30/09/2021
+ N/I PRIORIDADE: 4.0
+ (41) 98845-3480
+19/07/2017
+ N/I PRIORIDADE: 3.0
+ (41) 33302-356
+15/02/2018
+ N/I PRIORIDADE: 2.0
+ (41) 99112-3524
+27/07/2017
+ 30/09/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98841-2274	N/A	ANATEL	
+(41) 3058-1250	N/A	ANATEL	
+(41) 3385-4250	N/A	ANATEL	
+(41) 3081-8196	N/A	ANATEL	
+(41) 3361-6629	N/A	ANATEL
+[10:28:05] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3283-2545	
+Fixo	1	
+ Inserção: 14/02/2010
+ Recência: 14/02/2010
+ Atualização: 14/02/2010
+—
+(41) 3306-0029	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 3146-6003	
+Fixo
+[10:28:10]  (41) 32833-734
+17/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 33859-707
+27/07/2017
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 2105-9000	N/A	ANATEL	
+(41) 3383-4369	N/A	ANATEL	
+(41) 3283-2545	N/A
+[10:28:16] 
+Telefone	Tipo	Ranking	Datas	Contato
+(31) 3352-9635	
+Fixo	1	
+ Inserção: 25/02/2010
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+—
+(31) 98668-6579	
+Celular	1	
+ Inserção: 01/06/2012
+ Recência: 19/10/2015
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 99250-9757	
+Celular	4	
+ Inserção: 19/10/2017
+ Recência: 12/09/2024
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99226-1009	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(31) 99300-4900	
+Celular	1	
+ Inserção: 20/10/2017
+ Recência: 12/09/2024
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3398-6579	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 22/07/2011
+ Atualização: 16/05/2020
+—
+(31) 99245-7696	
+Celular	1	
+ Inserção: 16/05/2020
+ Recência: 01/07/2012
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(31) 3519-1990	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(31) 97110-9293	
+Celular	1	
+ Inserção: 15/04/2023
+ Recência: 15/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98467-5548	
+Celular	3	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 24/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 98391-7132	
+Celular	2	
+ Inserção: 18/04/2023
+ Recência: 12/09/2024
+ Atualização: 30/05/2023
+Não confirmado
+Abrir WhatsApp
+(31) 99930-0490	
+Celular	
+[10:28:23]  (31) 33986-579
+05/03/2009
+ 08/01/2019 PRIORIDADE: 6.0
+ (31) 32828-536
+17/08/2022
+ N/I PRIORIDADE: 5.0
+ (31) 99930-0490
+01/08/2022
+ 26/09/2023 PRIORIDADE: 4.0
+ (31) 33529-635
+22/11/2006
+ 08/01/2019 PRIORIDADE: 3.0
+ (31) 35191-968
+07/03/2022
+ N/I PRIORIDADE: 2.0
+ (31) 99250-9757
+01/02/2018
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(31) 98668-6579	N/A	ANATEL	
+(31) 99226-1009	N/A	ANATEL	
+(31) 3519-1990	N/A	ANATEL	
+(31) 2559-0347	N/A	ANATEL	
+(31) 99245-7696	N/A	ANATEL	
+(98) 3917132	N/A	ANATEL	
+(99) 2509757	N/A	ANATEL	
+(99) 3004900	N/A
+[10:28:34] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3376-2026	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 98704-1712
+[10:28:38]  (41) 33835-462
+17/08/2022
+ N/I PRIORIDADE: 4.0
+ (41) 99646-8532
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (41) 98838-5001
+30/09/2021
+ 24/11/2021 PRIORIDADE: 2.0
+ (41) 98704-1712
+06/04/2018
+ 24/11/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 3398-6980	N/A	ANATEL	
+(98) 7041712	
+[10:28:46]  TELEFONES (DATAB 26)
+Telefone	Tipo	Ranking	Datas	Contato
+(35) 3212-7910	
+Fixo	6	
+ Inserção: 03/09/2013
+ Recência: 26/09/2015
+ Atualização: 16/05/2020
+—
+(71) 3285-5204	
+Fixo	4	
+ Inserção: 15/02/2010
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+—
+(71) 3364-1506	
+Fixo	7	
+ Inserção: 05/02/2010
+ Recência: 31/01/2011
+ Atualização: 31/01/2011
+—
+(11) 5979-2261	
+Fixo	8	
+ Inserção: 18/02/2010
+ Recência: 18/02/2010
+ Atualização: 18/02/2010
+—
+(41) 3382-3069	
+Fixo	5	
+ Inserção: 16/05/2020
+ Recência: 09/10/2016
+ Atualização: 16/05/2020
+—
+(41) 91007-9897	
+Celular	3	
+ Inserção: 13/04/2023
+ Recência: 13/04/2023
+ Atualização: 25/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99754-2537	
+Celular	2	
+ Inserção: 14/04/2023
+ Recência: 12/09/2024
+ Atualização: 18/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98508-5747	
+Celular	1	
+ Inserção: 19/04/2023
+ Recência: 12/09/2024
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 98738-6357	
+Celular
+[10:28:50]  TELEFONES
+ (35) 32127-910
+26/12/2012
+ 07/01/2020 PRIORIDADE: 7.0
+ (71) 33641-506
+26/12/2012
+ 29/04/2019 PRIORIDADE: 6.0
+ (35) 32129-604
+05/03/2009
+ 09/07/2018 PRIORIDADE: 5.0
+ (71) 32855-204
+16/04/2009
+ 23/01/2018 PRIORIDADE: 4.0
+ (41) 33811-714
+09/09/2015
+ 08/10/2015 PRIORIDADE: 3.0
+ (41) 33823-069
+09/10/2015
+ 06/12/2018 PRIORIDADE: 2.0
+ (41) 99754-2537
+06/03/2023
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(38) 3212-7910	N/A	ANATEL	
+(41) 3381-1714	N/A	ANATEL	
+(41) 99286-2138	N/A	ANATEL	
+(11) 5979-2261	N/A	ANATEL	
+(35) 3212-9604
+[10:28:57] 
+Telefone	Tipo	Ranking	Datas	Contato
+(48) 99110-5841	
+Celular	1	
+ Inserção: 05/05/2018
+ Recência: 05/05/2018
+ Atualização: 05/05/2018
+Não confirmado
+Abrir WhatsApp
+(49) 3527-5100	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(48) 99823-2250	
+Celular	1	
+ Inserção: 14/04/2023
+ Recência: 14/04/2023
+ Atualização: 19/05/2023
+Não confirmado
+Abrir WhatsApp
+(41) 99894-4336	
+
+[10:29:02]  TELEFONES
+ (48) 99823-2250
+29/03/2019
+ N/I PRIORIDADE: 2.0
+ (41) 99894-4336
+26/10/2022
+ N/I PRIORIDADE: 1.0
+ (49) 35275-100
+30/09/2021
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99132-2192	N/A	ANATEL	
+(49) 3435-0181	N/A	ANATEL	
+(48) 99110-5841
+[10:29:07] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3058-1250	
+Fixo	2	
+ Inserção: 19/09/2014
+ Recência: 07/02/2011
+ Atualização: 16/05/2020
+—
+(41) 99954-2703	
+Celular	1	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(41) 98482-3524	
+Celular	2	
+ Inserção: 20/10/2017
+ Recência: 25/10/2011
+ Atualização: 16/05/2020
+Não confirmado
+Abrir WhatsApp
+(41) 3361-6629	
+Fixo	3	
+ Inserção: 16/05/2020
+ Recência: 05/07/2010
+ Atualização: 16/05/2020
+—
+(41) 3330-2356	
+Fixo	1	
+ Inserção: 16/05/2020
+ Recência: 09/08/2012
+ Atualização: 16/05/2020
+—
+(41) 99290-2703	
+Celular	1	
+ Inserção: 13/08/2025
+ Recência: 13/08/2025
+ Atualização: 13/08/2025
+Tem WhatsApp
+Abrir WhatsApp
+
+[10:29:12]  (41) 99954-2703
+29/03/2019
+ N/I PRIORIDADE: 11.0
+ (41) 99788-4245
+27/07/2017
+ N/I PRIORIDADE: 10.0
+ (41) 30818-196
+15/12/2014
+ 06/04/2018 PRIORIDADE: 9.0
+ (41) 33982-738
+15/12/2014
+ N/I PRIORIDADE: 8.0
+ (41) 30581-250
+22/03/2011
+ 06/08/2019 PRIORIDADE: 7.0
+ (41) 33616-629
+23/08/2016
+ 23/01/2018 PRIORIDADE: 6.0
+ (41) 33854-250
+15/12/2014
+ 23/01/2018 PRIORIDADE: 5.0
+ (41) 33824-580
+30/09/2021
+ N/I PRIORIDADE: 4.0
+ (41) 98845-3480
+19/07/2017
+ N/I PRIORIDADE: 3.0
+ (41) 33302-356
+15/02/2018
+ N/I PRIORIDADE: 2.0
+ (41) 99112-3524
+27/07/2017
+ 30/09/2021 PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 98841-2274	N/A	ANATEL	
+(41) 3058-1250	N/A	ANATEL	
+(41) 3385-4250	N/A	ANATEL	
+(41) 3081-8196	N/A	ANATEL	
+(41) 3361-6629	N/A
+[10:29:19] 
+Telefone	Tipo	Ranking	Datas	Contato
+(41) 3383-2357	
+Fixo	3	
+ Inserção: 13/02/2010
+ Recência: 13/02/2010
+ Atualização: 13/02/2010
+—
+(41) 3398-8381	
+Fixo	4	
+ Inserção: 11/02/2010
+ Recência: 11/02/2010
+ Atualização: 11/02/2010
+—
+(41) 3388-9898	
+Fixo	2	
+ Inserção: 16/05/2020
+ Recência: 01/02/2016
+ Atualização: 16/05/2020
+—
+(41) 99196-9808	
+Celular
+[10:29:23]  TELEFONES
+ (41) 33820-906
+30/11/2023
+ N/I PRIORIDADE: 6.0
+ (41) 99219-2023
+18/03/2015
+ 04/08/2022 PRIORIDADE: 5.0
+ (41) 32820-630
+21/10/2014
+ 04/08/2022 PRIORIDADE: 4.0
+ (41) 33857-143
+06/04/2018
+ N/I PRIORIDADE: 3.0
+ (41) 99103-1718
+04/08/2022
+ N/I PRIORIDADE: 2.0
+ (41) 99196-9808
+15/02/2021
+ 13/07/2022 PRIORIDADE: 1.0
+ (41) 33836-067
+21/10/2014
+ 09/12/2014
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(41) 99219-2023	N/A	ANATEL	
+(41) 3383-6067	N/A	ANATEL	
+(41) 3382-0906	N/A	ANATEL	
+(41) 3398-8381	N/A	ANATEL	
+(41) 3282-0630
+[10:29:32]  (11) 42922-380
+31/03/2015
+ 10/03/2020 PRIORIDADE: 13.0
+ (11) 47922-508
+28/08/2006
+ 13/08/2009 PRIORIDADE: 12.0
+ (11) 47922-461
+21/11/2011
+ 14/10/2019 PRIORIDADE: 11.0
+ (11) 97575-2091
+26/01/2012
+ 14/10/2019 PRIORIDADE: 10.0
+ (11) 96903-2090
+05/04/2023
+ N/I PRIORIDADE: 9.0
+ (11) 95310-3903
+05/04/2023
+ N/I PRIORIDADE: 8.0
+ (11) 97178-5775
+05/04/2023
+ N/I PRIORIDADE: 7.0
+ (11) 99670-2129
+05/04/2023
+ N/I PRIORIDADE: 6.0
+ (11) 47922-124
+26/12/2013
+ 05/04/2023 PRIORIDADE: 5.0
+ (11) 26108-859
+17/08/2022
+ 05/04/2023 PRIORIDADE: 4.0
+ (11) 96484-4556
+23/08/2016
+ 05/04/2023 PRIORIDADE: 3.0
+ (11) 47266-476
+28/05/2014
+ 05/04/2023 PRIORIDADE: 2.0
+ (11) 23124-588
+05/12/2022
+ 09/10/2023 PRIORIDADE: 1.0
+ (11) 47234-433
+05/04/2023
+ N/I
+ (27) 32422-656
+05/04/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 97575-2091	N/A	ANATEL	
+(11) 97178-5775	N/A	ANATEL	
+(11) 95310-3903	N/A	ANATEL	
+(11) 99670-2129	N/A	ANATEL	
+(11) 99930-4737	N/A	ANATEL	
+(96) 4844556	N/A	ANATEL	
+(98) 8832094
+[10:29:50] 10205047000145		 01/03/2011	
+R$ 925,00	ES	Ativo
+ RAIS 2022 2 vínculo(
+[10:29:52] 10205047000145
+[10:30:10] 
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 97575-2091	N/A	ANATEL	
+(11) 97178-5775	N/A	ANATEL	
+(11) 95310-3903	N/A	ANATEL	
+(11) 99670-2129	N/A	ANATEL	
+(11) 99930-4737	N/A	ANATEL	
+(96) 4844556	N/A	ANATEL	
+(98) 8832094	N/A	ANATEL	
+
+[10:30:12]  TELEFONES
+ (11) 42922-380
+31/03/2015
+ 10/03/2020 PRIORIDADE: 13.0
+ (11) 47922-508
+28/08/2006
+ 13/08/2009 PRIORIDADE: 12.0
+ (11) 47922-461
+21/11/2011
+ 14/10/2019 PRIORIDADE: 11.0
+ (11) 97575-2091
+26/01/2012
+ 14/10/2019 PRIORIDADE: 10.0
+ (11) 96903-2090
+05/04/2023
+ N/I PRIORIDADE: 9.0
+ (11) 95310-3903
+05/04/2023
+ N/I PRIORIDADE: 8.0
+ (11) 97178-5775
+05/04/2023
+ N/I PRIORIDADE: 7.0
+ (11) 99670-2129
+05/04/2023
+ N/I PRIORIDADE: 6.0
+ (11) 47922-124
+26/12/2013
+ 05/04/2023 PRIORIDADE: 5.0
+ (11) 26108-859
+17/08/2022
+ 05/04/2023 PRIORIDADE: 4.0
+ (11) 96484-4556
+23/08/2016
+ 05/04/2023 PRIORIDADE: 3.0
+ (11) 47266-476
+28/05/2014
+ 05/04/2023 PRIORIDADE: 2.0
+ (11) 23124-588
+05/12/2022
+ 09/10/2023 PRIORIDADE: 1.0
+ (11) 47234-433
+05/04/2023
+ N/I
+ (27) 32422-656
+05/04/2023
+ N/I
+[10:30:20] ne	Tipo	Ranking	Datas	Contato
+(11) 4792-2124	
+Fixo	18	
+ Inserção: 14/05/2010
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 4792-2508	
+Fixo	19	
+ Inserção: 14/10/2009
+ Recência: 30/06/2010
+ Atualização: 30/06/2010
+—
+(11) 97178-5775	
+Celular	8	
+ Inserção: 11/06/2012
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 97575-2091	
+Celular	17	
+ Inserção: 04/06/2012
+ Recência: 15/04/2011
+ Atualização: 12/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4726-6476	
+Fixo	7	
+ Inserção: 19/09/2014
+ Recência: 09/10/2016
+ Atualização: 12/05/2020
+—
+(11) 95319-4724	
+Celular	14	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96477-9992	
+Celular	13	
+ Inserção: 12/08/2016
+ Recência: 20/04/2016
+ Atualização: 12/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96864-3479	
+Celular	12	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99930-4737	
+Celular	11	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 99670-2129	
+Celular	10	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 95310-3903	
+Celular	9	
+ Inserção: 13/08/2016
+ Recência: 20/04/2016
+ Atualização: 13/08/2016
+Não confirmado
+Abrir WhatsApp
+(11) 96484-4556	
+Celular	4	
+ Inserção: 13/08/2016
+ Recência: 13/04/2017
+ Atualização: 16/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 96903-2090	
+Celular	6	
+ Inserção: 19/10/2017
+ Recência: 13/04/2017
+ Atualização: 19/10/2017
+Não confirmado
+Abrir WhatsApp
+(11) 7798-0135	
+Fixo	5	
+ Inserção: 20/10/2017
+ Recência: 13/04/2017
+ Atualização: 20/10/2017
+—
+(11) 2610-8859	
+Fixo	3	
+ Inserção: 12/05/2020
+ Recência: 13/06/2019
+ Atualização: 12/05/2020
+—
+(11) 4723-4433	
+Fixo	16	
+ Inserção: 12/05/2020
+ Recência: 18/04/2011
+ Atualização: 12/05/2020
+—
+(27) 3242-2656	
+Fixo	15	
+ Inserção: 12/05/2020
+ Recência: 01/02/2016
+ Atualização: 12/05/2020
+—
+(11) 98883-2094	
+Celular	2	
+ Inserção: 17/04/2023
+ Recência: 17/04/2023
+ Atualização: 31/05/2023
+Não confirmado
+Abrir WhatsApp
+(11) 98518-8168	
+Celular
+[10:30:33]  (11) 42922-380
+31/03/2015
+ 10/03/2020 PRIORIDADE: 13.0
+ (11) 47922-508
+28/08/2006
+ 13/08/2009 PRIORIDADE: 12.0
+ (11) 47922-461
+21/11/2011
+ 14/10/2019 PRIORIDADE: 11.0
+ (11) 97575-2091
+26/01/2012
+ 14/10/2019 PRIORIDADE: 10.0
+ (11) 96903-2090
+05/04/2023
+ N/I PRIORIDADE: 9.0
+ (11) 95310-3903
+05/04/2023
+ N/I PRIORIDADE: 8.0
+ (11) 97178-5775
+05/04/2023
+ N/I PRIORIDADE: 7.0
+ (11) 99670-2129
+05/04/2023
+ N/I PRIORIDADE: 6.0
+ (11) 47922-124
+26/12/2013
+ 05/04/2023 PRIORIDADE: 5.0
+ (11) 26108-859
+17/08/2022
+ 05/04/2023 PRIORIDADE: 4.0
+ (11) 96484-4556
+23/08/2016
+ 05/04/2023 PRIORIDADE: 3.0
+ (11) 47266-476
+28/05/2014
+ 05/04/2023 PRIORIDADE: 2.0
+ (11) 23124-588
+05/12/2022
+ 09/10/2023 PRIORIDADE: 1.0
+ (11) 47234-433
+05/04/2023
+ N/I
+ (27) 32422-656
+05/04/2023
+ N/I
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 97575-2091	N/A	ANATEL	
+(11) 97178-5775	N/A	ANATEL	
+(11) 95310-3903	N/A	ANATEL	
+(11) 99670-2129	N/A	ANATEL	
+(11) 99930-4737	N/A	ANATEL	
+(96) 4844556	N/A	ANATEL	
+(98) 8832094	N/A	ANATEL	
+
+[10:30:55] 	10205047000145
+[10:31:28] 	22 33218000
+[10:31:41] 
+Telefone	Tipo	Ranking	Datas	Contato
+(22) 99831-5631	
+Celular
+[10:31:47]  TELEFONES
+ (22) 27648-004
+30/11/2023
+ N/I PRIORIDADE: 3.0
+ (22) 99831-5631
+30/11/2023
+ N/I PRIORIDADE: 2.0
+ (11) 47966-408
+15/12/2014
+ N/I PRIORIDADE: 1.0
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(22) 99831-5631	N/A	ANATEL	
+(11) 4796-8892	N/A	ANATEL	
+(11) 2527-2824	N/A	ANATEL	
+(11) 4796-6408	N/A	ANATEL	
+(99) 8315631	N/A	ANATEL	
+(99) 7953764	N/A
+[10:32:02] 
+Telefone	Tipo	Ranking	Datas	Contato
+(11) 2639-3572	
+Fixo	1	
+ Inserção: 26/08/2014
+ Recência: 08/06/2016
+ Atualização: 18/05/2020
+—
+(27) 3052-2936	
+Fixo	6	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(27) 3053-0492	
+Fixo	1	
+ Inserção: 19/09/2014
+ Recência: 09/10/2016
+ Atualização: 18/05/2020
+—
+(27) 3057-2568	
+Fixo	7	
+ Inserção: 19/09/2014
+ Recência: 19/09/2014
+ Atualização: 19/09/2014
+—
+(27) 3073-2132	
+Fixo	1	
+ Inserção: 24/07/2013
+ Recência: 27/11/2015
+ Atualização: 18/05/2020
+—
+(27) 3084-5875	
+Fixo	1	
+ Inserção: 23/07/2013
+ Recência: 11/10/2015
+ Atualização: 18/05/2020
+—
+(27) 3242-2656	
+Fixo	1	
+ Inserção: 11/03/2013
+ Recência: 23/12/2010
+ Atualização: 18/05/2020
+—
+(11) 4799-8054	
+Fixo	1	
+ Inserção: 16/02/2010
+ Recência: 17/08/2004
+ Atualização: 18/05/2020
+—
+(27) 99874-1418	
+Celular	1	
+ Inserção: 31/05/2012
+ Recência: 27/11/2015
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(27) 99998-2333	
+Celular	1	
+ Inserção: 31/05/2012
+ Recência: 06/04/2011
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 97242-3572	
+Celular	1	
+ Inserção: 31/01/2014
+ Recência: 06/02/2013
+ Atualização: 18/05/2020
+Não confirmado
+Abrir WhatsApp
+(11) 4727-6699	
+Fixo	1	
+ Inserção: 18/05/2020
+ Recência: 17/08/2004
+ Atualização: 18/05/2020
+—
+(11) 4723-4433	
+Fixo	
+[10:32:13]  TELEFONES
+ (27) 30572-568
+26/12/2012
+ N/I PRIORIDADE: 12.0
+ (11) 99724-2357
+02/07/2014
+ N/I PRIORIDADE: 11.0
+ (27) 30337-501
+26/12/2012
+ N/I PRIORIDADE: 10.0
+ (11) 47234-438
+05/03/2009
+ 02/03/2009 PRIORIDADE: 9.0
+ (27) 99874-1418
+18/07/2013
+ 23/04/2020 PRIORIDADE: 8.0
+ (11) 47998-054
+22/11/2006
+ 23/04/2020 PRIORIDADE: 7.0
+ (11) 26393-572
+09/06/2015
+ 23/04/2020 PRIORIDADE: 6.0
+ (27) 30732-132
+05/05/2012
+ 23/04/2020 PRIORIDADE: 5.0
+ (27) 30530-492
+16/09/2012
+ 23/04/2020 PRIORIDADE: 4.0
+ (27) 30845-875
+26/12/2012
+ 23/04/2020 PRIORIDADE: 3.0
+ (11) 97242-3572
+23/08/2016
+ 23/04/2020 PRIORIDADE: 2.0
+ (27) 99998-2333
+01/02/2011
+ 23/04/2020 PRIORIDADE: 1.0
+ (27) 32422-656
+02/03/2011
+ 23/01/2018
+ (11) 47234-433
+02/10/2012
+ 08/04/2020
+
+ HISTÓRICO OPERADORAS
+TELEFONE	DATA	OPERADORA	ATALHO
+(11) 97242-3572	N/A	ANATEL	
+(27) 99998-2333	N/A	ANATEL	
+(27) 99874-1418	N/A	ANATEL	
+(27) 99987-4141	N/A	ANATEL	
+(11) 99724-2357	N/A
