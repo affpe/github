@@ -1,0 +1,6553 @@
+[14:20:44] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: FERNANDO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 26810631836
+Data de Nascimento: 18/03/1974
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): ADMINISTRADOR DE ORÇAMENTO
+Renda: R$ 6.050,00
+Faixa de Renda: Mais de R$ 6.000,00 a R$ 7.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 29/05/2023 13:21:00
+Data Inclusão: 19/10/2006 15:32:00
+Código Controle: 265D.230E.E242.F793
+
+[DATAB - EMAIL] oasisrodrigues@uol.com.br | Ranking 1 | Recência 03-DEC-13
+[DATAB - ENDEREÇO] CESARIO CARLOS DE ALMEIDA 627 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] ANGELO DAMIAN 147 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] MARECHAL RONDON KM 175 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] MARECHAL RONDON 1 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - TEL] (15) 32835082 Ranking 1
+[DATAB - TEL] (15) 32835778 Ranking 2
+[DATAB - TEL] (15) 991428396 Ranking 1
+[DATAB - TEL] (15) 996243705 Ranking 1
+[SIPNI]
+Nome: FERNANDO APARECIDO RODRIGUES
+Nascimento: 1974-03-18
+Sexo: M
+Óbito: false
+
+[RAIS 2012] GOLDONI DISTRI.DE TELAS E ARAMES LTDA | 1100
+[RAIS 2022] MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA | 
+[RAIS 2022] MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA | 
+[RAIS 2024] ELICON | 
+[RAIS 2025] ELICON | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(15) 32835-082 | 16/08/2022
+
+--- OPERADORAS: ---
+
+TELEFONE: (15) 99142-8396, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (15) 3283-5082, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+AV CESARIO CARLOS A 627, LARANJAL PAULISTA, LARANJAL PAULISTA/SP, 18500-000
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV CESARIO CARLOS DE ALMEIDA 627, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+R ANGELO DAMIAN 147, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+MAL RONDON KM 175 100 PTO 400 - KM 175 100 PTO 400, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 3512943000191, SETOR: PRIVATE - 3240099 - FABRICACAO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 20/07/2017, DATA FINAL: 16/12/2021, SITUACAO: INATIVO
+
+NOME EMPRESA: GOLDONI DISTRIBUIDORA DE TELAS E ARAMES LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 48330971000126, SETOR: PRIVATE - 4672900 - COMERCIO ATACADISTA DE FERRAGENS E FERRAMENTAS, DATA INICIO: 17/06/2008, DATA FINAL: 09/07/2014, SITUACAO: INATIVO
+
+NOME EMPRESA: ROMA JENSEN COMERCIO E INDUSTRIA LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 51332203000116, SETOR: PRIVATE - 3240099 - FABRICACAO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 21/03/2017, DATA FINAL: 18/06/2017, SITUACAO: INATIVO
+
+NOME EMPRESA: FERNANDO APARECIDO RODRIGUES 26810631836, NIVEL: ENTREPRENEUR | BUSINESS OWNER, CNPJ: 24158775000158, SETOR: PRIVATE - 4330404 - SERVICOS DE PINTURA DE EDIFICIOS EM GERAL, DATA INICIO: 30/11/2016, DATA FINAL: 19/12/2018, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 03.512.943/0001-91, EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/07/2017, DEMISSAO: 16/12/2021, RENDA: DE 21.001 A 24.000, SITUACAO: Entregue
+
+CNPJ: 03.512.943/0001-91, EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/07/2017, DEMISSAO: 16/12/2021, RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.668,24\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 2.725,36\nFAIXA: 5
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Com a faixa etária entre 36 e 55 anos, são proprietários/sócios de comércios de pequeno porte, predominantemente localizados nas regiões Sul e Sudeste do país, nas regiões próximas às divisas dos municípios. A renda estimada deste grupo permite um padrão de consumo médio, com alguns confortos. Representam 2,73% da população brasileira.
+Segmento Target: Com a faixa etária entre 36 e 55 anos, são proprietários/sócios de comércios de pequeno porte, predominantemente localizados nas regiões Sul e Sudeste do país, nas regiões próximas às divisas dos municípios. A renda estimada deste grupo permite um padrão de consumo médio, com alguns confortos. Representam 2,73% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12432941227
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 17/09/2020 17:28
+Ano: 2019 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 09/03/2020 10:56
+Ano: 2018 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR. | Banco: Não informada | Agência: Não informada | Data Consulta: 08/05/2019 13:33
+Ano: 2017 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 30/04/2018 18:24
+Ano: 2014 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 9
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 9
+Fintech: 6
+Cartão High User: 5
+Consignado: 6
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 4
+Fitness: 6
+Jogos Online: 3
+
+PROPORÇÕES:
+Banco Digital: 0.21465917954253
+Fintech: 0.43014246041443
+Consignado: 0.44660039324425
+Banda Larga: 0.27775719823866
+Seguro Auto: 0.25771839764805
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: False
+  Consórcio: True
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: True
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:20:47] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: LEONARDO APARECIDO RODRIGUES
+🆔 CPF: 25054984828
+📄 Nº Registro: 3636222117
+🏳️ UF: SP
+
+🎂 Data Nascimento: 09/12/1975
+🚗 Primeira Habilitação: 13/07/2005
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 16/09/2021
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: LEONARDO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 25054984828
+Data de Nascimento: 09/12/1975
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.550,00
+Faixa de Renda: Mais de R$ 1.500,00 a R$ 2.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 10/07/2023 19:02:00
+Data Inclusão: Não informado
+Código Controle: E1F5.B062.F08B.C9AB
+
+[ANATEL]
+Nome: LEONARDO APARECIDO RODRIGUES
+Telefone: 1111999087396
+Operadora: VIVO
+Endereço: AV OSVALDO REGINO ORNELLAS  - VILA PAULISTA - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] leonardoleomeiaduziamogi@gmail.com | Ranking 1 | Recência 06-FEB-21
+[DATAB - ENDEREÇO] OSVALDO REGINO ORNELLAS 528 - MOGI DAS CRUZES/SP CEP 8742440
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745500
+[DATAB - ENDEREÇO] ANDREAS F RIEGER 381 - MOGI DAS CRUZES/SP CEP 8745260
+[DATAB - TEL] (11) 974539888 Ranking 4
+[DATAB - TEL] (11) 999087396 Ranking 3
+[DATAB - TEL] (11) 45667948 Ranking 1
+[DATAB - TEL] (11) 23121304 Ranking 2
+[DATAB - TEL] (11) 945610423 Ranking 1
+[SIPNI]
+Nome: LEONARDO APARECIDO RODRIGUES
+Nascimento: 1975-12-09
+Sexo: M
+Óbito: false
+
+[RAIS 2012] RUD CORRENTES INDUSTRIAIS LTDA | 5.26
+[RAIS 2022] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2022] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2024] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2025] RUD CORRENTES INDUSTRIAIS LTDA | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47232-331 | 16/12/2015
+(11) 47215-263 | 05/03/2009
+(11) 45667-948 | N/I
+(11) 97453-9888 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 97232-3310, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-2331, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4721-5263, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (97) 4539888, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS 1 - CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV JULIO SIMOES 528, JD APOLO, MOGI DAS CRUZES/SP, 87433-36
+
+AV JULIO SIMOES, VL PAULISTA DA ESTACAO, MOGI DAS CRUZES/SP, 87424-40
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 89519706000178, SETOR: PRIVATE - 2599399 - FABRICACAO DE OUTROS PRODUTOS DE METAL NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 19/05/2008, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: SEAWARD COMERCIAL IMPORTADORA LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 64984370000193, SETOR: PRIVATE - 4789004 - COMERCIO VAREJISTA DE ANIMAIS VIVOS E DE ARTIGOS E ALIMENTOS PARA ANIMAIS DE ESTIMACAO, DATA INICIO: 01/10/2005, DATA FINAL: 14/05/2008, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 89.519.706/0001-78, EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 19/05/2008, DEMISSAO: , RENDA: DE 12.001 A 15.000, SITUACAO: Entregue
+
+CNPJ: 89.519.706/0001-78, EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 19/05/2008, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: PAI, NOME: AGOSTINHO GOMES RODRIGUES, CPF: 18137741615
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: HILDA FERREIRA LIMA, CPF: 1394149328
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: D
+
+SUB-CLASSE: D
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.110,08\nFAIXA DE RENDA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 488,72\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXISSIMO RISCO
+RISCO VIVO: BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Adultos entre 36 e 45 anos com ensino fundamental, podendo variar entre iletrados até formação técnica para os que possuem ensino médio. Vivem em regiões metropolitanas, com acesso à infraestrutura limitada. O poder aquisitivo tende a ser entre baixo e muito baixo e provavelmente pertencem a classe econômica E.  Representam 2,78% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12515774875
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR. | Banco: Não informada | Agência: Não informada | Data Consulta: 15/08/2020 03:43
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 27/10/2018 13:27
+Ano: 2015 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 03/11/2018 16:10
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 7
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 6
+Fintech: 5
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 6
+
+HÁBITOS:
+Banda Larga: 7
+Compra Internet: 3
+Fitness: 7
+Jogos Online: 4
+
+PROPORÇÕES:
+Banco Digital: 0.47804288718068
+Fintech: 0.56197558793527
+Consignado: 0.30485006487546
+Banda Larga: 0.40731960372636
+Seguro Auto: 0.50024079292024
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: True
+  Consórcio: True
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: True
+  STIX: False
+  Internet Banking: True
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO SP: ---
+
+PLACA: FNY7630, CHASSI: 9BD17102ZG7572981, CHASSI: 9BD17102ZG7572981, RENAVAM: 1078970898, MARCA: FIAT/PALIO FIRE
+
+PLACA: DLW0739, CHASSI: 9C6KE044050116391, CHASSI: 9C6KE044050116391, RENAVAM: 855240539, MARCA: YAMAHA/YBR 125K
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:20:54] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: JOSILEIDE ROBERTO PEREIRA
+Nome Civil: Não informado
+Nome da Mãe: ROSALIA ROBERTA DE CAMARA PEREIRA
+Nome do Pai: Não informado
+CPF: 34657220861
+Data de Nascimento: 30/07/1983
+Sexo: F
+Estado Civil: Não informado
+RG: 2338525
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 5.800,00
+Faixa de Renda: Mais de R$ 5.000,00 a R$ 6.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 29/05/2023 13:21:00
+Data Inclusão: Não informado
+Código Controle: 58BB.D76D.0348.DE21
+
+[DATAB - ENDEREÇO] JOAO PEDRO RIBEIRO 435 - SAO PAULO/SP CEP 4415170
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] MIGUEL DE GUEVARA 253 - SAO PAULO/SP CEP 4415140
+[DATAB - ENDEREÇO] NILO MARCATTO 2700 - MOGI DAS CRUZES/SP CEP 8830010
+[DATAB - TEL] (11) 27621523 Ranking 1
+[DATAB - TEL] (11) 37157045 Ranking 3
+[DATAB - TEL] (11) 47255463 Ranking 2
+[DATAB - TEL] (11) 34277944 Ranking 4
+[DATAB - TEL] (11) 958566641 Ranking 1
+[EMPRESA] INSTITUTO SOCIAL O CAMINHO DA VIDA CNPJ 04963975
+  Sócio: JOSILEIDE ROBERTO PEREIRA RODRIGUES CPF 34657220861
+[SIPNI]
+Nome: JOSILEIDE ROBERTO PEREIRA
+Nascimento: 1983-07-30
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 37157-045 | 07/01/2014
+(11) 95856-6641 | N/I
+(11) 47255-463 | 22/02/2019
+(11) 27621-523 | 06/12/2018
+(11) 94766-0544 | N/I
+(11) 34277-944 | 10/02/2015
+(11) 56263-318 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4725-5463, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 2762-1523, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 5626-3318, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3427-7944, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3715-7045, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R MIGUEL DE GUEVARA 253 C 1 - C 1, VL CAPELA, SAO PAULO/SP, 44151-40
+
+R JOAO PEDRO RIBEIRO 7 B - B, VL CAPELA, SAO PAULO/SP, 44151-70
+
+R JOAO PEDRO RIBEIRO 461, VL CAPELA, SAO PAULO/SP, 44151-70
+
+R DR RICARDO VILELA 300, CENTRO, MOGI DAS CRUZES/SP, 87101-50
+
+AV FRANCISCO RUIZ 146, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+AV FRANCISCO RUIZ 146 AP 22 15 - AP 22 15, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: ROSALIA ROBERTO DE CAMARA PEREIRA, CPF: Não informado
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: B
+
+SUB-CLASSE: B2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.595,32\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 3.498,09\nFAIXA: 6
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+Segmento Target: Moradores dos grandes centros urbanos ou de metrópoles bastante próximas das capitais. Sócios ou empresários, com idade superior a 56 anos e poder aquisitivo médio alto - alto. Geralmente, buscam avaliar a relação custo vs. benefício nos momentos de compras de maior valor agregado. Representam 1,88% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 10/10/2020 18:19
+Ano: 2017 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 01/05/2018 09:25
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 6
+Cliente Premium: 10
+Perfil Luxo: 9
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 5
+Cartão High User: 3
+Consignado: 9
+Crédito Imobiliário: 8
+
+HÁBITOS:
+Banda Larga: 4
+Compra Internet: 2
+Fitness: 1
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.77330510327668
+Fintech: 0.55785325498795
+Consignado: 0.11453657615899
+Banda Larga: 0.66116344550284
+Seguro Auto: 0.19507806172603
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: True
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: False
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: False
+  TV a Cabo: True
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: True
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: True
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:21:01] --- RESULTADOS: ---
+
+NOME: FERNANDO APARECIDO RODRIGUES
+CPF: 26810631836
+NASCIMENTO: 18/03/1974
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 6050
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: LEONARDO APARECIDO RODRIGUES
+CPF: 25054984828
+NASCIMENTO: 09/12/1975
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 1550
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: REINALDO ROSA RODRIGUES
+CPF: 26498282851
+NASCIMENTO: 04/07/1977
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 6050
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: RODRIGO ROSA RODRIGUES
+CPF: 33894168897
+NASCIMENTO: 22/07/1983
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 750
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+CPF: 32865757803
+NASCIMENTO: 03/10/1981
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 2200
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: APARECIDO RODRIGUES
+CPF: 26441613808
+NASCIMENTO: 15/04/1940
+MAE: SERAFINA RODRIGUES
+CBO: 
+RENDA: 800
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: JOSILEIDE ROBERTO PEREIRA
+CPF: 34657220861
+NASCIMENTO: 30/07/1983
+MAE: ROSALIA ROBERTA DE CAMARA PEREIRA
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 5800
+ENDERECO: R BUFALO 85 C 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: DEBORA RODRIGUES NORONHA
+CPF: 35709078808
+NASCIMENTO: 26/02/1988
+MAE: MARLI ROSA RODRIGUES
+CBO: AJUDANTE DE PADEIRO
+RENDA: 750
+ENDERECO: R BUFALO 85 CS 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: GUSTAVO APARECIDO RODRIGUES
+CPF: 17783777856
+NASCIMENTO: 24/02/1972
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 3650
+ENDERECO: R BUFALO 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: ADRIANA ROSA RODRIGUES
+CPF: 21694159809
+NASCIMENTO: 28/03/1980
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 600
+ENDERECO: R BUFALO 85 C 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: MARLI ROSA RODRIGUES
+CPF: 24839322821
+NASCIMENTO: 04/11/1942
+MAE: CECILIA ROSA PEREIRA DA SILVA
+CBO: 
+RENDA: 1500
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: AMELIA IGARASHI
+CPF: 24898623832
+NASCIMENTO: 17/05/1975
+MAE: LUZIA PAULINA IGARASHI
+CBO: FAXINEIRO
+RENDA: 1350
+ENDERECO: R BUFALO 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: ADRIANO NORONHA
+CPF: 32213164886
+NASCIMENTO: 21/07/1985
+MAE: JULIMARA NORONHA
+CBO: CARRETEIRO (TRANSPORTE DE ANIMAL)
+RENDA: 750
+ENDERECO: R BUFALO 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: RICARDO TIAGO DE FARIAS
+CPF: 22239131802
+NASCIMENTO: 21/03/1978
+MAE: AUREA APARECIDA DE FARIAS
+CBO: MOTORISTA DE CAMINHÃO-GUINDASTE
+RENDA: 1450
+ENDERECO: R BUFALO 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: MARLI ROSA RODRIGUES
+CPF: 24839322821
+NASCIMENTO: 04/11/1942
+MAE: CECILIA ROSA PEREIRA DA SILVA
+CBO: 
+RENDA: 1500
+ENDERECO: R VANILSON BELGO DE SOUZA 85 CS CS 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+CPF: 32865757803
+NASCIMENTO: 03/10/1981
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 2200
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: FERNANDO APARECIDO RODRIGUES
+CPF: 26810631836
+NASCIMENTO: 18/03/1974
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 6050
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: REINALDO ROSA RODRIGUES
+CPF: 26498282851
+NASCIMENTO: 04/07/1977
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 6050
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: GUSTAVO APARECIDO RODRIGUES
+CPF: 17783777856
+NASCIMENTO: 24/02/1972
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 3650
+ENDERECO: R VANILSON BELGO DE SOUZA 85 C 3
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: DEBORA RODRIGUES NORONHA
+CPF: 35709078808
+NASCIMENTO: 26/02/1988
+MAE: MARLI ROSA RODRIGUES
+CBO: AJUDANTE DE PADEIRO
+RENDA: 750
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: GUSTAVO APARECIDO RODRIGUES
+CPF: 17783777856
+NASCIMENTO: 24/02/1972
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 3650
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: GUSTAVO APARECIDO RODRIGUES
+CPF: 17783777856
+NASCIMENTO: 24/02/1972
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 3650
+ENDERECO: R VANILSON BELGO DE SOUZA 85 CS CS 3
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: REINALDO ROSA RODRIGUES
+CPF: 26498282851
+NASCIMENTO: 04/07/1977
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 6050
+ENDERECO: R VANILSON BELGO DE SOUZA 85 C 2
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+CPF: 32865757803
+NASCIMENTO: 03/10/1981
+MAE: MARLI ROSA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 2200
+ENDERECO: R VANILSON BELGO DE SOUZA 85 C 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: MARLI ROSA RODRIGUES
+CPF: 24839322821
+NASCIMENTO: 04/11/1942
+MAE: CECILIA ROSA PEREIRA DA SILVA
+CBO: 
+RENDA: 1500
+ENDERECO: R VANILSON BELGO DE SOUZA 85
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: LEONARDO APARECIDO RODRIGUES
+CPF: 25054984828
+NASCIMENTO: 09/12/1975
+MAE: MARLI ROSA RODRIGUES
+CBO: 
+RENDA: 1550
+ENDERECO: R VANILSON BELGO DE SOUZA 85 CS 1
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+NOME: LETICIA RODRIGUES PEREIRA
+CPF: 48296204800
+NASCIMENTO: 28/07/1998
+MAE: ELIANA APARECIDA RODRIGUES
+CBO: ADMINISTRADOR DE ORÇAMENTO
+RENDA: 1650
+ENDERECO: R VANILSON BELGO DE SOUZA 85 C
+BAIRRO: VL JUNDIAI
+MUNICIPIO/UF: MOGI DAS CRUZES - SP
+CEP: 8745540
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:21:03] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+🆔 CPF: 32865757803
+📄 Nº Registro: 8337770441
+🏳️ UF: SP
+
+🎂 Data Nascimento: 03/10/1981
+🚗 Primeira Habilitação: 18/10/2023
+📘 Categoria: Permissionário
+
+🕒 Última Atualização: 19/10/2023
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 32865757803
+Data de Nascimento: 03/10/1981
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 2.200,00
+Faixa de Renda: Mais de R$ 2.000,00 a R$ 2.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 31/12/2005 00:00:00
+Código Controle: 563B.8F54.5CB7.061A
+
+[ANATEL]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Telefone: 1111996844745
+Operadora: VIVO
+Endereço: BUFALO  - VILA JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] andrefelix144@hotmail.com | Ranking 2 | Recência 20-JAN-20
+[DATAB - EMAIL]  | Ranking 1 | Recência 07-APR-23
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 47213036 Ranking 9
+[DATAB - TEL] (11) 47295410 Ranking 7
+[DATAB - TEL] (11) 972336457 Ranking 6
+[DATAB - TEL] (11) 996844745 Ranking 2
+[DATAB - TEL] (11) 47272739 Ranking 8
+[DATAB - TEL] (11) 997686478 Ranking 5
+[DATAB - TEL] (11) 997699315 Ranking 4
+[DATAB - TEL] (11) 953074038 Ranking 3
+[DATAB - TEL] (11) 47233734 Ranking 1
+[SIPNI]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nascimento: 1981-10-03
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 47213-036 | 12/09/2016
+(11) 47351-334 | 23/01/2018
+(11) 98531-7899 | N/I
+(11) 99768-6478 | N/I
+(11) 99684-4745 | 22/12/2021
+
+--- OPERADORAS: ---
+
+TELEFONE: (19) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99768-6478, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99769-9315, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 95307-4038, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R JERONIMO MARIANO 80, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+R VANILSON BELGO DE SOUZA 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.780,13\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.284,77\nFAIXA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXO
+RISCO VIVO: MEDIO BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+Segmento Target: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 5
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 6
+Fintech: 4
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 8
+
+HÁBITOS:
+Banda Larga: 5
+Compra Internet: 4
+Fitness: 2
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.43089568833353
+Fintech: 0.64154045178151
+Consignado: 0.3479336992511
+Banda Larga: 0.56398488792749
+Seguro Auto: 0.4287379654465
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: True
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: True
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: True
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: True
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: True
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:21:05] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: SERAFINA RODRIGUES
+Nome do Pai: Não informado
+CPF: 26441613808
+Data de Nascimento: 15/04/1940
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 800,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 04/10/2022 22:43:00
+Data Inclusão: Não informado
+Código Controle: 5ADE.B652.11CF.A0BF
+
+[ANATEL]
+Nome: APARECIDO RODRIGUES
+Telefone: 1111942007773
+Operadora: VIVO
+Endereço: RUA R BUFALO  - VILA JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 14-OCT-19
+
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 942007773 Ranking 1
+[SIPNI]
+Nome: APARECIDO RODRIGUES
+Nascimento: 1940-04-15
+Sexo: M
+Óbito: true
+
+[RAIS 2022]  | 
+[ÓBITO 2024]  CPF  Data 
+[ÓBITO 2025] APARECIDO RODRIGUES CPF 26441613808 Data 10/02/2017
+
+--- TELEFONES ---
+
+(11) 47384-858 | 10/05/2011
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4738-4858, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BRAZILIO DE SOUZA LEITE 160 C - C, AT DA BOA VISTA, MOGI DAS CRUZES/SP, 87156-30
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: SERAFINA RODRIGUES, CPF: Não informado
+
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO ALTO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados, em geral, com idade acima de 85 anos, vivendo sozinhos ou com poucas pessoas no mesmo endereço há mais de 10 anos no interior dos estados. De um modo geral, vivem em locais  tranquilos e é provável que tenham formado fortes laços com a vizinhança. Representam 2,82% da população brasileira.
+Segmento Target: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 10
+Cliente Premium: 7
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 10
+Fintech: 10
+Cartão High User: 9
+Consignado: 10
+Crédito Imobiliário: 10
+
+HÁBITOS:
+Banda Larga: 9
+Compra Internet: 9
+Fitness: 10
+Jogos Online: 10
+
+PROPORÇÕES:
+Banco Digital: 0.055659735473253
+Fintech: 0.047709693794897
+Consignado: 0.09749073975561
+Banda Larga: 0.19371073321392
+Seguro Auto: 0.023656023471638
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: False
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: True
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: False
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: True
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:21:18] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: DEBORA RODRIGUES NORONHA
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 35709078808
+Data de Nascimento: 26/02/1988
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 750,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 04/07/2023 22:35:00
+Data Inclusão: Não informado
+Código Controle: D4E3.20E5.BF48.36DC
+
+[DATAB - EMAIL] adrianonoronha80@gmail.com | Ranking 1 | Recência 19-OCT-15
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] VEREADOR ANTONIO TEIXEIRA MUNIZ 296 - MOGI DAS CRUZES/SP CEP 8820370
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 968568600 Ranking 1
+[DATAB - TEL] (11) 971674226 Ranking 1
+[DATAB - TEL] (11) 47272739 Ranking 1
+[DATAB - TEL] (11) 47384858 Ranking 2
+[DATAB - TEL] (11) 953573937 Ranking 5
+[DATAB - TEL] (11) 998138253 Ranking 1
+[DATAB - TEL] (11) 947207423 Ranking 4
+[DATAB - TEL] (11) 947150328 Ranking 3
+[DATAB - TEL] (11) 947733564 Ranking 2
+[DATAB - TEL] (11) 47998625 Ranking 1
+[DATAB - TEL] (11) 998238653 Ranking 1
+[SIPNI]
+Nome: DEBORA RODRIGUES NORONHA
+Nascimento: 1988-02-26
+Sexo: F
+Óbito: false
+
+[RAIS 2012] JOSE ARLINDO DE SOUZA BAR  ME | 825.6
+[RAIS 2022] R VINICIUS FERREIRA | 
+[RAIS 2022] R VINICIUS FERREIRA | 
+[RAIS 2024] ALIMENTA SERVICOS LTDA | 
+[RAIS 2025] ALIMENTA SERVICOS LTDA | 
+
+--- TELEFONES ---
+
+(11) 95357-3937 | 22/10/2020
+(11) 47233-734 | 09/06/2015
+(11) 47232-080 | 09/12/2015
+(11) 47384-858 | 10/09/2019
+(11) 28568-600 | N/I
+(11) 94720-7423 | 20/10/2018
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99813-8253, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 96856-8600, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 97167-4226, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 2856-8600, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-3734, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VALTER MIRANDA DE BITENCOURT 27, JD MALDA, FERRAZ DE VASCONCELOS/SP, 85423-70
+
+R BUFALO 85 CS 1 - CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 8, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: R VINICIUS FERREIRA, NIVEL: FUNCIONÁRIO, CNPJ: 30567716000136, SETOR: PRIVATE - 5620104 - FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR, DATA INICIO: 01/08/2018, DATA FINAL: 30/07/2021, SITUACAO: INATIVO
+
+NOME EMPRESA: JOSE ARLINDO DE SOUZA BAR, NIVEL: FUNCIONÁRIO, CNPJ: 11307201000152, SETOR: PRIVATE - 5611204 - BARES E OUTROS ESTABELECIMENTOS ESPECIALIZADOS EM SERVIR BEBIDAS, SEM ENTRETENIMENTO, DATA INICIO: 01/02/2010, DATA FINAL: 06/12/2012, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 30.567.716/0001-36, EMPRESA: R VINICIUS FERREIRA, ENTREGA: 26/04/2022, ADMISSAO: 01/08/2018, DEMISSAO: 30/07/2021, RENDA: DE 1.001 A 3.000, SITUACAO: Entregue
+
+CNPJ: 30.567.716/0001-36, EMPRESA: R VINICIUS FERREIRA, ENTREGA: 26/04/2022, ADMISSAO: 01/08/2018, DEMISSAO: 30/07/2021, RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 702,24\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: BAIXO
+
+FAIXA DE RENDA: De R$ 631 até R$ 1018
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 405,14\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: ALTO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Jovens adultos com idade entre 26 a 35 anos, solteiros,?trabalhadores com qualificação técnica em serviços industriais ou de manutenção. Moram com a família, geralmente em áreas com infraestrutura básica na área metropolitana das grandes cidades fora das capitais  Representam 3,53% da população brasileira.
+Segmento Target: Adultos com idade entre 18 e 35 anos, com grau de instrução que varia entre primeiro ensino fundamental ou até ensino médio técnico. Vivem em lares com poucas pessoas, em cidades rurais de diferentes portes no interior dos estados. Trabalham principalmente no setor de agropecuária e pesca em cargos de baixo nível hierárquico. Representam 3,02% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 20778286821
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 6
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 6
+Cartão High User: 4
+Consignado: 6
+Crédito Imobiliário: 10
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 4
+Fitness: 4
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.72623985315129
+Fintech: 0.41650650755335
+Consignado: 0.43314571666421
+Banda Larga: 0.28750015196776
+Seguro Auto: 0.2925267774205
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: False
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: True
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:21:22] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: AMELIA IGARASHI
+🆔 CPF: 24898623832
+📄 Nº Registro: 2310719703
+🏳️ UF: SP
+
+🎂 Data Nascimento: 17/05/1975
+🚗 Primeira Habilitação: 27/02/1997
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 09/06/2022
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: AMELIA IGARASHI
+Nome Civil: Não informado
+Nome da Mãe: LUZIA PAULINA IGARASHI
+Nome do Pai: Não informado
+CPF: 24898623832
+Data de Nascimento: 17/05/1975
+Sexo: F
+Estado Civil: Não informado
+RG: 253797676
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): FAXINEIRO
+Renda: R$ 1.350,00
+Faixa de Renda: Mais de R$ 1.000,00 a R$ 1.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 20/06/2023 09:05:00
+Data Inclusão: Não informado
+Código Controle: 26B1.059B.F6A3.0B9F
+
+[DATAB - EMAIL] amelia_igarashi@terra.com.br | Ranking 1 | Recência 16-NOV-19
+[DATAB - EMAIL] ameliaigarashi2@gmail.com | Ranking 2 | Recência 06-APR-18
+[DATAB - ENDEREÇO] SHOZO SAKAI 745 - MOGI DAS CRUZES/SP CEP 8745100
+[DATAB - ENDEREÇO] SHOZO SAKAI 745 - MOGI DAS CRUZES/SP CEP 8743010
+[DATAB - TEL] (11) 34615601 Ranking 1
+[DATAB - TEL] (11) 972390536 Ranking 4
+[DATAB - TEL] (11) 997541423 Ranking 2
+[DATAB - TEL] (11) 998236374 Ranking 1
+[DATAB - TEL] (11) 998396402 Ranking 5
+[DATAB - TEL] (11) 975969008 Ranking 3
+[SIPNI]
+Nome: AMELIA IGARASHI
+Nascimento: 1975-05-17
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 97239-0536 | N/I
+(11) 99754-1423 | N/I
+(11) 99823-6374 | N/I
+(11) 96186-9415 | 04/08/2022
+(11) 97596-9008 | 04/08/2022
+(11) 47253-384 | N/I
+(11) 47275-601 | 04/08/2022
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99823-6374, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99754-1423, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 97239-0536, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99839-6402, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 97596-9008, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R SHOZO SAKAI 745, VL NOVA CINTRA, MOGI DAS CRUZES/SP, 87451-00
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: LUZIA PAULINA IGARASHI, CPF: 32856034888
+
+VINCULO: IRMA(O), NOME: ROBERTO IGARASHI, CPF: 26994071863
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 564,45\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MUITO BAIXO
+
+FAIXA DE RENDA: De R$ 112 até R$ 630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 681,50\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXISSIMO RISCO
+RISCO VIVO: BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados ou pessoas a caminho de uma aposentadoria, entre 51 e 65 anos que, na grande maioria, residem na mesma casa há mais de 15 anos. Muitos vivem em áreas urbanas, a maior parte na região Sudeste, geralmente em capitais e regiões metropolitanas. Em geral, possuem ensino fundamental ou ensino médio completo. Representam 2,80% da população brasileira.
+Segmento Target: Aposentados ou pessoas a caminho de uma aposentadoria, entre 51 e 65 anos que, na grande maioria, residem na mesma casa há mais de 15 anos. Muitos vivem em áreas urbanas, a maior parte na região Sudeste, geralmente em capitais e regiões metropolitanas. Em geral, possuem ensino fundamental ou ensino médio completo. Representam 2,80% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG:
+  - Número: 253797676 | Emissor: / | Data inclusão: 09/08/2022 17:49
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 9
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 8
+Fintech: 8
+Cartão High User: 7
+Consignado: 9
+Crédito Imobiliário: 6
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 8
+Fitness: 4
+Jogos Online: 8
+
+PROPORÇÕES:
+Banco Digital: 0.26410645826368
+Fintech: 0.24992444333328
+Consignado: 0.17836312062565
+Banda Larga: 0.32195767823379
+Seguro Auto: 0.095342503170987
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: False
+  Consórcio: True
+  Portabilidade: False
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: True
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:43] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: GUSTAVO APARECIDO RODRIGUES
+🆔 CPF: 17783777856
+📄 Nº Registro: 2317508819
+🏳️ UF: SP
+
+🎂 Data Nascimento: 24/02/1972
+🚗 Primeira Habilitação: 14/11/1997
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 19/08/2022
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: GUSTAVO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 17783777856
+Data de Nascimento: 24/02/1972
+Sexo: M
+Estado Civil: Não informado
+RG: 25397280
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 3.650,00
+Faixa de Renda: Mais de R$ 3.000,00 a R$ 4.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 26/01/2007 12:39:00
+Código Controle: 41D6.CC09.7514.253B
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947189599
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947660544
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] b8c716955863@acs.com.br | Ranking 1 | Recência 11-SEP-16
+[DATAB - EMAIL] gaparecidorodrigues2011@bol.com.br | Ranking 2 | Recência 24-MAR-16
+[DATAB - EMAIL] apgustavor@hotmail.com | Ranking 3 | Recência 19-OCT-15
+[DATAB - ENDEREÇO] DOS VICENTINOS 1650 - MOGI DAS CRUZES/SP CEP 8795360
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] SARAIVA 400 - MOGI DAS CRUZES/SP CEP 8745140
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - TEL] (11) 34277944 Ranking 9
+[DATAB - TEL] (11) 29889891 Ranking 15
+[DATAB - TEL] (11) 47232080 Ranking 11
+[DATAB - TEL] (11) 983315934 Ranking 8
+[DATAB - TEL] (11) 992885089 Ranking 14
+[DATAB - TEL] (11) 28485787 Ranking 13
+[DATAB - TEL] (11) 47253283 Ranking 12
+[DATAB - TEL] (11) 947660544 Ranking 3
+[DATAB - TEL] (11) 947562072 Ranking 10
+[DATAB - TEL] (11) 947189599 Ranking 2
+[DATAB - TEL] (11) 940142507 Ranking 1
+[DATAB - TEL] (11) 47965394 Ranking 7
+[DATAB - TEL] (11) 47957104 Ranking 6
+[DATAB - TEL] (11) 47355330 Ranking 5
+[DATAB - TEL] (11) 943968403 Ranking 4
+[PIX] DOCK IP S.A. | TELEFONE | +5511941644608 | ATIVO
+[PIX] BCO BRADESCO S.A. | CPF | 17783777856 | ATIVO
+[PIX] NU PAGAMENTOS - IP | EMAIL | recebimento@jsl.com.br | ATIVO
+[PIX]  |  | 8d86c22a-a984-4be5-b0f1-97ece3c2a73e | INATIVO
+[PIX] PICPAY | CHAVE_ALEATORIA | 0c0fb09d-0878-4b10-8650-260c33449f8e | ATIVO
+[PIX] NU PAGAMENTOS - IP | CHAVE_ALEATORIA | 706a409b-47a5-441a-8143-7e1fdd7cdba9 | ATIVO
+[PIX] NU PAGAMENTOS - IP | TELEFONE | +5511947189599 | ATIVO
+[SIPNI]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Nascimento: 1972-02-24
+Sexo: M
+Óbito: false
+
+[RAIS 2012] JSL  S/A SEDE ADMINISTRATIVA | 1645.07
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2024] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2025] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+--- BANCOS: ---
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:6959, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47355-330 | 16/08/2022
+(11) 28485-787 | 06/01/2021
+(11) 47259-599 | 06/01/2021
+(11) 47253-283 | 16/08/2022
+(11) 47997-092 | 05/04/2018
+(11) 99288-5089 | 23/04/2020
+(11) 47232-080 | 23/04/2020
+(11) 98331-5934 | 23/04/2020
+(11) 34277-944 | 16/08/2022
+(11) 94766-0544 | 14/01/2021
+(11) 94718-9599 | 12/07/2023
+(11) 47957-000 | 23/04/2020
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99288-5089, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 98331-5934, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3427-7944, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4799-7092, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4725-9599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 0142507, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7189599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7660544, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R DOS VICENTINOS 1650, VL NATAL, MOGI DAS CRUZES/SP, 87953-60
+
+R FRANCISCO RUIZ PACO 146, VL MORAES, MOGI DAS CRUZES/SP, 87665-10
+
+AV FRANCISCO RUIZ 146 AP 22 BL - AP 22 BL, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+AV SARAIVA 400, VL CINTRA, MOGI DAS CRUZES/SP, 87459-00
+
+R VANILSON BELGO DE SOUZA 83 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R SETE DE SETEMBRO 20 C - C, CJ HABITACIONAL BRAS CUBAS, MOGI DAS CRUZES/SP, 87252-00
+
+R VANILSON BELGO DE SOUZA 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R VANILSON BELGO DE SOUZA 85 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 3 - CS CS 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146 BL 15 AP 22 - BL 15 AP 22, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV SARAIVA, VL CINTRA, MOGI DAS CRUZES/SP, 87451-40
+
+R ANNA S GOMES AMORIM S GOMES AMORIM 146 BL 15 AP 22 - S GOMES AMORIM 146 BL 15 AP 22, CJ HABITACIONAL ANA PAULA, MOGI DAS CRUZES/SP, 87252-30
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 33673701000140, SETOR: PRIVATE - 4921301 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, MUNICIPAL, DATA INICIO: 02/08/1999, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: JSL S.A., NIVEL: FUNCIONÁRIO, CNPJ: 52548435002708, SETOR: PRIVATE - 4930202 - TRANSPORTE RODOVIARIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANCAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL, DATA INICIO: 02/08/1999, DATA FINAL: 30/06/2016, SITUACAO: INATIVO
+
+NOME EMPRESA: CS BRASIL TRANSPORTES DE PASSAGEIROS E SERVICOS AMBIENTAIS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 10965693000100, SETOR: PRIVATE - 4922102 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, INTERESTADUAL, DATA INICIO: 02/08/1999, DATA FINAL: 31/01/2020, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: DE 24.001 A 27.000, SITUACAO: Entregue
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: B
+
+SUB-CLASSE: B2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.700,44\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.632,80\nFAIXA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: MEDIO ALTISSIMO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12364562912
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2021 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 08/04/2022 04:42
+Ano: 2020 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 11/10/2020 00:08
+Ano: 2019 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL - PROCESSADA EM FILA DE RESTITUICAO | Banco: Não informada | Agência: Não informada | Data Consulta: 09/10/2019 16:15
+Ano: 2019 | Situação: CREDITADA | Banco: CAIXA ECONOMICA FEDERAL | Agência: 2869 | Data Consulta: 01/03/2020 10:31
+Ano: 2018 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 6959 | Data Consulta: 07/05/2019 02:38
+Ano: 2017 | Situação: AGUARDANDO REAGENDAMENTO PELO CONTRIBUINTE | Banco: BANCO DO BRASIL | Agência: Não informada | Data Consulta: 24/02/2018 00:00
+Ano: 2016 | Situação: ENVIADA PARA CREDITO NO BANCO | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 12/12/2016 00:00
+Ano: 2015 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 09/09/2023 00:05
+Ano: 2014 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 7
+Cliente Premium: 10
+Perfil Luxo: 8
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 5
+Cartão High User: 2
+Consignado: 2
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 1
+Compra Internet: 1
+Fitness: 10
+Jogos Online: 9
+
+PROPORÇÕES:
+Banco Digital: 0.73719997289971
+Fintech: 0.59813410712281
+Consignado: 0.89762491415941
+Banda Larga: 0.78874362075931
+Seguro Auto: 0.97744713837064
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: True
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: True
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: True
+  Financiamento Veicular: True
+  Consignado: True
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: True
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: True
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: True
+  Jogos Online: False
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: True
+  TV a Cabo: True
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: True
+  Seguro Saúde: True
+  Seguro Vida: True
+  Previdência Privada: True
+  STIX: True
+  Internet Banking: True
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: DNA5076, CHASSI: 9BD17203743092187, CHASSI: 9BD17203743092187, RENAVAM: 821371410, MARCA: FIAT/SIENA FIRE
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:49] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: MARLI ROSA RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: CECILIA ROSA PEREIRA DA SILVA
+Nome do Pai: Não informado
+CPF: 24839322821
+Data de Nascimento: 04/11/1942
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.500,00
+Faixa de Renda: Mais de R$ 1.000,00 a R$ 1.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 14/12/2023 16:51:00
+Data Inclusão: Não informado
+Código Controle: 5777.3078.6C01.2B34
+
+[DATAB - ENDEREÇO] FRANCISCO DO CARMO 569 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VEREADOR JOSE BARBOSA 330 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VOLUNTARIO VOL FERNANDO P FRANCO 609 - MOGI DAS CRUZES/SP CEP 8710500
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (32) 33612456 Ranking 1
+[DATAB - TEL] (11) 47213636 Ranking 4
+[DATAB - TEL] (11) 47384858 Ranking 5
+[DATAB - TEL] (11) 47233734 Ranking 3
+[DATAB - TEL] (32) 33612990 Ranking 2
+[SIPNI]
+Nome: MARLI ROSA RODRIGUES
+Nascimento: 1942-11-04
+Sexo: F
+Óbito: false
+
+[RAIS 2012] CIA BRAS  DE DISTRIBUICAO | 948.93
+[RAIS 2022]  | 
+--- BANCOS: ---
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47213-636 | 09/12/2014
+(11) 47948-401 | 05/03/2009
+(32) 33612-456 | 23/01/2018
+(32) 33612-990 | 23/01/2018
+(11) 99607-4718 | N/I
+(21) 26797-664 | N/I
+(11) 47233-734 | 16/08/2022
+(11) 99170-2112 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4721-3636, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4794-8401, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2456, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-3734, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2990, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VER JOSE BARBOSA 330, CRESPO, CARANDAI/MG, 36282-249
+
+AV FRANCISCO DO CARMO 569 C - C, PTE CHAVE, CARANDAI/MG, 36282-421
+
+R JULIA BUFALO CONSOLINE 85, REC DAS ESTRELAS, ITATIBA/SP, 13254-854
+
+R BUFALO 45 C - C, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV VLTO FERNANDO PINHEIRO FRANCO 127, CENTRO, MOGI DAS CRUZES/SP, 87105-00
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 1 - CS CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC SAGRADA FAMILIA 76, PTE CHAVE, CARANDAI/MG, 36280-000
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC DR MARIO RODRIGUES PEREIRA 66 BANCO - BANCO, CENTRO, CONGONHAS/MG, 36415-000
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: FILHA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: FILHA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: FILHA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: FILHA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: FILHA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: FILHA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: FILHA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: MAE, NOME: CECILIA ROSA PEREIRA DA SILVA, CPF: Não informado
+
+VINCULO: FILHA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 903,42\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: BAIXO
+
+FAIXA DE RENDA: De R$ 631 até R$ 1018
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 770,57\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+Segmento Target: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12093222835
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 24/05/2017 00:00
+Ano: 2014 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 10
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 2
+Fintech: 6
+Cartão High User: 8
+Consignado: 2
+Crédito Imobiliário: 9
+
+HÁBITOS:
+Banda Larga: 9
+Compra Internet: 7
+Fitness: 10
+Jogos Online: 10
+
+PROPORÇÕES:
+Banco Digital: 0.8012187815107
+Fintech: 0.43799325903223
+Consignado: 0.91414910795943
+Banda Larga: 0.22802109432278
+Seguro Auto: 0.095548201242222
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: True
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: False
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: True
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: AUO2998, CHASSI: 9BD15802AC6640461, CHASSI: 9BD15802AC6640461, RENAVAM: 366044141, MARCA: FIAT/UNO MILLE ECONOMY
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:50] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: LEONARDO APARECIDO RODRIGUES
+🆔 CPF: 25054984828
+📄 Nº Registro: 3636222117
+🏳️ UF: SP
+
+🎂 Data Nascimento: 09/12/1975
+🚗 Primeira Habilitação: 13/07/2005
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 16/09/2021
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: LEONARDO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 25054984828
+Data de Nascimento: 09/12/1975
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.550,00
+Faixa de Renda: Mais de R$ 1.500,00 a R$ 2.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 10/07/2023 19:02:00
+Data Inclusão: Não informado
+Código Controle: E1F5.B062.F08B.C9AB
+
+[ANATEL]
+Nome: LEONARDO APARECIDO RODRIGUES
+Telefone: 1111999087396
+Operadora: VIVO
+Endereço: AV OSVALDO REGINO ORNELLAS  - VILA PAULISTA - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] leonardoleomeiaduziamogi@gmail.com | Ranking 1 | Recência 06-FEB-21
+[DATAB - ENDEREÇO] OSVALDO REGINO ORNELLAS 528 - MOGI DAS CRUZES/SP CEP 8742440
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745500
+[DATAB - ENDEREÇO] ANDREAS F RIEGER 381 - MOGI DAS CRUZES/SP CEP 8745260
+[DATAB - TEL] (11) 974539888 Ranking 4
+[DATAB - TEL] (11) 999087396 Ranking 3
+[DATAB - TEL] (11) 45667948 Ranking 1
+[DATAB - TEL] (11) 23121304 Ranking 2
+[DATAB - TEL] (11) 945610423 Ranking 1
+[SIPNI]
+Nome: LEONARDO APARECIDO RODRIGUES
+Nascimento: 1975-12-09
+Sexo: M
+Óbito: false
+
+[RAIS 2012] RUD CORRENTES INDUSTRIAIS LTDA | 5.26
+[RAIS 2022] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2022] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2024] RUD CORRENTES INDUSTRIAIS LTDA | 
+[RAIS 2025] RUD CORRENTES INDUSTRIAIS LTDA | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47232-331 | 16/12/2015
+(11) 47215-263 | 05/03/2009
+(11) 45667-948 | N/I
+(11) 97453-9888 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 97232-3310, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-2331, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4721-5263, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (97) 4539888, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS 1 - CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV JULIO SIMOES 528, JD APOLO, MOGI DAS CRUZES/SP, 87433-36
+
+AV JULIO SIMOES, VL PAULISTA DA ESTACAO, MOGI DAS CRUZES/SP, 87424-40
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 89519706000178, SETOR: PRIVATE - 2599399 - FABRICACAO DE OUTROS PRODUTOS DE METAL NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 19/05/2008, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: SEAWARD COMERCIAL IMPORTADORA LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 64984370000193, SETOR: PRIVATE - 4789004 - COMERCIO VAREJISTA DE ANIMAIS VIVOS E DE ARTIGOS E ALIMENTOS PARA ANIMAIS DE ESTIMACAO, DATA INICIO: 01/10/2005, DATA FINAL: 14/05/2008, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 89.519.706/0001-78, EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 19/05/2008, DEMISSAO: , RENDA: DE 12.001 A 15.000, SITUACAO: Entregue
+
+CNPJ: 89.519.706/0001-78, EMPRESA: RUD CORRENTES INDUSTRIAIS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 19/05/2008, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: PAI, NOME: AGOSTINHO GOMES RODRIGUES, CPF: 18137741615
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: HILDA FERREIRA LIMA, CPF: 1394149328
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: D
+
+SUB-CLASSE: D
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.110,08\nFAIXA DE RENDA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 488,72\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXISSIMO RISCO
+RISCO VIVO: BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Adultos entre 36 e 45 anos com ensino fundamental, podendo variar entre iletrados até formação técnica para os que possuem ensino médio. Vivem em regiões metropolitanas, com acesso à infraestrutura limitada. O poder aquisitivo tende a ser entre baixo e muito baixo e provavelmente pertencem a classe econômica E.  Representam 2,78% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12515774875
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR. | Banco: Não informada | Agência: Não informada | Data Consulta: 15/08/2020 03:43
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 27/10/2018 13:27
+Ano: 2015 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 03/11/2018 16:10
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 7
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 6
+Fintech: 5
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 6
+
+HÁBITOS:
+Banda Larga: 7
+Compra Internet: 3
+Fitness: 7
+Jogos Online: 4
+
+PROPORÇÕES:
+Banco Digital: 0.47804288718068
+Fintech: 0.56197558793527
+Consignado: 0.30485006487546
+Banda Larga: 0.40731960372636
+Seguro Auto: 0.50024079292024
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: True
+  Consórcio: True
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: True
+  STIX: False
+  Internet Banking: True
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO SP: ---
+
+PLACA: FNY7630, CHASSI: 9BD17102ZG7572981, CHASSI: 9BD17102ZG7572981, RENAVAM: 1078970898, MARCA: FIAT/PALIO FIRE
+
+PLACA: DLW0739, CHASSI: 9C6KE044050116391, CHASSI: 9C6KE044050116391, RENAVAM: 855240539, MARCA: YAMAHA/YBR 125K
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:51] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: LETICIA RODRIGUES PEREIRA
+🆔 CPF: 48296204800
+📄 Nº Registro: 7305516160
+🏳️ UF: SP
+
+🎂 Data Nascimento: 28/07/1998
+🚗 Primeira Habilitação: 31/07/2019
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 17/11/2023
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: LETICIA RODRIGUES PEREIRA
+Nome Civil: Não informado
+Nome da Mãe: ELIANA APARECIDA RODRIGUES
+Nome do Pai: Não informado
+CPF: 48296204800
+Data de Nascimento: 28/07/1998
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.650,00
+Faixa de Renda: Mais de R$ 1.500,00 a R$ 2.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 31/03/2014 04:00:00
+Código Controle: 9379.18F8.E779.797D
+
+[ANATEL]
+Nome: LETICIA RODRIGUES
+Telefone: 1111964083762
+Operadora: VIVO
+Endereço: RUA MANUEL DE OLIVEIRA  - VILA MOGILAR - MOGI DAS CRUZES/SP
+Ativação: 31-MAR-17
+
+[DATAB - EMAIL] letiicia.rodriigues@outlook.com | Ranking 1 | Recência 17-MAR-23
+[DATAB - ENDEREÇO] MANUEL DE OLIVEIRA S/N - MOGI DAS CRUZES/SP CEP 8773130
+[DATAB - ENDEREÇO] CLAUDIO SALLES VICENTINI 56 - MOGI DAS CRUZES/SP CEP 8744260
+[DATAB - TEL] (11) 964083762 Ranking 1
+[SIPNI]
+Nome: 
+Nascimento: 
+Sexo: 
+Óbito: 
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 96408-3762 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (96) 4083762, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VANILSON BELGO DE SOUZA 85 C - C, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R ANTONIO RUIZ VEIGA 110 BL 15 AP 203 - BL 15 AP 203, LOT MOGILAR, MOGI DAS CRUZES/SP, 87734-95
+
+R CLAUDIO SALLES VICENTINI 56, JD DRA LILIANA, MOGI DAS CRUZES/SP, 87442-60
+
+R BUFALO 85, MOGI DAS CRUZES, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.337,60\nFAIXA DE RENDA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 799,38\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTISSIMO
+RISCO VIVO: MUITO ALTO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Jovens adultos com idade até 30 anos, em sua maioria, solteiros. Profissionais, que possuem tecnólogo ou graduação/pós-graduação, em cargos de nível hierárquico médio ou baixo. Em geral, moram em apartamentos sozinhos ou em casas compartilhadas em regiões urbanas pois se mudaram recentemente para a residência que vivem hoje. Representam 2,34% da população brasileira.
+Segmento Target: Jovens entre 18 e 25 anos, os mais novos em relação a todos os grupos. Possuem ensino médio complento com nível técnico, ocupando cargos de baixo nível hierárquico. Moram no endereço atual há pouco tempo, em regiões metropolitanas e bairros das regiões periféricas nos grandes centros urbanos da região Sudeste do país. Representam 2,89% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 13096336139
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 3
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 4
+Fintech: 5
+Cartão High User: 4
+Consignado: 9
+Crédito Imobiliário: 10
+
+HÁBITOS:
+Banda Larga: 6
+Compra Internet: 3
+Fitness: 4
+Jogos Online: 10
+
+PROPORÇÕES:
+Banco Digital: 0.57893261791689
+Fintech: 0.54794611462548
+Consignado: 0.12048796335869
+Banda Larga: 0.54682647418486
+Seguro Auto: 0.22250339829581
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: True
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:56] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: RICARDO TIAGO DE FARIAS
+🆔 CPF: 22239131802
+📄 Nº Registro: 944518705
+🏳️ UF: SP
+
+🎂 Data Nascimento: 21/03/1978
+🚗 Primeira Habilitação: 08/10/1999
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 12/12/2023
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: RICARDO TIAGO DE FARIAS
+Nome Civil: Não informado
+Nome da Mãe: AUREA APARECIDA DE FARIAS
+Nome do Pai: Não informado
+CPF: 22239131802
+Data de Nascimento: 21/03/1978
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): MOTORISTA DE CAMINHÃO-GUINDASTE
+Renda: R$ 1.450,00
+Faixa de Renda: Mais de R$ 1.000,00 a R$ 1.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 06/09/2023 19:35:00
+Data Inclusão: Não informado
+Código Controle: 21C2.EBAD.FFA2.CCF9
+
+[DATAB - ENDEREÇO] FREIJO 236 - MOGI DAS CRUZES/SP CEP 8760090
+[DATAB - ENDEREÇO] BENEDITO DE ARAGAO CARDOSO 106 - MOGI DAS CRUZES/SP CEP 8740090
+[DATAB - ENDEREÇO] BENEDITO DE ARAGAO CARDOSO 106 - MOGI DAS CRUZES/SP CEP 8740090
+[DATAB - ENDEREÇO] LONTRA 40 - MOGI DAS CRUZES/SP CEP 8745480
+[DATAB - ENDEREÇO] BENEDITO DE ARAGAO CARDOSO 99999 - MOGI DAS CRUZES/SP CEP 8740090
+[DATAB - ENDEREÇO] SANTA VIRGILIA 212 - MOGI DAS CRUZES/SP CEP 8742100
+[DATAB - ENDEREÇO] ADEMAR BONAFE 27 - MOGI DAS CRUZES/SP CEP 8745530
+[DATAB - ENDEREÇO] INOCENCIO DA CUNHA RUDGE 284 - MOGI DAS CRUZES/SP CEP 8810080
+[DATAB - ENDEREÇO] BENEDITO DE ARAGAO CARDOSO 106 - SAO PAULO/SP CEP 3974170
+[DATAB - ENDEREÇO] PRINCESA ISABEL 6 - ITAQUAQUECETUBA/SP CEP 8579100
+[DATAB - ENDEREÇO] STA VIRGINIA 212 - MOGI DAS CRUZES/SP CEP 8763110
+[DATAB - ENDEREÇO] FRANCISCO FERREIRA LOPES 3189 - MOGI DAS CRUZES/SP CEP 8745000
+[DATAB - TEL] (11) 47299322 Ranking 3
+[DATAB - TEL] (11) 47211644 Ranking 1
+[DATAB - TEL] (11) 996358673 Ranking 1
+[DATAB - TEL] (11) 47299321 Ranking 2
+[DATAB - TEL] (11) 974674488 Ranking 6
+[DATAB - TEL] (11) 995889412 Ranking 5
+[DATAB - TEL] (11) 975307934 Ranking 4
+[DATAB - TEL] (11) 972324967 Ranking 3
+[DATAB - TEL] (11) 953170480 Ranking 2
+[DATAB - TEL] (11) 944448428 Ranking 1
+[DATAB - TEL] (11) 933085187 Ranking 1
+[DATAB - TEL] (11) 964023750 Ranking 2
+[SIPNI]
+Nome: RICARDO TIAGO DE FARIAS
+Nascimento: 1978-03-21
+Sexo: M
+Óbito: false
+
+[RAIS 2012] R C A REQUINTE CENTRO AUTOMOTIVO LTDA | 1363.19
+[RAIS 2019] TRUCKAP LOCACAO DE GUINDASTES LTDA EPP               | 
+[RAIS 2022] TRUCKAP LOCACAO DE GUINDASTES LTDA EPP | 
+[RAIS 2022] TRUCKAP LOCACAO DE GUINDASTES LTDA EPP | 
+[RAIS 2024] TRUCKAP LOCACAO DE GUINDASTES LTDA | 
+[RAIS 2025] TRUCKAP LOCACAO DE GUINDASTES LTDA | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 99588-9412 | 01/02/2018
+(11) 97530-7934 | N/I
+(11) 47222-365 | N/I
+(11) 94444-8428 | 14/04/2020
+(11) 47211-644 | 06/12/2018
+(11) 47299-321 | 22/02/2019
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 97232-4967, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99531-4273, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 95317-0480, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99635-8673, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99588-9412, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R ADEMAR BONAFE 27, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-30
+
+R FREIJO 236, JD PLANALTO, MOGI DAS CRUZES/SP, 87600-90
+
+R INOCENCIO DA CUNHA RUDGE 284, VL SUISSA, MOGI DAS CRUZES/SP, 88100-80
+
+AV FRANCISCO FERREIRA LOPES 3175, VL JUNDIAI, MOGI DAS CRUZES/SP, 87450-00
+
+AV FRANCISCO FERREIRA LOPES 3189, VL JUNDIAI, MOGI DAS CRUZES/SP, 87450-00
+
+R STA ANGELA MERICI 1, CJ RESIDENCIAL SANTO ANGELO, MOGI DAS CRUZES/SP, 87631-10
+
+R STA ANGELA MERICI 212, CJ RESIDENCIAL SANTO ANGELO, MOGI DAS CRUZES/SP, 87631-10
+
+R BENEDITO DE ARAGAO CARDOSO 106 C 1 - C 1, VL BELA FLOR, MOGI DAS CRUZES/SP, 87400-90
+
+R LONTRA 40, VL JUNDIAI, MOGI DAS CRUZES/SP, 87454-80
+
+R ONCA 27, CS 02, MOGI DAS CRUZES/SP, 87000-00
+
+AV FRANCISCO FERREIRA LOPES, BRAZ CUBAS, MOGI DAS CRUZES/SP, 87400-00
+
+R INOCENCIO DA CUNHA RUDGE, VL SUISSA, MOGI DAS CRUZES/SP, 88100-80
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: HD MAQUINAS, COMERCIO, SERVICOS E LOCACAO LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 7759649000130, SETOR: PRIVATE - 4669999 - COMERCIO ATACADISTA DE OUTRAS MAQUINAS E EQUIPAMENTOS NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 08/12/2014, DATA FINAL: 08/07/2016, SITUACAO: INATIVO
+
+NOME EMPRESA: TRANSMAQ TRANSPORTES DE MAQUINAS E REMOCOES INDUSTRIAIS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 7658150000136, SETOR: PRIVATE - 4930202 - TRANSPORTE RODOVIARIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANCAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL, DATA INICIO: 01/03/2014, DATA FINAL: 12/08/2014, SITUACAO: INATIVO
+
+NOME EMPRESA: GETRI BENEFICIAMENTO E GERENCIAMENTO DE RESIDUOS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 3290511000183, SETOR: PRIVATE - 4687703 - COMERCIO ATACADISTA DE RESIDUOS E SUCATAS METALICOS, DATA INICIO: 10/09/2020, DATA FINAL: 31/10/2020, SITUACAO: INATIVO
+
+NOME EMPRESA: TRUCKAP LOCACAO DE GUINDASTES LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 18674756000181, SETOR: PRIVATE - 4399104 - SERVICOS DE OPERACAO E FORNECIMENTO DE EQUIPAMENTOS PARA TRANSPORTE E ELEVACAO DE CARGAS E PESSOAS PARA USO EM OBRAS, DATA INICIO: 01/11/2020, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: CFB ELETRICA LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 8749344000100, SETOR: PRIVATE - 4321500 - INSTALACAO E MANUTENCAO ELETRICA, DATA INICIO: 27/01/2020, DATA FINAL: 11/09/2020, SITUACAO: INATIVO
+
+NOME EMPRESA: TRUCKAP LOCACAO DE GUINDASTES LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 18674756000181, SETOR: PRIVATE - 4399104 - SERVICOS DE OPERACAO E FORNECIMENTO DE EQUIPAMENTOS PARA TRANSPORTE E ELEVACAO DE CARGAS E PESSOAS PARA USO EM OBRAS, DATA INICIO: 04/04/2018, DATA FINAL: 22/03/2019, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 18.674.756/0001-81, EMPRESA: TRUCKAP LOCACAO DE GUINDASTES LTDA EPP, ENTREGA: 26/04/2022, ADMISSAO: 01/11/2020, DEMISSAO: , RENDA: DE 6.001 A 9.000, SITUACAO: Entregue
+
+CNPJ: 18.674.756/0001-81, EMPRESA: TRUCKAP LOCACAO DE GUINDASTES LTDA EPP, ENTREGA: 26/04/2022, ADMISSAO: 01/11/2020, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: AUREA APARECIDA DE FARIAS, CPF: Não informado
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.229,32\nFAIXA DE RENDA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 744,00\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: MEDIO ALTISSIMO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 13012142931
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 02/10/2020 14:16
+Ano: 2017 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 15/03/2018 04:17
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 21/03/2018 19:43
+Ano: 2015 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 26/05/2018 05:52
+Ano: 2014 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 3
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 3
+Cartão High User: 3
+Consignado: 4
+Crédito Imobiliário: 9
+
+HÁBITOS:
+Banda Larga: 5
+Compra Internet: 2
+Fitness: 10
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.69419314187761
+Fintech: 0.81342129425202
+Consignado: 0.66584230137107
+Banda Larga: 0.6183985385761
+Seguro Auto: 0.97178419175949
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: True
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: True
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: False
+  Seguro Saúde: True
+  Seguro Vida: True
+  Previdência Privada: True
+  STIX: True
+  Internet Banking: True
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: CLD5196, CHASSI: 9BGSD19ZWWC756071, CHASSI: 9BGSD19ZWWC756071, RENAVAM: 697754510, MARCA: GM/CORSA SUPER
+
+PLACA: DQN3871, CHASSI: 9362AKFW97B013897, CHASSI: 9362AKFW97B013897, RENAVAM: 900232005, MARCA: PEUGEOT/206 14 FELINE FX
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:57] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: MARLI ROSA RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: CECILIA ROSA PEREIRA DA SILVA
+Nome do Pai: Não informado
+CPF: 24839322821
+Data de Nascimento: 04/11/1942
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.500,00
+Faixa de Renda: Mais de R$ 1.000,00 a R$ 1.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 14/12/2023 16:51:00
+Data Inclusão: Não informado
+Código Controle: 5777.3078.6C01.2B34
+
+[DATAB - ENDEREÇO] FRANCISCO DO CARMO 569 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VEREADOR JOSE BARBOSA 330 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VOLUNTARIO VOL FERNANDO P FRANCO 609 - MOGI DAS CRUZES/SP CEP 8710500
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (32) 33612456 Ranking 1
+[DATAB - TEL] (11) 47213636 Ranking 4
+[DATAB - TEL] (11) 47384858 Ranking 5
+[DATAB - TEL] (11) 47233734 Ranking 3
+[DATAB - TEL] (32) 33612990 Ranking 2
+[SIPNI]
+Nome: MARLI ROSA RODRIGUES
+Nascimento: 1942-11-04
+Sexo: F
+Óbito: false
+
+[RAIS 2012] CIA BRAS  DE DISTRIBUICAO | 948.93
+[RAIS 2022]  | 
+--- BANCOS: ---
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47213-636 | 09/12/2014
+(11) 47948-401 | 05/03/2009
+(32) 33612-456 | 23/01/2018
+(32) 33612-990 | 23/01/2018
+(11) 99607-4718 | N/I
+(21) 26797-664 | N/I
+(11) 47233-734 | 16/08/2022
+(11) 99170-2112 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4721-3636, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4794-8401, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2456, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-3734, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2990, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VER JOSE BARBOSA 330, CRESPO, CARANDAI/MG, 36282-249
+
+AV FRANCISCO DO CARMO 569 C - C, PTE CHAVE, CARANDAI/MG, 36282-421
+
+R JULIA BUFALO CONSOLINE 85, REC DAS ESTRELAS, ITATIBA/SP, 13254-854
+
+R BUFALO 45 C - C, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV VLTO FERNANDO PINHEIRO FRANCO 127, CENTRO, MOGI DAS CRUZES/SP, 87105-00
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 1 - CS CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC SAGRADA FAMILIA 76, PTE CHAVE, CARANDAI/MG, 36280-000
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC DR MARIO RODRIGUES PEREIRA 66 BANCO - BANCO, CENTRO, CONGONHAS/MG, 36415-000
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: FILHA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: FILHA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: FILHA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: FILHA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: FILHA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: FILHA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: FILHA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: MAE, NOME: CECILIA ROSA PEREIRA DA SILVA, CPF: Não informado
+
+VINCULO: FILHA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 903,42\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: BAIXO
+
+FAIXA DE RENDA: De R$ 631 até R$ 1018
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 770,57\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+Segmento Target: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12093222835
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 24/05/2017 00:00
+Ano: 2014 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 10
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 2
+Fintech: 6
+Cartão High User: 8
+Consignado: 2
+Crédito Imobiliário: 9
+
+HÁBITOS:
+Banda Larga: 9
+Compra Internet: 7
+Fitness: 10
+Jogos Online: 10
+
+PROPORÇÕES:
+Banco Digital: 0.8012187815107
+Fintech: 0.43799325903223
+Consignado: 0.91414910795943
+Banda Larga: 0.22802109432278
+Seguro Auto: 0.095548201242222
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: True
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: False
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: True
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: AUO2998, CHASSI: 9BD15802AC6640461, CHASSI: 9BD15802AC6640461, RENAVAM: 366044141, MARCA: FIAT/UNO MILLE ECONOMY
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:24:59] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+🆔 CPF: 32865757803
+📄 Nº Registro: 8337770441
+🏳️ UF: SP
+
+🎂 Data Nascimento: 03/10/1981
+🚗 Primeira Habilitação: 18/10/2023
+📘 Categoria: Permissionário
+
+🕒 Última Atualização: 19/10/2023
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 32865757803
+Data de Nascimento: 03/10/1981
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 2.200,00
+Faixa de Renda: Mais de R$ 2.000,00 a R$ 2.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 31/12/2005 00:00:00
+Código Controle: 563B.8F54.5CB7.061A
+
+[ANATEL]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Telefone: 1111996844745
+Operadora: VIVO
+Endereço: BUFALO  - VILA JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] andrefelix144@hotmail.com | Ranking 2 | Recência 20-JAN-20
+[DATAB - EMAIL]  | Ranking 1 | Recência 07-APR-23
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 47213036 Ranking 9
+[DATAB - TEL] (11) 47295410 Ranking 7
+[DATAB - TEL] (11) 972336457 Ranking 6
+[DATAB - TEL] (11) 996844745 Ranking 2
+[DATAB - TEL] (11) 47272739 Ranking 8
+[DATAB - TEL] (11) 997686478 Ranking 5
+[DATAB - TEL] (11) 997699315 Ranking 4
+[DATAB - TEL] (11) 953074038 Ranking 3
+[DATAB - TEL] (11) 47233734 Ranking 1
+[SIPNI]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nascimento: 1981-10-03
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 47213-036 | 12/09/2016
+(11) 47351-334 | 23/01/2018
+(11) 98531-7899 | N/I
+(11) 99768-6478 | N/I
+(11) 99684-4745 | 22/12/2021
+
+--- OPERADORAS: ---
+
+TELEFONE: (19) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99768-6478, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99769-9315, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 95307-4038, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R JERONIMO MARIANO 80, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+R VANILSON BELGO DE SOUZA 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.780,13\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.284,77\nFAIXA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXO
+RISCO VIVO: MEDIO BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+Segmento Target: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 5
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 6
+Fintech: 4
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 8
+
+HÁBITOS:
+Banda Larga: 5
+Compra Internet: 4
+Fitness: 2
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.43089568833353
+Fintech: 0.64154045178151
+Consignado: 0.3479336992511
+Banda Larga: 0.56398488792749
+Seguro Auto: 0.4287379654465
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: True
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: True
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: True
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: True
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: True
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:00] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: FERNANDO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 26810631836
+Data de Nascimento: 18/03/1974
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): ADMINISTRADOR DE ORÇAMENTO
+Renda: R$ 6.050,00
+Faixa de Renda: Mais de R$ 6.000,00 a R$ 7.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 29/05/2023 13:21:00
+Data Inclusão: 19/10/2006 15:32:00
+Código Controle: 265D.230E.E242.F793
+
+[DATAB - EMAIL] oasisrodrigues@uol.com.br | Ranking 1 | Recência 03-DEC-13
+[DATAB - ENDEREÇO] CESARIO CARLOS DE ALMEIDA 627 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] ANGELO DAMIAN 147 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] MARECHAL RONDON KM 175 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] MARECHAL RONDON 1 - LARANJAL PAULISTA/SP CEP 18500000
+[DATAB - TEL] (15) 32835082 Ranking 1
+[DATAB - TEL] (15) 32835778 Ranking 2
+[DATAB - TEL] (15) 991428396 Ranking 1
+[DATAB - TEL] (15) 996243705 Ranking 1
+[SIPNI]
+Nome: FERNANDO APARECIDO RODRIGUES
+Nascimento: 1974-03-18
+Sexo: M
+Óbito: false
+
+[RAIS 2012] GOLDONI DISTRI.DE TELAS E ARAMES LTDA | 1100
+[RAIS 2022] MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA | 
+[RAIS 2022] MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA | 
+[RAIS 2024] ELICON | 
+[RAIS 2025] ELICON | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:0, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(15) 32835-082 | 16/08/2022
+
+--- OPERADORAS: ---
+
+TELEFONE: (15) 99142-8396, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (15) 3283-5082, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+AV CESARIO CARLOS A 627, LARANJAL PAULISTA, LARANJAL PAULISTA/SP, 18500-000
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV CESARIO CARLOS DE ALMEIDA 627, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+R ANGELO DAMIAN 147, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+MAL RONDON KM 175 100 PTO 400 - KM 175 100 PTO 400, S ROQUE, LARANJAL PAULISTA/SP, 18500-000
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 3512943000191, SETOR: PRIVATE - 3240099 - FABRICACAO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 20/07/2017, DATA FINAL: 16/12/2021, SITUACAO: INATIVO
+
+NOME EMPRESA: GOLDONI DISTRIBUIDORA DE TELAS E ARAMES LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 48330971000126, SETOR: PRIVATE - 4672900 - COMERCIO ATACADISTA DE FERRAGENS E FERRAMENTAS, DATA INICIO: 17/06/2008, DATA FINAL: 09/07/2014, SITUACAO: INATIVO
+
+NOME EMPRESA: ROMA JENSEN COMERCIO E INDUSTRIA LTDA, NIVEL: FUNCIONÁRIO, CNPJ: 51332203000116, SETOR: PRIVATE - 3240099 - FABRICACAO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NAO ESPECIFICADOS ANTERIORMENTE, DATA INICIO: 21/03/2017, DATA FINAL: 18/06/2017, SITUACAO: INATIVO
+
+NOME EMPRESA: FERNANDO APARECIDO RODRIGUES 26810631836, NIVEL: ENTREPRENEUR | BUSINESS OWNER, CNPJ: 24158775000158, SETOR: PRIVATE - 4330404 - SERVICOS DE PINTURA DE EDIFICIOS EM GERAL, DATA INICIO: 30/11/2016, DATA FINAL: 19/12/2018, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 03.512.943/0001-91, EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/07/2017, DEMISSAO: 16/12/2021, RENDA: DE 21.001 A 24.000, SITUACAO: Entregue
+
+CNPJ: 03.512.943/0001-91, EMPRESA: MILK - INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/07/2017, DEMISSAO: 16/12/2021, RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.668,24\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 2.725,36\nFAIXA: 5
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Com a faixa etária entre 36 e 55 anos, são proprietários/sócios de comércios de pequeno porte, predominantemente localizados nas regiões Sul e Sudeste do país, nas regiões próximas às divisas dos municípios. A renda estimada deste grupo permite um padrão de consumo médio, com alguns confortos. Representam 2,73% da população brasileira.
+Segmento Target: Com a faixa etária entre 36 e 55 anos, são proprietários/sócios de comércios de pequeno porte, predominantemente localizados nas regiões Sul e Sudeste do país, nas regiões próximas às divisas dos municípios. A renda estimada deste grupo permite um padrão de consumo médio, com alguns confortos. Representam 2,73% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12432941227
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2020 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 17/09/2020 17:28
+Ano: 2019 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 09/03/2020 10:56
+Ano: 2018 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR. | Banco: Não informada | Agência: Não informada | Data Consulta: 08/05/2019 13:33
+Ano: 2017 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: 0000 | Data Consulta: 30/04/2018 18:24
+Ano: 2014 | Situação: SALDO INEXISTENTE DE IMPOSTO A PAGAR OU A RESTITUIR | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 9
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 9
+Fintech: 6
+Cartão High User: 5
+Consignado: 6
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 4
+Fitness: 6
+Jogos Online: 3
+
+PROPORÇÕES:
+Banco Digital: 0.21465917954253
+Fintech: 0.43014246041443
+Consignado: 0.44660039324425
+Banda Larga: 0.27775719823866
+Seguro Auto: 0.25771839764805
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: False
+  Consórcio: True
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: True
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:01] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: GUSTAVO APARECIDO RODRIGUES
+🆔 CPF: 17783777856
+📄 Nº Registro: 2317508819
+🏳️ UF: SP
+
+🎂 Data Nascimento: 24/02/1972
+🚗 Primeira Habilitação: 14/11/1997
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 19/08/2022
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: GUSTAVO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 17783777856
+Data de Nascimento: 24/02/1972
+Sexo: M
+Estado Civil: Não informado
+RG: 25397280
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 3.650,00
+Faixa de Renda: Mais de R$ 3.000,00 a R$ 4.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 26/01/2007 12:39:00
+Código Controle: 41D6.CC09.7514.253B
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947189599
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947660544
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] b8c716955863@acs.com.br | Ranking 1 | Recência 11-SEP-16
+[DATAB - EMAIL] gaparecidorodrigues2011@bol.com.br | Ranking 2 | Recência 24-MAR-16
+[DATAB - EMAIL] apgustavor@hotmail.com | Ranking 3 | Recência 19-OCT-15
+[DATAB - ENDEREÇO] DOS VICENTINOS 1650 - MOGI DAS CRUZES/SP CEP 8795360
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] SARAIVA 400 - MOGI DAS CRUZES/SP CEP 8745140
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - TEL] (11) 34277944 Ranking 9
+[DATAB - TEL] (11) 29889891 Ranking 15
+[DATAB - TEL] (11) 47232080 Ranking 11
+[DATAB - TEL] (11) 983315934 Ranking 8
+[DATAB - TEL] (11) 992885089 Ranking 14
+[DATAB - TEL] (11) 28485787 Ranking 13
+[DATAB - TEL] (11) 47253283 Ranking 12
+[DATAB - TEL] (11) 947660544 Ranking 3
+[DATAB - TEL] (11) 947562072 Ranking 10
+[DATAB - TEL] (11) 947189599 Ranking 2
+[DATAB - TEL] (11) 940142507 Ranking 1
+[DATAB - TEL] (11) 47965394 Ranking 7
+[DATAB - TEL] (11) 47957104 Ranking 6
+[DATAB - TEL] (11) 47355330 Ranking 5
+[DATAB - TEL] (11) 943968403 Ranking 4
+[PIX] DOCK IP S.A. | TELEFONE | +5511941644608 | ATIVO
+[PIX] BCO BRADESCO S.A. | CPF | 17783777856 | ATIVO
+[PIX] NU PAGAMENTOS - IP | EMAIL | recebimento@jsl.com.br | ATIVO
+[PIX]  |  | 8d86c22a-a984-4be5-b0f1-97ece3c2a73e | INATIVO
+[PIX] PICPAY | CHAVE_ALEATORIA | 0c0fb09d-0878-4b10-8650-260c33449f8e | ATIVO
+[PIX] NU PAGAMENTOS - IP | CHAVE_ALEATORIA | 706a409b-47a5-441a-8143-7e1fdd7cdba9 | ATIVO
+[PIX] NU PAGAMENTOS - IP | TELEFONE | +5511947189599 | ATIVO
+[SIPNI]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Nascimento: 1972-02-24
+Sexo: M
+Óbito: false
+
+[RAIS 2012] JSL  S/A SEDE ADMINISTRATIVA | 1645.07
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2024] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2025] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+--- BANCOS: ---
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:6959, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47355-330 | 16/08/2022
+(11) 28485-787 | 06/01/2021
+(11) 47259-599 | 06/01/2021
+(11) 47253-283 | 16/08/2022
+(11) 47997-092 | 05/04/2018
+(11) 99288-5089 | 23/04/2020
+(11) 47232-080 | 23/04/2020
+(11) 98331-5934 | 23/04/2020
+(11) 34277-944 | 16/08/2022
+(11) 94766-0544 | 14/01/2021
+(11) 94718-9599 | 12/07/2023
+(11) 47957-000 | 23/04/2020
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99288-5089, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 98331-5934, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3427-7944, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4799-7092, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4725-9599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 0142507, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7189599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7660544, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R DOS VICENTINOS 1650, VL NATAL, MOGI DAS CRUZES/SP, 87953-60
+
+R FRANCISCO RUIZ PACO 146, VL MORAES, MOGI DAS CRUZES/SP, 87665-10
+
+AV FRANCISCO RUIZ 146 AP 22 BL - AP 22 BL, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+AV SARAIVA 400, VL CINTRA, MOGI DAS CRUZES/SP, 87459-00
+
+R VANILSON BELGO DE SOUZA 83 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R SETE DE SETEMBRO 20 C - C, CJ HABITACIONAL BRAS CUBAS, MOGI DAS CRUZES/SP, 87252-00
+
+R VANILSON BELGO DE SOUZA 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R VANILSON BELGO DE SOUZA 85 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 3 - CS CS 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146 BL 15 AP 22 - BL 15 AP 22, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV SARAIVA, VL CINTRA, MOGI DAS CRUZES/SP, 87451-40
+
+R ANNA S GOMES AMORIM S GOMES AMORIM 146 BL 15 AP 22 - S GOMES AMORIM 146 BL 15 AP 22, CJ HABITACIONAL ANA PAULA, MOGI DAS CRUZES/SP, 87252-30
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 33673701000140, SETOR: PRIVATE - 4921301 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, MUNICIPAL, DATA INICIO: 02/08/1999, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: JSL S.A., NIVEL: FUNCIONÁRIO, CNPJ: 52548435002708, SETOR: PRIVATE - 4930202 - TRANSPORTE RODOVIARIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANCAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL, DATA INICIO: 02/08/1999, DATA FINAL: 30/06/2016, SITUACAO: INATIVO
+
+NOME EMPRESA: CS BRASIL TRANSPORTES DE PASSAGEIROS E SERVICOS AMBIENTAIS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 10965693000100, SETOR: PRIVATE - 4922102 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, INTERESTADUAL, DATA INICIO: 02/08/1999, DATA FINAL: 31/01/2020, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: DE 24.001 A 27.000, SITUACAO: Entregue
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: B
+
+SUB-CLASSE: B2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.700,44\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.632,80\nFAIXA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: MEDIO ALTISSIMO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12364562912
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2021 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 08/04/2022 04:42
+Ano: 2020 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 11/10/2020 00:08
+Ano: 2019 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL - PROCESSADA EM FILA DE RESTITUICAO | Banco: Não informada | Agência: Não informada | Data Consulta: 09/10/2019 16:15
+Ano: 2019 | Situação: CREDITADA | Banco: CAIXA ECONOMICA FEDERAL | Agência: 2869 | Data Consulta: 01/03/2020 10:31
+Ano: 2018 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 6959 | Data Consulta: 07/05/2019 02:38
+Ano: 2017 | Situação: AGUARDANDO REAGENDAMENTO PELO CONTRIBUINTE | Banco: BANCO DO BRASIL | Agência: Não informada | Data Consulta: 24/02/2018 00:00
+Ano: 2016 | Situação: ENVIADA PARA CREDITO NO BANCO | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 12/12/2016 00:00
+Ano: 2015 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 09/09/2023 00:05
+Ano: 2014 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 7
+Cliente Premium: 10
+Perfil Luxo: 8
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 5
+Cartão High User: 2
+Consignado: 2
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 1
+Compra Internet: 1
+Fitness: 10
+Jogos Online: 9
+
+PROPORÇÕES:
+Banco Digital: 0.73719997289971
+Fintech: 0.59813410712281
+Consignado: 0.89762491415941
+Banda Larga: 0.78874362075931
+Seguro Auto: 0.97744713837064
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: True
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: True
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: True
+  Financiamento Veicular: True
+  Consignado: True
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: True
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: True
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: True
+  Jogos Online: False
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: True
+  TV a Cabo: True
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: True
+  Seguro Saúde: True
+  Seguro Vida: True
+  Previdência Privada: True
+  STIX: True
+  Internet Banking: True
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: DNA5076, CHASSI: 9BD17203743092187, CHASSI: 9BD17203743092187, RENAVAM: 821371410, MARCA: FIAT/SIENA FIRE
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:02] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: DEBORA RODRIGUES NORONHA
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 35709078808
+Data de Nascimento: 26/02/1988
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 750,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 04/07/2023 22:35:00
+Data Inclusão: Não informado
+Código Controle: D4E3.20E5.BF48.36DC
+
+[DATAB - EMAIL] adrianonoronha80@gmail.com | Ranking 1 | Recência 19-OCT-15
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] VEREADOR ANTONIO TEIXEIRA MUNIZ 296 - MOGI DAS CRUZES/SP CEP 8820370
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 968568600 Ranking 1
+[DATAB - TEL] (11) 971674226 Ranking 1
+[DATAB - TEL] (11) 47272739 Ranking 1
+[DATAB - TEL] (11) 47384858 Ranking 2
+[DATAB - TEL] (11) 953573937 Ranking 5
+[DATAB - TEL] (11) 998138253 Ranking 1
+[DATAB - TEL] (11) 947207423 Ranking 4
+[DATAB - TEL] (11) 947150328 Ranking 3
+[DATAB - TEL] (11) 947733564 Ranking 2
+[DATAB - TEL] (11) 47998625 Ranking 1
+[DATAB - TEL] (11) 998238653 Ranking 1
+[SIPNI]
+Nome: DEBORA RODRIGUES NORONHA
+Nascimento: 1988-02-26
+Sexo: F
+Óbito: false
+
+[RAIS 2012] JOSE ARLINDO DE SOUZA BAR  ME | 825.6
+[RAIS 2022] R VINICIUS FERREIRA | 
+[RAIS 2022] R VINICIUS FERREIRA | 
+[RAIS 2024] ALIMENTA SERVICOS LTDA | 
+[RAIS 2025] ALIMENTA SERVICOS LTDA | 
+
+--- TELEFONES ---
+
+(11) 95357-3937 | 22/10/2020
+(11) 47233-734 | 09/06/2015
+(11) 47232-080 | 09/12/2015
+(11) 47384-858 | 10/09/2019
+(11) 28568-600 | N/I
+(11) 94720-7423 | 20/10/2018
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99813-8253, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 96856-8600, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 97167-4226, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 2856-8600, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-3734, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VALTER MIRANDA DE BITENCOURT 27, JD MALDA, FERRAZ DE VASCONCELOS/SP, 85423-70
+
+R BUFALO 85 CS 1 - CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 8, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: R VINICIUS FERREIRA, NIVEL: FUNCIONÁRIO, CNPJ: 30567716000136, SETOR: PRIVATE - 5620104 - FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR, DATA INICIO: 01/08/2018, DATA FINAL: 30/07/2021, SITUACAO: INATIVO
+
+NOME EMPRESA: JOSE ARLINDO DE SOUZA BAR, NIVEL: FUNCIONÁRIO, CNPJ: 11307201000152, SETOR: PRIVATE - 5611204 - BARES E OUTROS ESTABELECIMENTOS ESPECIALIZADOS EM SERVIR BEBIDAS, SEM ENTRETENIMENTO, DATA INICIO: 01/02/2010, DATA FINAL: 06/12/2012, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 30.567.716/0001-36, EMPRESA: R VINICIUS FERREIRA, ENTREGA: 26/04/2022, ADMISSAO: 01/08/2018, DEMISSAO: 30/07/2021, RENDA: DE 1.001 A 3.000, SITUACAO: Entregue
+
+CNPJ: 30.567.716/0001-36, EMPRESA: R VINICIUS FERREIRA, ENTREGA: 26/04/2022, ADMISSAO: 01/08/2018, DEMISSAO: 30/07/2021, RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 702,24\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: BAIXO
+
+FAIXA DE RENDA: De R$ 631 até R$ 1018
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 405,14\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: ALTO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Jovens adultos com idade entre 26 a 35 anos, solteiros,?trabalhadores com qualificação técnica em serviços industriais ou de manutenção. Moram com a família, geralmente em áreas com infraestrutura básica na área metropolitana das grandes cidades fora das capitais  Representam 3,53% da população brasileira.
+Segmento Target: Adultos com idade entre 18 e 35 anos, com grau de instrução que varia entre primeiro ensino fundamental ou até ensino médio técnico. Vivem em lares com poucas pessoas, em cidades rurais de diferentes portes no interior dos estados. Trabalham principalmente no setor de agropecuária e pesca em cargos de baixo nível hierárquico. Representam 3,02% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 20778286821
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 6
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 6
+Cartão High User: 4
+Consignado: 6
+Crédito Imobiliário: 10
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 4
+Fitness: 4
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.72623985315129
+Fintech: 0.41650650755335
+Consignado: 0.43314571666421
+Banda Larga: 0.28750015196776
+Seguro Auto: 0.2925267774205
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: False
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: True
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:03] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+🆔 CPF: 32865757803
+📄 Nº Registro: 8337770441
+🏳️ UF: SP
+
+🎂 Data Nascimento: 03/10/1981
+🚗 Primeira Habilitação: 18/10/2023
+📘 Categoria: Permissionário
+
+🕒 Última Atualização: 19/10/2023
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 32865757803
+Data de Nascimento: 03/10/1981
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 2.200,00
+Faixa de Renda: Mais de R$ 2.000,00 a R$ 2.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 31/12/2005 00:00:00
+Código Controle: 563B.8F54.5CB7.061A
+
+[ANATEL]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Telefone: 1111996844745
+Operadora: VIVO
+Endereço: BUFALO  - VILA JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] andrefelix144@hotmail.com | Ranking 2 | Recência 20-JAN-20
+[DATAB - EMAIL]  | Ranking 1 | Recência 07-APR-23
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] VANILSON BELGO DE SOUZA 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 47213036 Ranking 9
+[DATAB - TEL] (11) 47295410 Ranking 7
+[DATAB - TEL] (11) 972336457 Ranking 6
+[DATAB - TEL] (11) 996844745 Ranking 2
+[DATAB - TEL] (11) 47272739 Ranking 8
+[DATAB - TEL] (11) 997686478 Ranking 5
+[DATAB - TEL] (11) 997699315 Ranking 4
+[DATAB - TEL] (11) 953074038 Ranking 3
+[DATAB - TEL] (11) 47233734 Ranking 1
+[SIPNI]
+Nome: ELIANA APARECIDA RODRIGUES FELIX DA SILVA
+Nascimento: 1981-10-03
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 47213-036 | 12/09/2016
+(11) 47351-334 | 23/01/2018
+(11) 98531-7899 | N/I
+(11) 99768-6478 | N/I
+(11) 99684-4745 | 22/12/2021
+
+--- OPERADORAS: ---
+
+TELEFONE: (19) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99768-6478, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99769-9315, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 95307-4038, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 99684-4745, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R JERONIMO MARIANO 80, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+R VANILSON BELGO DE SOUZA 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.780,13\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.284,77\nFAIXA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXO
+RISCO VIVO: MEDIO BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+Segmento Target: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 5
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 6
+Fintech: 4
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 8
+
+HÁBITOS:
+Banda Larga: 5
+Compra Internet: 4
+Fitness: 2
+Jogos Online: 5
+
+PROPORÇÕES:
+Banco Digital: 0.43089568833353
+Fintech: 0.64154045178151
+Consignado: 0.3479336992511
+Banda Larga: 0.56398488792749
+Seguro Auto: 0.4287379654465
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: True
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: True
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: True
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: True
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: True
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: True
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:12] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: RODRIGO ROSA RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 33894168897
+Data de Nascimento: 22/07/1983
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 750,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 15/05/2023 22:27:00
+Data Inclusão: Não informado
+Código Controle: 3F6C.20F1.5A9B.4654
+
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 47272739 Ranking 1
+[DATAB - TEL] (11) 47223155 Ranking 2
+[SIPNI]
+Nome: RODRIGO ROSA RODRIGUES
+Nascimento: 1983-07-22
+Sexo: M
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(21) 99907-9358 | N/I
+(11) 47223-155 | 26/09/2010
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4722-3155, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 554,79\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MUITO BAIXO
+
+FAIXA DE RENDA: De R$ 112 até R$ 630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 402,93\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados ou pessoas a caminho de uma aposentadoria, entre 51 e 65 anos que, na grande maioria, residem na mesma casa há mais de 15 anos. Muitos vivem em áreas urbanas, a maior parte na região Sudeste, geralmente em capitais e regiões metropolitanas. Em geral, possuem ensino fundamental ou ensino médio completo. Representam 2,80% da população brasileira.
+Segmento Target: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: Não informado
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 9
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 2
+Fintech: 8
+Cartão High User: 8
+Consignado: 9
+Crédito Imobiliário: 10
+
+HÁBITOS:
+Banda Larga: 9
+Compra Internet: 8
+Fitness: 10
+Jogos Online: 2
+
+PROPORÇÕES:
+Banco Digital: 0.7997913801327
+Fintech: 0.21560531764468
+Consignado: 0.13042746405859
+Banda Larga: 0.23404461453606
+Seguro Auto: 0.01904767619909
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: False
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:17] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: GUSTAVO APARECIDO RODRIGUES
+🆔 CPF: 17783777856
+📄 Nº Registro: 2317508819
+🏳️ UF: SP
+
+🎂 Data Nascimento: 24/02/1972
+🚗 Primeira Habilitação: 14/11/1997
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 19/08/2022
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: GUSTAVO APARECIDO RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 17783777856
+Data de Nascimento: 24/02/1972
+Sexo: M
+Estado Civil: Não informado
+RG: 25397280
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 3.650,00
+Faixa de Renda: Mais de R$ 3.000,00 a R$ 4.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 18/07/2023 12:45:00
+Data Inclusão: 26/01/2007 12:39:00
+Código Controle: 41D6.CC09.7514.253B
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947189599
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[ANATEL]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Telefone: 1111947660544
+Operadora: CLARO
+Endereço: R VANILSON BELGO DE SOUZA 3 - VL JUNDIAI - MOGI DAS CRUZES/SP
+Ativação: 
+
+[DATAB - EMAIL] b8c716955863@acs.com.br | Ranking 1 | Recência 11-SEP-16
+[DATAB - EMAIL] gaparecidorodrigues2011@bol.com.br | Ranking 2 | Recência 24-MAR-16
+[DATAB - EMAIL] apgustavor@hotmail.com | Ranking 3 | Recência 19-OCT-15
+[DATAB - ENDEREÇO] DOS VICENTINOS 1650 - MOGI DAS CRUZES/SP CEP 8795360
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] FRANCISCO RUIZ 146 - MOGI DAS CRUZES/SP CEP 8725130
+[DATAB - ENDEREÇO] SARAIVA 400 - MOGI DAS CRUZES/SP CEP 8745140
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - ENDEREÇO] ANNA S GOMES AMORIM 146 - MOGI DAS CRUZES/SP CEP 8725230
+[DATAB - TEL] (11) 34277944 Ranking 9
+[DATAB - TEL] (11) 29889891 Ranking 15
+[DATAB - TEL] (11) 47232080 Ranking 11
+[DATAB - TEL] (11) 983315934 Ranking 8
+[DATAB - TEL] (11) 992885089 Ranking 14
+[DATAB - TEL] (11) 28485787 Ranking 13
+[DATAB - TEL] (11) 47253283 Ranking 12
+[DATAB - TEL] (11) 947660544 Ranking 3
+[DATAB - TEL] (11) 947562072 Ranking 10
+[DATAB - TEL] (11) 947189599 Ranking 2
+[DATAB - TEL] (11) 940142507 Ranking 1
+[DATAB - TEL] (11) 47965394 Ranking 7
+[DATAB - TEL] (11) 47957104 Ranking 6
+[DATAB - TEL] (11) 47355330 Ranking 5
+[DATAB - TEL] (11) 943968403 Ranking 4
+[PIX] DOCK IP S.A. | TELEFONE | +5511941644608 | ATIVO
+[PIX] BCO BRADESCO S.A. | CPF | 17783777856 | ATIVO
+[PIX] NU PAGAMENTOS - IP | EMAIL | recebimento@jsl.com.br | ATIVO
+[PIX]  |  | 8d86c22a-a984-4be5-b0f1-97ece3c2a73e | INATIVO
+[PIX] PICPAY | CHAVE_ALEATORIA | 0c0fb09d-0878-4b10-8650-260c33449f8e | ATIVO
+[PIX] NU PAGAMENTOS - IP | CHAVE_ALEATORIA | 706a409b-47a5-441a-8143-7e1fdd7cdba9 | ATIVO
+[PIX] NU PAGAMENTOS - IP | TELEFONE | +5511947189599 | ATIVO
+[SIPNI]
+Nome: GUSTAVO APARECIDO RODRIGUES
+Nascimento: 1972-02-24
+Sexo: M
+Óbito: false
+
+[RAIS 2012] JSL  S/A SEDE ADMINISTRATIVA | 1645.07
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2022] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2024] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+[RAIS 2025] MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA. | 
+--- BANCOS: ---
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:1562, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: BANCO DO BRASIL, AGENCIA:6959, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47355-330 | 16/08/2022
+(11) 28485-787 | 06/01/2021
+(11) 47259-599 | 06/01/2021
+(11) 47253-283 | 16/08/2022
+(11) 47997-092 | 05/04/2018
+(11) 99288-5089 | 23/04/2020
+(11) 47232-080 | 23/04/2020
+(11) 98331-5934 | 23/04/2020
+(11) 34277-944 | 16/08/2022
+(11) 94766-0544 | 14/01/2021
+(11) 94718-9599 | 12/07/2023
+(11) 47957-000 | 23/04/2020
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99288-5089, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 98331-5934, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3427-7944, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4799-7092, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4725-9599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 0142507, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7189599, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7660544, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R DOS VICENTINOS 1650, VL NATAL, MOGI DAS CRUZES/SP, 87953-60
+
+R FRANCISCO RUIZ PACO 146, VL MORAES, MOGI DAS CRUZES/SP, 87665-10
+
+AV FRANCISCO RUIZ 146 AP 22 BL - AP 22 BL, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+AV SARAIVA 400, VL CINTRA, MOGI DAS CRUZES/SP, 87459-00
+
+R VANILSON BELGO DE SOUZA 83 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R SETE DE SETEMBRO 20 C - C, CJ HABITACIONAL BRAS CUBAS, MOGI DAS CRUZES/SP, 87252-00
+
+R VANILSON BELGO DE SOUZA 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R VANILSON BELGO DE SOUZA 85 C 3 - C 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 3 - CS CS 3, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV FRANCISCO RUIZ 146 BL 15 AP 22 - BL 15 AP 22, VL CAPUTERA, MOGI DAS CRUZES/SP, 87251-30
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV SARAIVA, VL CINTRA, MOGI DAS CRUZES/SP, 87451-40
+
+R ANNA S GOMES AMORIM S GOMES AMORIM 146 BL 15 AP 22 - S GOMES AMORIM 146 BL 15 AP 22, CJ HABITACIONAL ANA PAULA, MOGI DAS CRUZES/SP, 87252-30
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- HISTÓRICO DE EMPREGOS: ---
+
+NOME EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 33673701000140, SETOR: PRIVATE - 4921301 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, MUNICIPAL, DATA INICIO: 02/08/1999, DATA FINAL: --, SITUACAO: ATIVO
+
+NOME EMPRESA: JSL S.A., NIVEL: FUNCIONÁRIO, CNPJ: 52548435002708, SETOR: PRIVATE - 4930202 - TRANSPORTE RODOVIARIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANCAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL, DATA INICIO: 02/08/1999, DATA FINAL: 30/06/2016, SITUACAO: INATIVO
+
+NOME EMPRESA: CS BRASIL TRANSPORTES DE PASSAGEIROS E SERVICOS AMBIENTAIS LTDA., NIVEL: FUNCIONÁRIO, CNPJ: 10965693000100, SETOR: PRIVATE - 4922102 - TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, COM ITINERARIO FIXO, INTERESTADUAL, DATA INICIO: 02/08/1999, DATA FINAL: 31/01/2020, SITUACAO: INATIVO
+
+--- RAIS (2022): ---
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: DE 24.001 A 27.000, SITUACAO: Entregue
+
+CNPJ: 33.673.701/0001-40, EMPRESA: MOGI MOB TRANSPORTES DE PASSAGEIROS LTDA., ENTREGA: 29/04/2022, ADMISSAO: 02/08/1999, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: B
+
+SUB-CLASSE: B2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.700,44\nFAIXA DE RENDA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO
+
+FAIXA DE RENDA: De R$ 1631 até R$ 4082
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 1.632,80\nFAIXA: 3
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: ALTO
+RISCO VIVO: MEDIO ALTISSIMO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+Segmento Target: Pessoas com idade entre 26 e 55 anos, trabalhadores da indústria que moram no interior dos estados e residem nas zonas industriais das cidades interioranas de médio a grande porte. O grau de instrução é predominantemente entre o fundamental e o ensino médio, podendo ter alguns casos com educação técnica ou tecnológica.  Representam 3,34% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12364562912
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2021 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 08/04/2022 04:42
+Ano: 2020 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 11/10/2020 00:08
+Ano: 2019 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL - PROCESSADA EM FILA DE RESTITUICAO | Banco: Não informada | Agência: Não informada | Data Consulta: 09/10/2019 16:15
+Ano: 2019 | Situação: CREDITADA | Banco: CAIXA ECONOMICA FEDERAL | Agência: 2869 | Data Consulta: 01/03/2020 10:31
+Ano: 2018 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 6959 | Data Consulta: 07/05/2019 02:38
+Ano: 2017 | Situação: AGUARDANDO REAGENDAMENTO PELO CONTRIBUINTE | Banco: BANCO DO BRASIL | Agência: Não informada | Data Consulta: 24/02/2018 00:00
+Ano: 2016 | Situação: ENVIADA PARA CREDITO NO BANCO | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 12/12/2016 00:00
+Ano: 2015 | Situação: CREDITADA | Banco: BANCO DO BRASIL | Agência: 1562 | Data Consulta: 09/09/2023 00:05
+Ano: 2014 | Situação: SUA DECLARACAO ESTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 7
+Cliente Premium: 10
+Perfil Luxo: 8
+
+FINANCEIRO:
+Banco Digital: 3
+Fintech: 5
+Cartão High User: 2
+Consignado: 2
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 1
+Compra Internet: 1
+Fitness: 10
+Jogos Online: 9
+
+PROPORÇÕES:
+Banco Digital: 0.73719997289971
+Fintech: 0.59813410712281
+Consignado: 0.89762491415941
+Banda Larga: 0.78874362075931
+Seguro Auto: 0.97744713837064
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: True
+Previdência Privada: True
+TV a Cabo: True
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: True
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: True
+  Financiamento Veicular: True
+  Consignado: True
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: True
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: True
+  Celular Pré-pago: False
+  Compra Internet: True
+  Fitness: False
+  Futebol: True
+  Jogos Online: False
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: True
+  Viagem/Turismo: True
+  TV a Cabo: True
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: True
+  Seguro Saúde: True
+  Seguro Vida: True
+  Previdência Privada: True
+  STIX: True
+  Internet Banking: True
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: DNA5076, CHASSI: 9BD17203743092187, CHASSI: 9BD17203743092187, RENAVAM: 821371410, MARCA: FIAT/SIENA FIRE
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:21] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: ADRIANA ROSA RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: MARLI ROSA RODRIGUES
+Nome do Pai: Não informado
+CPF: 21694159809
+Data de Nascimento: 28/03/1980
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 600,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 23/11/2023 11:03:00
+Data Inclusão: Não informado
+Código Controle: 2601.6EE1.E46D.CB68
+
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (11) 47272739 Ranking 1
+[DATAB - TEL] (11) 995324936 Ranking 1
+[DATAB - TEL] (15) 994000195 Ranking 2
+[DATAB - TEL] (11) 47948401 Ranking 3
+[DATAB - TEL] (11) 47912755 Ranking 4
+[DATAB - TEL] (11) 973775991 Ranking 1
+[DATAB - TEL] (11) 930416099 Ranking 1
+[SIPNI]
+Nome: ADRIANA ROSA RODRIGUES
+Nascimento: 1980-03-28
+Sexo: F
+Óbito: false
+
+[RAIS 2022]  | 
+[RAIS 2022]  | 
+
+--- TELEFONES ---
+
+(11) 99532-4936 | N/I
+(11) 47382-219 | 10/02/2015
+(11) 47213-636 | 05/03/2009
+(11) 47272-739 | 10/02/2015
+(11) 47948-401 | 23/04/2010
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4721-3636, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4738-2219, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4727-2739, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4794-8401, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4791-2755, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (93) 0416075, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R JOSE BENEDITO MOREIRA 404, VL LAVINIA, MOGI DAS CRUZES/SP, 87370-40
+
+R CASAREJOS 282, VL MOGILAR, MOGI DAS CRUZES/SP, 87733-00
+
+AV SARAIVA 637, VL CINTRA, MOGI DAS CRUZES/SP, 87451-40
+
+
+--- PARENTES: ---
+
+VINCULO: IRMA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: IRMA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: IRMA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: IRMA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: IRMA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: IRMA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+VINCULO: IRMA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: MAE, NOME: MARLI ROSA RODRIGUES, CPF: 24839322821
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 549,35\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MUITO BAIXO
+
+FAIXA DE RENDA: De R$ 112 até R$ 630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 318,05\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: BAIXISSIMO RISCO
+RISCO VIVO: BAIXO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Jovens adultos com idade entre 26 a 35 anos, solteiros,?trabalhadores com qualificação técnica em serviços industriais ou de manutenção. Moram com a família, geralmente em áreas com infraestrutura básica na área metropolitana das grandes cidades fora das capitais  Representam 3,53% da população brasileira.
+Segmento Target: Jovens adultos com idade entre 26 a 35 anos, solteiros,?trabalhadores com qualificação técnica em serviços industriais ou de manutenção. Moram com a família, geralmente em áreas com infraestrutura básica na área metropolitana das grandes cidades fora das capitais  Representam 3,53% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12900951935
+NIS: 12900951935
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Nenhuma informação encontrada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 9
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 7
+Fintech: 8
+Cartão High User: 6
+Consignado: 9
+Crédito Imobiliário: 7
+
+HÁBITOS:
+Banda Larga: 8
+Compra Internet: 7
+Fitness: 4
+Jogos Online: 7
+
+PROPORÇÕES:
+Banco Digital: 0.40159089327901
+Fintech: 0.19892605896301
+Consignado: 0.12317366396915
+Banda Larga: 0.2437204005882
+Seguro Auto: 0.036992541905189
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: False
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: False
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: False
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: True
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: False
+  Perfil Mobile: False
+  Tomador de Crédito: False
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:24] --- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: MARLI ROSA RODRIGUES
+Nome Civil: Não informado
+Nome da Mãe: CECILIA ROSA PEREIRA DA SILVA
+Nome do Pai: Não informado
+CPF: 24839322821
+Data de Nascimento: 04/11/1942
+Sexo: F
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): Não informado
+Renda: R$ 1.500,00
+Faixa de Renda: Mais de R$ 1.000,00 a R$ 1.500,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 14/12/2023 16:51:00
+Data Inclusão: Não informado
+Código Controle: 5777.3078.6C01.2B34
+
+[DATAB - ENDEREÇO] FRANCISCO DO CARMO 569 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VEREADOR JOSE BARBOSA 330 - CARANDAI/MG CEP 36280000
+[DATAB - ENDEREÇO] VOLUNTARIO VOL FERNANDO P FRANCO 609 - MOGI DAS CRUZES/SP CEP 8710500
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - ENDEREÇO] BUFALO 85 - MOGI DAS CRUZES/SP CEP 8745540
+[DATAB - TEL] (32) 33612456 Ranking 1
+[DATAB - TEL] (11) 47213636 Ranking 4
+[DATAB - TEL] (11) 47384858 Ranking 5
+[DATAB - TEL] (11) 47233734 Ranking 3
+[DATAB - TEL] (32) 33612990 Ranking 2
+[SIPNI]
+Nome: MARLI ROSA RODRIGUES
+Nascimento: 1942-11-04
+Sexo: F
+Óbito: false
+
+[RAIS 2012] CIA BRAS  DE DISTRIBUICAO | 948.93
+[RAIS 2022]  | 
+--- BANCOS: ---
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: CAIXA ECONOMICA FEDERAL, AGENCIA:350, CONTA: , ID BANCO: 104
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47213-636 | 09/12/2014
+(11) 47948-401 | 05/03/2009
+(32) 33612-456 | 23/01/2018
+(32) 33612-990 | 23/01/2018
+(11) 99607-4718 | N/I
+(21) 26797-664 | N/I
+(11) 47233-734 | 16/08/2022
+(11) 99170-2112 | N/I
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 4721-3636, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4794-8401, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2456, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4723-3734, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (32) 3361-2990, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R VER JOSE BARBOSA 330, CRESPO, CARANDAI/MG, 36282-249
+
+AV FRANCISCO DO CARMO 569 C - C, PTE CHAVE, CARANDAI/MG, 36282-421
+
+R JULIA BUFALO CONSOLINE 85, REC DAS ESTRELAS, ITATIBA/SP, 13254-854
+
+R BUFALO 45 C - C, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+AV VLTO FERNANDO PINHEIRO FRANCO 127, CENTRO, MOGI DAS CRUZES/SP, 87105-00
+
+R BUFALO 85 C 2 - C 2, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85 CS CS 1 - CS CS 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R VANILSON BELGO DE SOUZA 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC SAGRADA FAMILIA 76, PTE CHAVE, CARANDAI/MG, 36280-000
+
+R BUFALO, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+PC DR MARIO RODRIGUES PEREIRA 66 BANCO - BANCO, CENTRO, CONGONHAS/MG, 36415-000
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85 C 1 - C 1, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- PARENTES: ---
+
+VINCULO: FILHA(O), NOME: LEONARDO APARECIDO RODRIGUES, CPF: 25054984828
+
+VINCULO: FILHA(O), NOME: ADRIANA ROSA RODRIGUES, CPF: 21694159809
+
+VINCULO: FILHA(O), NOME: DEBORA RODRIGUES NORONHA, CPF: 35709078808
+
+VINCULO: FILHA(O), NOME: FERNANDO APARECIDO RODRIGUES, CPF: 26810631836
+
+VINCULO: FILHA(O), NOME: ELIANA APARECIDA RODRIGUES FELIX DA SILVA, CPF: 32865757803
+
+VINCULO: FILHA(O), NOME: GUSTAVO APARECIDO RODRIGUES, CPF: 17783777856
+
+VINCULO: FILHA(O), NOME: REINALDO ROSA RODRIGUES, CPF: 26498282851
+
+VINCULO: MAE, NOME: CECILIA ROSA PEREIRA DA SILVA, CPF: Não informado
+
+VINCULO: FILHA(O), NOME: RODRIGO ROSA RODRIGUES, CPF: 33894168897
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C2
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 903,42\nFAIXA DE RENDA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: BAIXO
+
+FAIXA DE RENDA: De R$ 631 até R$ 1018
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 770,57\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+Segmento Target: Aposentados, predominantemente com idade acima de 70 anos, viúvos ou divorciados. Tendem a ter até o ensino fundamental completo. Com o poder aquisitivo médio-baixo, vivem, em geral, com suas famílias em bairros com menor custo por m² mais baixo, das regiões metropolitanas ou das regiões periféricas nas grandes cidades. Representam 2,79% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 12093222835
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2016 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 24/05/2017 00:00
+Ano: 2014 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: Não informada
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 10
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 2
+Fintech: 6
+Cartão High User: 8
+Consignado: 2
+Crédito Imobiliário: 9
+
+HÁBITOS:
+Banda Larga: 9
+Compra Internet: 7
+Fitness: 10
+Jogos Online: 10
+
+PROPORÇÕES:
+Banco Digital: 0.8012187815107
+Fintech: 0.43799325903223
+Consignado: 0.91414910795943
+Banda Larga: 0.22802109432278
+Seguro Auto: 0.095548201242222
+
+FLAGS PRINCIPAIS:
+Consignado: True
+Seguro Auto: False
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: False
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: False
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: False
+  Consórcio: False
+  Portabilidade: False
+  BV Cartão: True
+  BV Desbloqueio: False
+
+Produtos:
+  Aquisição Veículo: False
+  Financiamento Veicular: False
+  Consignado: True
+  Caçador Descontos: False
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: False
+  Celular Pós-pago: False
+  Celular Pré-pago: False
+  Compra Internet: False
+  Fitness: False
+  Futebol: False
+  Jogos Online: False
+  Leitor Digital: False
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: False
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: False
+  Seguro Residencial: False
+  Seguro Saúde: True
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: False
+  Internet Banking: False
+  Investidor: True
+  Perfil Mobile: False
+  Tomador de Crédito: True
+  SUV MD: False
+
+--- HISTORICO: ---
+
+
+--- HISTORICO SP: ---
+
+PLACA: AUO2998, CHASSI: 9BD15802AC6640461, CHASSI: 9BD15802AC6640461, RENAVAM: 366044141, MARCA: FIAT/UNO MILLE ECONOMY
+
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
+[14:25:26] ================================
+        HISTÓRICO CNH
+================================
+
+👤 Nome: ADRIANO NORONHA
+🆔 CPF: 32213164886
+📄 Nº Registro: 3338434709
+🏳️ UF: SP
+
+🎂 Data Nascimento: 21/07/1985
+🚗 Primeira Habilitação: 23/07/2004
+📘 Categoria: Definitiva
+
+🕒 Última Atualização: 28/11/2019
+================================
+
+--- DADOS BÁSICOS COMPLETO: ---
+
+Nome Completo: ADRIANO NORONHA
+Nome Civil: Não informado
+Nome da Mãe: JULIMARA NORONHA
+Nome do Pai: Não informado
+CPF: 32213164886
+Data de Nascimento: 21/07/1985
+Sexo: M
+Estado Civil: Não informado
+RG: Não informado
+Órgão Emissor: Não informado
+UF Emissão RG: Não informado
+Título de Eleitor: Não informado
+Profissão (CBO): CARRETEIRO (TRANSPORTE DE ANIMAL)
+Renda: R$ 750,00
+Faixa de Renda: Até R$ 1.000,00
+Nacionalidade: Não informado
+Email: Não informado
+Data Atualização: 06/09/2023 19:35:00
+Data Inclusão: 19/10/2006 15:32:00
+Código Controle: 8012.5FC2.602F.13FB
+
+[DATAB - EMAIL] adrianonoronha80@gmail.com | Ranking 1 | Recência 07-JAN-23
+[DATAB - ENDEREÇO] MARIA JANONI NOVAZZI 55 - POA/SP CEP 8561400
+[DATAB - ENDEREÇO] MARIA JANONI NOVAZZI 55 - POA/SP CEP 8561400
+[DATAB - ENDEREÇO] DO ACRE 383 - SAO PAULO/SP CEP 3181100
+[DATAB - ENDEREÇO] VISCONDE DE TAUNAY 607 - SAO PAULO/SP CEP 1132000
+[DATAB - ENDEREÇO] ALEXANDRINA 74 - MOGI DAS CRUZES/SP CEP 8745190
+[DATAB - ENDEREÇO] CARLOS GOMES 85 - FERRAZ DE VASCONCELOS/SP CEP 8500330
+[DATAB - ENDEREÇO] PRESIDENTE MOGI DUTRA 185 - MOGI DAS CRUZES/SP CEP 8771200
+[DATAB - ENDEREÇO] JERONIMO MARIANO 80 - MOGI DAS CRUZES/SP CEP 8744350
+[DATAB - TEL] (11) 46388238 Ranking 12
+[DATAB - TEL] (11) 46392585 Ranking 13
+[DATAB - TEL] (11) 995420628 Ranking 9
+[DATAB - TEL] (11) 972771473 Ranking 8
+[DATAB - TEL] (11) 46781227 Ranking 10
+[DATAB - TEL] (31) 992245294 Ranking 11
+[DATAB - TEL] (11) 953482082 Ranking 7
+[DATAB - TEL] (11) 46388509 Ranking 6
+[DATAB - TEL] (11) 966233321 Ranking 5
+[DATAB - TEL] (11) 947564699 Ranking 4
+[DATAB - TEL] (11) 949393874 Ranking 3
+[DATAB - TEL] (11) 945943430 Ranking 2
+[DATAB - TEL] (11) 913334771 Ranking 1
+[DATAB - TEL] (11) 960842320 Ranking 1
+[SIPNI]
+Nome: ADRIANO NORONHA
+Nascimento: 1985-07-21
+Sexo: M
+Óbito: false
+
+[RAIS 2012] CLEAN MATIC LIMPEZA INDUSTRIAL LTDA | 1240.85
+[RAIS 2019] PREMIUM AMBIENTAL                                    | 
+[RAIS 2022] MOGITRANS LOGISTICA E TRANSPORTES LTDA | 
+[RAIS 2022] MOGITRANS LOGISTICA E TRANSPORTES LTDA | 
+[RAIS 2022] MM SERVICOS ADM DE ESCRITORIO EIRELI | 
+[RAIS 2022] MM SERVICOS ADM DE ESCRITORIO EIRELI | 
+[RAIS 2024] AGRICOLA E CONSTRUTORA MONTE AZUL LTDA | 
+[RAIS 2024] C.S.M. GUINCHOS LTDA | 
+[RAIS 2024] COMPANHIA DE CONCESSOES RODOVIARIAS DO NOVO LITORAL DE | 
+[RAIS 2024] ECR ENGENHARIA LTDA | 
+[RAIS 2025] AGRICOLA E CONSTRUTORA MONTE AZUL LTDA | 
+[RAIS 2025] C.S.M. GUINCHOS LTDA | 
+[RAIS 2025] COMPANHIA DE CONCESSOES RODOVIARIAS DO NOVO LITORAL DE | 
+[RAIS 2025] ECR ENGENHARIA LTDA | 
+--- BANCOS: ---
+
+BANCO: , AGENCIA:, CONTA: , ID BANCO: 
+
+
+
+--- TELEFONES ---
+
+(11) 47233-734 | 18/11/2019
+(11) 46388-238 | 12/09/2016
+(11) 47150-328 | 18/11/2019
+(11) 46398-904 | N/I
+(11) 99608-4232 | 11/12/2023
+(11) 94715-0328 | 15/06/2023
+(11) 96084-2320 | 11/12/2023
+(11) 46392-585 | 18/11/2019
+
+--- OPERADORAS: ---
+
+TELEFONE: (11) 99542-0628, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 97277-1473, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 3225-2255, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4639-2585, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (11) 4638-2023, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (96) 6233321, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 7564699, DATA:N/A, OPERADORA:ANATEL
+
+TELEFONE: (94) 5943430, DATA:N/A, OPERADORA:ANATEL
+
+
+
+--- ENDERECOS ---
+
+R S VICENTE 134, JD PARAISO, ALUMINIO/SP, 18125-000
+
+R VSC DE TAUNAY 627, BOM RETIRO, SAO PAULO/SP, 11320-00
+
+R MARIA JANONI NOVAZZI 55 CS 1 - CS 1, CENTRO, POA/SP, 85614-00
+
+R EMILIO MARCONDES RIBAS 225 C - C, VL AUREA, POA/SP, 85513-50
+
+R JERONIMO MARIANO 85, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87455-40
+
+R JERONIMO MARIANO 80, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+R JERONIMO MARIANO 80 C 1 - C 1, VL CINTRA, MOGI DAS CRUZES/SP, 87443-50
+
+AV NOVE DE JULHO, CENTRO, POA/SP, 85501-00
+
+R MARIA LANONE NOVAES 55 C 1 - C 1, CENTRO, POA/SP, 85500-00
+
+BUFALO 85, JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+R BUFALO 85, VL JUNDIAI, MOGI DAS CRUZES/SP, 87000-00
+
+
+--- RAIS (2022): ---
+
+CNPJ: 07.130.807/0001-98, EMPRESA: MOGITRANS LOGISTICA E TRANSPORTES LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/12/2021, DEMISSAO: , RENDA: DE 6.001 A 9.000, SITUACAO: Entregue
+
+CNPJ: 33.099.157/0001-75, EMPRESA: MM SERVICOS ADM DE ESCRITORIO EIRELI, ENTREGA: 03/06/2022, ADMISSAO: 01/07/2021, DEMISSAO: 02/12/2021, RENDA: DE 6.001 A 9.000, SITUACAO: Entregue
+
+CNPJ: 07.130.807/0001-98, EMPRESA: MOGITRANS LOGISTICA E TRANSPORTES LTDA, ENTREGA: 29/04/2022, ADMISSAO: 20/12/2021, DEMISSAO: , RENDA: , SITUACAO: Entregue
+
+CNPJ: 33.099.157/0001-75, EMPRESA: MM SERVICOS ADM DE ESCRITORIO EIRELI, ENTREGA: 03/06/2022, ADMISSAO: 01/07/2021, DEMISSAO: 02/12/2021, RENDA: , SITUACAO: Entregue
+
+--- PARENTES: ---
+
+VINCULO: MAE, NOME: JULIMARA NORONHA, CPF: Não informado
+
+
+--- CLASSE SOCIAL: ---
+
+CLASSE: C
+
+SUB-CLASSE: C1
+
+ATUALIZAÇÃO: 08/11/2023 17:04:42
+
+--- INFORMAÇÕES DE CRÉDITO: ---
+
+RENDA: R$ 1.131,79\nFAIXA DE RENDA: 2
+
+ATUALIZAÇÃO: 21/11/2023 16:33:21
+
+--- PODER AQUISITIVO: ---
+
+CLASSIFICAÇÃO: MEDIO BAIXO
+
+FAIXA DE RENDA: De R$ 1019 até R$ 1630
+
+ATUALIZAÇÃO: 08/11/2023 17:54:18
+
+--- TARGET DE RENDA: ---
+
+RENDA: R$ 405,14\nFAIXA: 1
+
+ATUALIZAÇÃO: 21/11/2023 16:44:45
+
+--- RISCO DE CRÉDITO: ---
+
+CLASSIFICAÇÃO: MEDIO
+RISCO VIVO: MEDIO ALTO
+TRIAGEM: HSPN
+ATUALIZAÇÃO: 16/11/2023 14:28:18
+
+--- MOSAIC: ---
+
+Segmento Credito: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+Segmento Target: Adultos de meia idade, entre 36 e 45 anos, predominantemente homens e solteiros. Geralmente, são donos de pequenos estabelecimentos no setor de varejo, em bairros mais periféricos das grandes cidades ou cidades menores do interior. Em geral, são formados no ensino médio e eventualmente podem ter especialização técnica. Representam 2,20% da população brasileira.
+
+--- DOCUMENTOS: ---
+
+PIS: 13080063936
+NIS: Não informado
+RG: Não informado
+
+--- IMPOSTO DE RENDA (IRPF): ---
+Ano: 2015 | Situação: SUA DECLARACAO NAO CONSTA NA BASE DE DADOS DA RECEITA FEDERAL | Banco: Não informada | Agência: Não informada | Data Consulta: 18/03/2026 01:48
+
+--- CREDIT ANALYTICS: ---
+Data Atualização: 21/11/2023 17:50:36
+Finalidade: 2
+
+PERFIL:
+Perfil Mobile: 4
+Cliente Premium: 10
+Perfil Luxo: 10
+
+FINANCEIRO:
+Banco Digital: 4
+Fintech: 5
+Cartão High User: 3
+Consignado: 7
+Crédito Imobiliário: 9
+
+HÁBITOS:
+Banda Larga: 5
+Compra Internet: 3
+Fitness: 7
+Jogos Online: 4
+
+PROPORÇÕES:
+Banco Digital: 0.60359225438675
+Fintech: 0.59139790882325
+Consignado: 0.34076704555903
+Banda Larga: 0.56531100911632
+Seguro Auto: 0.89239914830569
+
+FLAGS PRINCIPAIS:
+Consignado: False
+Seguro Auto: True
+Previdência Privada: False
+TV a Cabo: False
+Viagem/Turismo: True
+
+TODOS FLAGS:
+Financeiro:
+  Cartão High User: True
+  Crédito Imobiliário: False
+  Banco Digital: True
+  Fintech: True
+  Consórcio: False
+  Portabilidade: True
+  BV Cartão: True
+  BV Desbloqueio: True
+
+Produtos:
+  Aquisição Veículo: True
+  Financiamento Veicular: False
+  Consignado: False
+  Caçador Descontos: True
+  Cliente Premium: False
+  Resgate Milhas: False
+  Honda Carro: False
+  Honda Moto: True
+
+Hábitos:
+  Banda Larga: True
+  Celular Pós-pago: False
+  Celular Pré-pago: True
+  Compra Internet: True
+  Fitness: False
+  Futebol: False
+  Jogos Online: True
+  Leitor Digital: True
+  Luxo: False
+  Transporte Público: False
+  Viagem/Turismo: True
+  TV a Cabo: False
+
+Seguros e Outros:
+  Seguro Auto: True
+  Seguro Residencial: True
+  Seguro Saúde: False
+  Seguro Vida: False
+  Previdência Privada: False
+  STIX: True
+  Internet Banking: True
+  Investidor: True
+  Perfil Mobile: True
+  Tomador de Crédito: True
+  SUV MD: False
+
+
+----------------------------------
+Consulta realizada em: https://www.mind-7.org/
+
