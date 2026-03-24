@@ -1,0 +1,11 @@
+{"os_version":"iPhone OS 26.3.1 (23D771330a)","bug_type":"115","timestamp":"2026-03-24 08:27:49.00 -0300","name":"Reset count","roots_installed":0,"incident_id":"B12A4C89-2737-4EFF-8DF8-1A655D38DD51"}
+Incident Identifier: B12A4C89-2737-4EFF-8DF8-1A655D38DD51
+CrashReporter Key:   99ea87cb8474534bde953c24052a82b25e6676df
+Date: 2026-03-24 08:27:49.96 -0300
+Reset count: 1
+Boot failure count: 0
+Boot faults: rst wdog,reset_in_1 timeout,dblclick_timeout
+Boot stage: 0x0
+Boot app: 2681261667
+socId: 8130
+socRevision: 11
