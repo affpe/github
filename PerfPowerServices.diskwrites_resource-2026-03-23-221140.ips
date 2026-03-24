@@ -1,0 +1,622 @@
+{"duration_ms":"26411166","share_with_app_devs":1,"roots_installed":0,"bug_type":"145","os_version":"iPhone OS 26.3.1 (23D771330a)","slice_uuid":"586BF209-FCF9-3157-A661-FCB2D43D300A","is_first_party":0,"incident_id":"FC72361D-7614-4D72-897D-5FE781D24124","timestamp":"2026-03-23 22:11:40.00 -0300","app_name":"PerfPowerServices","name":"PerfPowerServices"}
+Date/Time:        2026-03-23 14:51:25.271 -0300
+End time:         2026-03-23 22:11:36.437 -0300
+OS Version:       iPhone OS 26.3.1 (Build 23D771330a)
+Architecture:     arm64e
+Report Version:   67
+Incident Identifier: FC72361D-7614-4D72-897D-5FE781D24124
+Share With Devs:  Yes
+
+Data Source:      Microstackshots
+Shared Cache:     7DCB34E4-8748-348C-BDC7-34993124652C slid base address 0x192e64000, slide 0x12e64000
+
+Command:          PerfPowerServices
+Path:             /usr/libexec/PerfPowerServices
+Resource Coalition: "com.apple.PerfPowerServices"(119)
+On Behalf Of:     11 samples SpringBoard [35] (10 samples originated by PerfPowerServices [1794], 1 sample originated by SpringBoard [35]), 8 samples UNKNOWN [34, 71, 78, 233] (3 samples originated by UNKNOWN [78, 4511], 1 sample originated by chronod [116], 1 sample originated by CommCenter [101], 1 sample originated by Gemini [2838], 1 sample originated by locationd [77], 1 sample originated by SpringBoard [35]), 5 samples dasd [84] (4 samples originated by dasd [84], 1 sample originated by UNKNOWN [32]), 5 samples powerd [48] (5 samples originated by powerd [48]), 2 samples locationd [77] (1 sample originated by duetexpertd [393], 1 sample originated by locationd [77]), 1 sample CommCenter [101] (1 sample originated by CommCenter [101]), 1 sample nsurlsessiond [164] (1 sample originated by cloudd [143])
+Architecture:     arm64e
+Parent:           launchd [1]
+PID:              1794
+
+Event:            disk writes
+Action taken:     none
+Writes:           1073.75 MB of file backed memory dirtied over 26411 seconds (40.65 KB per second average), exceeding limit of 12.43 KB per second over 86400 seconds
+Writes limit:     1073.74 MB
+Limit duration:   86400s
+Writes caused:    1073.75 MB
+Writes duration:  26411s
+Duration:         26411.17s
+Duration Sampled: 26230.03s (event starts 178.21s before samples, event ends 2.92s after samples)
+Steps:            787 (10.49 MB/step)
+
+Hardware model:   iPhone16,2
+Active cpus:      6
+Memory size:      7.47 GB
+HW page size:     16384
+VM page size:     16384
+Shared cache residency: 16.53% (953.23 MB / 5765.30 MB)
+
+Advisory levels:  Battery -> 2, User -> 3, ThermalPressure -> 0, Combined -> 2
+Free disk space:  36.70 GB/236.97 GB, low space threshold 150 MB
+Vnodes Available: 58.50% (16380/28000, 14000 allocated, 14000 soft limit)
+Model:            com.apple.photos.spatialphotosrelive.main
+  Loaded:         320s - 340s, requested by alchemist-inference-provider
+  Executing:      320s - 330s, requested by [2263] use case spatialPhotos.relive.main
+Model:            com.apple.photos.spatialphotosrelive.fov.main
+  Loaded:         320s - 340s, requested by alchemist-inference-provider
+
+Preferred User Language: pt-BR, en-BR
+Country Code:     BR
+Keyboards:        pt_BR QWERTY, en_US QWERTY
+OS Cryptex File Extents: 2821
+
+Heaviest stack for the target process:
+  50  ??? (libsystem_pthread.dylib + 2240) [0x1f2b008c0]
+  38  ??? (libsystem_pthread.dylib + 5048) [0x1f2b013b8]
+  38  ??? (libdispatch.dylib + 85220) [0x1cecc7ce4]
+  38  ??? (libdispatch.dylib + 87020) [0x1cecc83ec]
+  38  ??? (libdispatch.dylib + 44920) [0x1cecbdf78]
+  38  ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+  38  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+  38  ??? (libdispatch.dylib + 6876) [0x1cecb4adc]
+  13  ??? (PowerlogCore + 255940) [0x1ebfbf7c4]
+  13  ??? (PowerlogCore + 33968) [0x1ebf894b0]
+  13  ??? (PowerlogCore + 665024) [0x1ec0235c0]
+  13  ??? (PowerlogCore + 663536) [0x1ec022ff0]
+  13  ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+  13  ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+  13  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+  13  ??? (PowerlogCore + 663728) [0x1ec0230b0]
+  13  ??? (PowerlogCore + 19864) [0x1ebf85d98]
+  8   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+  8   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+  8   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+  8   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+  8   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+  8   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+  8   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+
+
+Powerstats for:   PerfPowerServices [1794]
+UUID:             586BF209-FCF9-3157-A661-FCB2D43D300A
+Path:             /usr/libexec/PerfPowerServices
+Resource Coalition: 50 samples "com.apple.PerfPowerServices"(119)
+On Behalf Of:     11 samples SpringBoard [35] (10 samples originated by PerfPowerServices [1794], 1 sample originated by SpringBoard [35]), 8 samples UNKNOWN [34, 71, 78, 233] (3 samples originated by UNKNOWN [78, 4511], 1 sample originated by chronod [116], 1 sample originated by CommCenter [101], 1 sample originated by Gemini [2838], 1 sample originated by locationd [77], 1 sample originated by SpringBoard [35]), 5 samples dasd [84] (4 samples originated by dasd [84], 1 sample originated by UNKNOWN [32]), 5 samples powerd [48] (5 samples originated by powerd [48]), 2 samples locationd [77] (1 sample originated by duetexpertd [393], 1 sample originated by locationd [77]), 1 sample CommCenter [101] (1 sample originated by CommCenter [101]), 1 sample nsurlsessiond [164] (1 sample originated by cloudd [143])
+Architecture:     arm64e
+Parent:           launchd [1]
+UID:              501
+Sudden Term:      Tracked
+Footprint:        14.64 MB -> 16.33 MB (+1728 KB)
+Pageins:          516 pages
+Start time:       2026-03-23 15:20:25.929 -0300
+End time:         2026-03-23 22:10:28.299 -0300
+Num samples:      50 (6%)
+Num threads:      50
+Primary state:    38 samples Non-Frontmost App, Non-Suppressed, Kernel mode, Effective Thread QoS Background, Requested Thread QoS Background, Override Thread QoS Unspecified, e-core
+User Activity:    35 samples Idle, 15 samples Active
+Power Source:     47 samples on Battery, 3 samples on AC
+  50  ??? (libsystem_pthread.dylib + 2240) [0x1f2b008c0]
+    38  ??? (libsystem_pthread.dylib + 5048) [0x1f2b013b8]
+      38  ??? (libdispatch.dylib + 85220) [0x1cecc7ce4]
+        38  ??? (libdispatch.dylib + 87020) [0x1cecc83ec]
+          38  ??? (libdispatch.dylib + 44920) [0x1cecbdf78]
+            38  ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+              38  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                38  ??? (libdispatch.dylib + 6876) [0x1cecb4adc]
+                  13  ??? (PowerlogCore + 255940) [0x1ebfbf7c4]
+                    13  ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                      13  ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                        13  ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                          13  ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                            13  ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                              13  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                13  ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                  13  ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                    8   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                      8   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                        8   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                          8   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                            8   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                              8   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                8   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                  1   <on behalf of UNKNOWN [71] (originated by CommCenter [101])>
+                                                  1   <on behalf of UNKNOWN [71] (originated by Gemini [2838])>
+                                                  1   <on behalf of locationd [77] (originated by locationd [77])>
+                                                  1   <on behalf of locationd [77] (originated by duetexpertd [393])>
+                                                  1   <on behalf of dasd [84] (originated by dasd [84])>
+                                                  1   <on behalf of CommCenter [101] (originated by CommCenter [101])>
+                                    5   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                      5   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                        5   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                          5   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                            5   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                              5   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                5   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                  5   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                    5   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                      1   <on behalf of UNKNOWN [233] (originated by SpringBoard [35])>
+                  13  ??? (PowerlogCore + 255916) [0x1ebfbf7ac]
+                    13  ??? (PowerlogCore + 22984) [0x1ebf869c8]
+                      13  ??? (CoreFoundation + 1702720) [0x19612ab40]
+                        13  ??? (CoreFoundation + 73796) [0x195f9d044]
+                          13  ??? (PowerlogCore + 26612) [0x1ebf877f4]
+                            13  ??? (PowerlogCore + 113992) [0x1ebf9cd48]
+                              13  ??? (PowerlogCore + 30156) [0x1ebf885cc]
+                                13  ??? (PowerlogCore + 674540) [0x1ec025aec]
+                                  13  ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                    13  ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                      13  ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                        13  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                          13  ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                            13  ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                              13  ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                                13  ??? (libsqlite3.dylib + 233512) [0x194733028]
+                                                  13  ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                    13  ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                      13  ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                        13  ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                          13  ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                            13  ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                              13  ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                3   <on behalf of powerd [48] (originated by powerd [48])>
+                                                                1   <on behalf of SpringBoard [35] (originated by SpringBoard [35])>
+                                                                1   <on behalf of UNKNOWN [71] (originated by locationd [77])>
+                                                                1   <on behalf of UNKNOWN [71] (originated by chronod [116])>
+                                                                1   <on behalf of dasd [84] (originated by dasd [84])>
+                                                                1   <on behalf of nsurlsessiond [164] (originated by cloudd [143])>
+                  10  ??? (PowerlogCore + 256028) [0x1ebfbf81c]
+                    10  ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                      10  ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                        10  ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                          10  ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                            8   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                              8   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                8   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                  8   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                    5   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                      5   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                        5   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                          5   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                            5   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                              5   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                5   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                  5   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                    5   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                      1   <on behalf of powerd [48] (originated by powerd [48])>
+                                                      1   <on behalf of dasd [84] (originated by UNKNOWN [32])>
+                                    3   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                      3   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                        3   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                          3   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                            3   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                              3   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                3   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                  1   <on behalf of UNKNOWN [34] (originated by UNKNOWN [4511])>
+                                                  1   <on behalf of dasd [84] (originated by dasd [84])>
+                            2   ??? (libdispatch.dylib + 71540) [0x1cecc4774]
+                              2   ??? (libdispatch.dylib + 72932) [0x1cecc4ce4]
+                                2   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                  2   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                    2   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                      1   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                        1   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                          1   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                            1   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                              1   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                                1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                  1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                      1   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                        1   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                          1   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                            1   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                              1   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                1   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                  1   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                    1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                      1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                  1   ??? (PowerlogCore + 40976) [0x1ebf8b010]
+                    1   ??? (PowerlogCore + 41524) [0x1ebf8b234]
+                      1   ??? (PowerlogCore + 256028) [0x1ebfbf81c]
+                        1   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                          1   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                            1   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                              1   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                1   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                  1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                    1   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                      1   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                        1   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                          1   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                            1   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                              1   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                                1   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                                  1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                    1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                      1   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), p-core>
+                  1   ??? (IOKit + 206036) [0x1aa2c34d4]
+                    1   ??? (PowerlogLiteOperators + 844836) [0x230ff3424]
+                      1   ??? (PowerlogLiteOperators + 847576) [0x230ff3ed8]
+                        1   ??? (PowerlogCore + 284844) [0x1ebfc68ac]
+                          1   ??? (PowerlogCore + 285280) [0x1ebfc6a60]
+                            1   ??? (PowerlogCore + 276968) [0x1ebfc49e8]
+                              1   ??? (PowerlogCore + 261740) [0x1ebfc0e6c]
+                                1   ??? (PowerlogCore + 256028) [0x1ebfbf81c]
+                                  1   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                                    1   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                                      1   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                        1   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                          1   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                            1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                              1   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                                1   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                                  1   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                                    1   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                                      1   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                        1   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                          1   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                            1   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                              1   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                                1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                                  1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                    1   <on behalf of powerd [48] (originated by powerd [48])>
+    12  ??? (libsystem_pthread.dylib + 4988) [0x1f2b0137c]
+      12  ??? (libdispatch.dylib + 83708) [0x1cecc76fc]
+        9   ??? (libdispatch.dylib + 82108) [0x1cecc70bc]
+          9   ??? (libdispatch.dylib + 230428) [0x1ceceb41c]
+            9   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+              9   ??? (libdispatch.dylib + 6876) [0x1cecb4adc]
+                9   ??? (PowerlogCore + 304408) [0x1ebfcb518]
+                  9   ??? (PowerlogCore + 725216) [0x1ec0320e0]
+                    9   ??? (PowerlogCore + 327092) [0x1ebfd0db4]
+                      9   ??? (PowerlogCore + 634720) [0x1ec01bf60]
+                        9   ??? (PowerlogCore + 41524) [0x1ebf8b234]
+                          4   ??? (PowerlogCore + 255940) [0x1ebfbf7c4]
+                            4   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                              4   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                                4   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                  4   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                    4   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                      4   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                        4   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                          4   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                            3   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                              3   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                                3   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                  3   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                    3   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                      3   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                        3   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                          3   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                            3   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                              3   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated, p-core>
+                                            1   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                              1   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                                1   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                                  1   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                                    1   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                                      1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                        1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                          1   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated, p-core>
+                          4   ??? (PowerlogCore + 255916) [0x1ebfbf7ac]
+                            4   ??? (PowerlogCore + 22984) [0x1ebf869c8]
+                              4   ??? (CoreFoundation + 1702720) [0x19612ab40]
+                                4   ??? (CoreFoundation + 73796) [0x195f9d044]
+                                  4   ??? (PowerlogCore + 26612) [0x1ebf877f4]
+                                    4   ??? (PowerlogCore + 113992) [0x1ebf9cd48]
+                                      4   ??? (PowerlogCore + 30156) [0x1ebf885cc]
+                                        4   ??? (PowerlogCore + 674540) [0x1ec025aec]
+                                          4   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                            4   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                              4   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                                4   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                                  4   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                                    4   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                                      4   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                                        4   ??? (libsqlite3.dylib + 233512) [0x194733028]
+                                                          4   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                            4   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                              4   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                                4   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                                  4   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                                    4   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                                      4   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                        2   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated, p-core>
+                                                                        2   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated>
+                          1   ??? (PowerlogCore + 256028) [0x1ebfbf81c]
+                            1   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                              1   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                                1   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                  1   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                    1   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                      1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                        1   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                          1   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                            1   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                              1   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                                1   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                  1   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                    1   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                      1   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                        1   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                          1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                            1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                              1   <on behalf of SpringBoard [35] (originated by PerfPowerServices [1794]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated, p-core>
+        3   ??? (libdispatch.dylib + 81736) [0x1cecc6f48]
+          3   ??? (libdispatch.dylib + 25340) [0x1cecb92fc]
+            3   ??? (libdispatch.dylib + 227300) [0x1cecea7e4]
+              3   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                3   ??? (libdispatch.dylib + 6876) [0x1cecb4adc]
+                  3   ??? (PowerlogLiteOperators + 5291732) [0x231430ed4]
+                    3   ??? (PowerlogCore + 88924) [0x1ebf96b5c]
+                      3   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                        3   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                          3   ??? (PowerlogCore + 89144) [0x1ebf96c38]
+                            3   ??? (PowerlogCore + 44076) [0x1ebf8bc2c]
+                              3   ??? (PowerlogCore + 258576) [0x1ebfc0210]
+                                2   ??? (PowerlogCore + 255940) [0x1ebfbf7c4]
+                                  2   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                                    2   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                                      2   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                        2   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                          2   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                            2   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                              2   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                                2   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                                  1   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                                    1   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                                      1   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                                        1   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                                          1   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                                            1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                              1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                1   <on behalf of dasd [84] (originated by dasd [84]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated>
+                                                  1   ??? (libsqlite3.dylib + 191252) [0x194728b14]
+                                                    1   ??? (libsqlite3.dylib + 233588) [0x194733074]
+                                                      1   ??? (libsqlite3.dylib + 92476) [0x19471093c]
+                                                        1   ??? (libsqlite3.dylib + 259504) [0x1947395b0]
+                                                          1   ??? (libsqlite3.dylib + 260616) [0x194739a08]
+                                                            1   ??? (libsqlite3.dylib + 327332) [0x194749ea4]
+                                                              1   ??? (libsqlite3.dylib + 697296) [0x1947a43d0]
+                                                                1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                                  1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                    1   <on behalf of UNKNOWN [78] (originated by UNKNOWN [78]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated>
+                                1   ??? (PowerlogCore + 256028) [0x1ebfbf81c]
+                                  1   ??? (PowerlogCore + 33968) [0x1ebf894b0]
+                                    1   ??? (PowerlogCore + 665024) [0x1ec0235c0]
+                                      1   ??? (PowerlogCore + 663536) [0x1ec022ff0]
+                                        1   ??? (PowerlogCore + 404488) [0x1ebfe3c08]
+                                          1   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                                            1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                              1   ??? (PowerlogCore + 663728) [0x1ec0230b0]
+                                                1   ??? (PowerlogCore + 19864) [0x1ebf85d98]
+                                                  1   ??? (libsqlite3.dylib + 192004) [0x194728e04]
+                                                    1   ??? (libsqlite3.dylib + 329248) [0x19474a620]
+                                                      1   ??? (libsqlite3.dylib + 563596) [0x19478398c]
+                                                        1   ??? (libsqlite3.dylib + 1165988) [0x194816aa4]
+                                                          1   ??? (libsqlite3.dylib + 408612) [0x19475dc24]
+                                                            1   ??? (libsqlite3.dylib + 328236) [0x19474a22c]
+                                                              1   ??? (libsystem_kernel.dylib + 27704) [0x243b28c38]
+                                                                1   <on behalf of UNKNOWN [78] (originated by UNKNOWN [78]), Effective Thread QoS User Initiated, Requested Thread QoS User Initiated>
+
+  Binary Images:
+           0x10077c000 -                ???  PerfPowerServices       <586BF209-FCF9-3157-A661-FCB2D43D300A>  /usr/libexec/PerfPowerServices
+           0x1946fa000 -        0x1948a36b3  libsqlite3.dylib        <579118DA-D456-348C-9E1F-582D35482F62>  /usr/lib/libsqlite3.dylib
+           0x195f8b000 -        0x19651173f  CoreFoundation          <2F32D384-4637-3018-843E-4FC875B865C4>  /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+           0x1aa291000 -        0x1aa35e47f  IOKit                   <5A5310B8-8F98-35D9-A54D-5C14F2CFF87D>  /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+           0x1cecb3000 -        0x1cecf921f  libdispatch.dylib       <904D48A3-D99E-3962-BFA9-C3DFB66BBA83>  /usr/lib/system/libdispatch.dylib
+           0x1ebf81000 -        0x1ec0da97f  PowerlogCore            <1730C923-5C32-3BB2-84EE-39B1D936024A>  /System/Library/PrivateFrameworks/PowerlogCore.framework/PowerlogCore
+           0x1f2b00000 -        0x1f2b0c45f  libsystem_pthread.dylib <4F94107B-94D2-3E88-8542-F5403C581B50>  /usr/lib/system/libsystem_pthread.dylib
+           0x230f25000 -        0x2315cf0bf  PowerlogLiteOperators   <7FB05A3C-185A-3B3E-889A-041166E89427>  /System/Library/PrivateFrameworks/PowerlogLiteOperators.framework/PowerlogLiteOperators
+           0x243b22000 -        0x243b5cd2b  libsystem_kernel.dylib  <8D830129-2CBE-32A9-B61E-CE493EECB399>  /usr/lib/system/libsystem_kernel.dylib
+
+
+Powerstats for:   logd
+UUID:             A072AD36-E1E4-387E-BD08-947B1861F081
+Path:             /usr/libexec/logd
+Resource Coalition: 64 samples "com.apple.logd"(7)
+On Behalf Of:     2 samples UNKNOWN [1989, 4296] (1 sample originated by dasd [84], 1 sample originated by UNKNOWN [4296]), 1 sample chronod [116] (1 sample originated by UNKNOWN [592]), 1 sample SpringBoard [35] (1 sample originated by SpringBoard [35])
+Architecture:     arm64e
+Start time:       2026-03-23 14:58:16.462 -0300
+End time:         2026-03-23 21:44:59.076 -0300
+Num samples:      64 (8%)
+Primary state:    57 samples Non-Frontmost App, Non-Suppressed, Kernel mode, Effective Thread QoS Utility, Requested Thread QoS Utility, Override Thread QoS Unspecified, e-core
+User Activity:    38 samples Idle, 26 samples Active
+Power Source:     55 samples on Battery, 9 samples on AC
+  64  ??? (libsystem_pthread.dylib + 2240) [0x1f2b008c0]
+    64  ??? (libsystem_pthread.dylib + 5048) [0x1f2b013b8]
+      64  ??? (libdispatch.dylib + 85220) [0x1cecc7ce4]
+        64  ??? (libdispatch.dylib + 87020) [0x1cecc83ec]
+          63  ??? (libdispatch.dylib + 44920) [0x1cecbdf78]
+            61  ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+              61  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                61  ??? (libdispatch.dylib + 70736) [0x1cecc4450]
+                  57  ??? (logd + 23128) [0x102f9da58]
+                    57  ??? (logd + 26700) [0x102f9e84c]
+                      57  ??? (logd + 41788) [0x102fa233c]
+                        57  ??? (libsystem_kernel.dylib + 29344) [0x243b292a0]
+                          1   <on behalf of chronod [116] (originated by UNKNOWN [592]), Effective Thread QoS Default, Requested Thread QoS Default, p-core>
+                          1   <Effective Thread QoS Default>
+                          1   <on behalf of SpringBoard [35] (originated by SpringBoard [35]), Effective Thread QoS Default, Requested Thread QoS Default>
+                  4   ??? (logd + 26700) [0x102f9e84c]
+                    4   ??? (logd + 41788) [0x102fa233c]
+                      4   ??? (libsystem_kernel.dylib + 29344) [0x243b292a0]
+                        4   <Effective Thread QoS User Initiated>
+            2   ??? (libdispatch.dylib + 42292) [0x1cecbd534]
+              2   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                2   ??? (libdispatch.dylib + 6876) [0x1cecb4adc]
+                  2   ??? (logd + 65960) [0x102fa81a8]
+                    2   ??? (logd + 65852) [0x102fa813c]
+                      2   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                        2   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                          2   ??? (logd + 66236) [0x102fa82bc]
+                            2   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                              2   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                                1   ??? (logd + 66540) [0x102fa83ec]
+                                  1   ??? (logd + 41788) [0x102fa233c]
+                                    1   ??? (libsystem_kernel.dylib + 29344) [0x243b292a0]
+                                      1   <on behalf of UNKNOWN [1989] (originated by dasd [84])>
+                                1   ??? (logd + 66448) [0x102fa8390]
+                                  1   ??? (logd + 41788) [0x102fa233c]
+                                    1   ??? (libsystem_kernel.dylib + 29344) [0x243b292a0]
+                                      1   <on behalf of UNKNOWN [4296] (originated by UNKNOWN [4296])>
+          1   ??? (libdispatch.dylib + 44868) [0x1cecbdf44]
+            1   ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+              1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                1   ??? (libdispatch.dylib + 70736) [0x1cecc4450]
+                  1   ??? (logd + 23128) [0x102f9da58]
+                    1   ??? (logd + 26700) [0x102f9e84c]
+                      1   ??? (logd + 41788) [0x102fa233c]
+                        1   ??? (libsystem_kernel.dylib + 29344) [0x243b292a0]
+
+  Binary Images:
+           0x102f98000 -                ???  logd                    <A072AD36-E1E4-387E-BD08-947B1861F081>  /usr/libexec/logd
+           0x1cecb3000 -        0x1cecf921f  libdispatch.dylib       <904D48A3-D99E-3962-BFA9-C3DFB66BBA83>  /usr/lib/system/libdispatch.dylib
+           0x1f2b00000 -        0x1f2b0c45f  libsystem_pthread.dylib <4F94107B-94D2-3E88-8542-F5403C581B50>  /usr/lib/system/libsystem_pthread.dylib
+           0x243b22000 -        0x243b5cd2b  libsystem_kernel.dylib  <8D830129-2CBE-32A9-B61E-CE493EECB399>  /usr/lib/system/libsystem_kernel.dylib
+
+
+Powerstats for:   mediaplaybackd
+UUID:             234BFEC4-695E-3F24-8A0D-B3FCFD75E202
+Path:             /usr/libexec/mediaplaybackd
+Resource Coalition: 63 samples "com.apple.mediaplaybackd"(479)
+On Behalf Of:     51 samples UNKNOWN [2684, 3614] (51 samples originated by SpringBoard [35]), 5 samples Music [2963] (2 samples originated by Music [2963], 2 samples originated by SpringBoard [35], 1 sample originated by UNKNOWN [592])
+Architecture:     arm64e
+Start time:       2026-03-23 16:58:43.249 -0300
+End time:         2026-03-23 21:21:01.040 -0300
+Num samples:      63 (8%)
+Primary state:    51 samples Non-Frontmost App, Non-Suppressed, Kernel mode, Effective Thread QoS User Initiated, Requested Thread QoS User Initiated, Override Thread QoS Unspecified, e-core
+User Activity:    53 samples Idle, 10 samples Active
+Power Source:     63 samples on Battery, 0 samples on AC
+  51  ??? (libsystem_pthread.dylib + 2252) [0x1f2b008cc]
+    51  ??? (libsystem_pthread.dylib + 17484) [0x1f2b0444c]
+      51  ??? (CoreMedia + 391020) [0x1aa10176c]
+        44  ??? (MediaToolbox + 386568) [0x1a942c608]
+          44  ??? (MediaToolbox + 1742092) [0x1a957750c]
+            44  ??? (MediaToolbox + 11025524) [0x1a9e51c74]
+              44  ??? (MediaToolbox + 11025944) [0x1a9e51e18]
+                44  ??? (MediaToolbox + 11026632) [0x1a9e520c8]
+                  44  ??? (CoreMedia + 1102464) [0x1aa1af280]
+                    44  ??? (libsystem_kernel.dylib + 85460) [0x243b36dd4]
+                      37  <on behalf of UNKNOWN [3614] (originated by SpringBoard [35])>
+                      5   <on behalf of UNKNOWN [2684] (originated by SpringBoard [35])>
+                      2   <on behalf of UNKNOWN [3614] (originated by SpringBoard [35]), p-core>
+        7   ??? (MediaToolbox + 386408) [0x1a942c568]
+          5   ??? (MediaToolbox + 389608) [0x1a942d1e8]
+            5   ??? (MediaToolbox + 9632076) [0x1a9cfd94c]
+              5   ??? (MediaToolbox + 391384) [0x1a942d8d8]
+                5   ??? (MediaToolbox + 1742260) [0x1a95775b4]
+                  5   ??? (MediaToolbox + 8451712) [0x1a9bdd680]
+                    5   ??? (MediaToolbox + 8452460) [0x1a9bdd96c]
+                      5   ??? (CoreMedia + 1099664) [0x1aa1ae790]
+                        5   ??? (CoreMedia + 1098988) [0x1aa1ae4ec]
+                          5   ??? (CoreMedia + 44316) [0x1aa0acd1c]
+                            5   ??? (CoreMedia + 357660) [0x1aa0f951c]
+                              5   ??? (libsystem_kernel.dylib + 27964) [0x243b28d3c]
+                                4   <on behalf of UNKNOWN [3614] (originated by SpringBoard [35])>
+                                1   <on behalf of UNKNOWN [3614] (originated by SpringBoard [35]), p-core>
+          2   ??? (MediaToolbox + 388284) [0x1a942ccbc]
+            2   ??? (MediaToolbox + 9628648) [0x1a9cfcbe8]
+              1   ??? (MediaToolbox + 395128) [0x1a942e778]
+                1   ??? (MediaToolbox + 1740124) [0x1a9576d5c]
+                  1   ??? (libdispatch.dylib + 71872) [0x1cecc48c0]
+                    1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                      1   ??? (MediaToolbox + 1744700) [0x1a9577f3c]
+                        1   ??? (libsystem_kernel.dylib + 33360) [0x243b2a250]
+                          1   <on behalf of UNKNOWN [3614] (originated by SpringBoard [35])>
+              1   ??? (MediaToolbox + 395104) [0x1a942e760]
+                1   ??? (MediaToolbox + 1741524) [0x1a95772d4]
+                  1   ??? (MediaToolbox + 11025524) [0x1a9e51c74]
+                    1   ??? (MediaToolbox + 11025944) [0x1a9e51e18]
+                      1   ??? (MediaToolbox + 11026632) [0x1a9e520c8]
+                        1   ??? (CoreMedia + 1102464) [0x1aa1af280]
+                          1   ??? (libsystem_kernel.dylib + 85460) [0x243b36dd4]
+                            1   <on behalf of UNKNOWN [3614] (originated by SpringBoard [35])>
+  7   <missing stack>
+    7   <Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>
+  5   ??? (libsystem_pthread.dylib + 2240) [0x1f2b008c0]
+    5   ??? (libsystem_pthread.dylib + 5048) [0x1f2b013b8]
+      5   ??? (libdispatch.dylib + 85220) [0x1cecc7ce4]
+        5   ??? (libdispatch.dylib + 87020) [0x1cecc83ec]
+          4   ??? (libdispatch.dylib + 44868) [0x1cecbdf44]
+            4   ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+              4   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                4   ??? (MediaToolbox + 6143608) [0x1a99a9e78]
+                  4   ??? (MediaToolbox + 9751052) [0x1a9d1aa0c]
+                    3   ??? (MediaToolbox + 3350316) [0x1a96fff2c]
+                      3   ??? (CoreMedia + 1098988) [0x1aa1ae4ec]
+                        3   ??? (CoreMedia + 44316) [0x1aa0acd1c]
+                          3   ??? (CoreMedia + 357660) [0x1aa0f951c]
+                            3   ??? (libsystem_kernel.dylib + 27964) [0x243b28d3c]
+                              2   <on behalf of Music [2963] (originated by Music [2963]), Effective Thread QoS Default, Requested Thread QoS Default>
+                              1   <on behalf of Music [2963] (originated by UNKNOWN [592]), Effective Thread QoS Default, Requested Thread QoS Default>
+                    1   ??? (MediaToolbox + 3350868) [0x1a9700154]
+                      1   ??? (CoreFoundation + 9708) [0x195f8d5ec]
+                        1   ??? (CoreMedia + 26256) [0x1aa0a8690]
+                          1   ??? (CoreMedia + 42808) [0x1aa0ac738]
+                            1   ??? (libsystem_kernel.dylib + 4816) [0x243b232d0]
+                              1   <on behalf of Music [2963] (originated by SpringBoard [35]), Effective Thread QoS Default, Requested Thread QoS Default>
+          1   ??? (libdispatch.dylib + 49800) [0x1cecbf288]
+            1   ??? (libdispatch.dylib + 44920) [0x1cecbdf78]
+              1   ??? (libdispatch.dylib + 42088) [0x1cecbd468]
+                1   ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+                  1   ??? (libdispatch.dylib + 70736) [0x1cecc4450]
+                    1   ??? (Foundation + 96152) [0x1935dc798]
+                      1   ??? (Foundation + 98012) [0x1935dcedc]
+                        1   ??? (Foundation + 97044) [0x1935dcb14]
+                          1   ??? (Foundation + 98420) [0x1935dd074]
+                            1   ??? (Foundation + 98116) [0x1935dcf44]
+                              1   ??? (Foundation + 99156) [0x1935dd354]
+                                1   ??? (CFNetwork + 911764) [0x1aad91994]
+                                  1   ??? (MediaToolbox + 3952840) [0x1a97930c8]
+                                    1   ??? (MediaToolbox + 10314020) [0x1a9da4124]
+                                      1   ??? (MediaToolbox + 3951560) [0x1a9792bc8]
+                                        1   ??? (MediaToolbox + 227948) [0x1a9405a6c]
+                                          1   ??? (MediaToolbox + 233688) [0x1a94070d8]
+                                            1   ??? (MediaToolbox + 241656) [0x1a9408ff8]
+                                              1   ??? (MediaToolbox + 247508) [0x1a940a6d4]
+                                                1   ??? (MediaToolbox + 243428) [0x1a94096e4]
+                                                  1   ??? (libsystem_kernel.dylib + 27964) [0x243b28d3c]
+                                                    1   <on behalf of Music [2963] (originated by SpringBoard [35]), Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>
+
+  Binary Images:
+           0x102078000 -                ???  mediaplaybackd          <234BFEC4-695E-3F24-8A0D-B3FCFD75E202>  /usr/libexec/mediaplaybackd
+           0x1935c5000 -        0x19440bc9f  Foundation              <42C593BB-89FB-3EC4-8220-C746811E7A43>  /System/Library/Frameworks/Foundation.framework/Foundation
+           0x195f8b000 -        0x19651173f  CoreFoundation          <2F32D384-4637-3018-843E-4FC875B865C4>  /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+           0x1a93ce000 -        0x1aa0a14df  MediaToolbox            <079CC5CE-324E-332B-BE14-7650757798AC>  /System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+           0x1aa0a2000 -        0x1aa290f9f  CoreMedia               <22C4040C-E237-3AD9-8D2B-EF0B631CDF95>  /System/Library/Frameworks/CoreMedia.framework/CoreMedia
+           0x1aacb3000 -        0x1ab0698bf  CFNetwork               <AC6CB884-3740-3320-9994-36594AF6AD73>  /System/Library/Frameworks/CFNetwork.framework/CFNetwork
+           0x1cecb3000 -        0x1cecf921f  libdispatch.dylib       <904D48A3-D99E-3962-BFA9-C3DFB66BBA83>  /usr/lib/system/libdispatch.dylib
+           0x1f2b00000 -        0x1f2b0c45f  libsystem_pthread.dylib <4F94107B-94D2-3E88-8542-F5403C581B50>  /usr/lib/system/libsystem_pthread.dylib
+           0x243b22000 -        0x243b5cd2b  libsystem_kernel.dylib  <8D830129-2CBE-32A9-B61E-CE493EECB399>  /usr/lib/system/libsystem_kernel.dylib
+
+
+Powerstats for:   FileProvider
+UUID:             91B37999-6960-3449-8091-48F4DD1107D6
+Path:             /private/var/containers/Bundle/Application/29295C85-FA5C-4D87-9124-4A905B580A52/Drive.app/PlugIns/FileProvider.appex/FileProvider
+Identifier:       com.google.Drive.FileProviderExtension
+Version:          4.2611.41400 (4.2611.41400)
+Adam ID:          507874739
+Is First Party:   No
+Beta Identifier:  6A91C61B-EA88-4502-97D3-39AB6EE9DFD8
+Resource Coalition: 45 samples 1321
+Architecture:     arm64
+Start time:       2026-03-23 18:57:11.263 -0300
+End time:         2026-03-23 19:06:32.226 -0300
+Num samples:      45 (6%)
+Primary state:    45 samples Non-Frontmost App, Non-Suppressed, Kernel mode, Effective Thread QoS Default, Requested Thread QoS Default, Override Thread QoS Unspecified, e-core
+User Activity:    0 samples Idle, 45 samples Active
+Power Source:     45 samples on Battery, 0 samples on AC
+  45  ??? (libsystem_pthread.dylib + 2240) [0x1f2b008c0]
+    45  ??? (libsystem_pthread.dylib + 4988) [0x1f2b0137c]
+      45  ??? (libdispatch.dylib + 83708) [0x1cecc76fc]
+        45  ??? (libdispatch.dylib + 82108) [0x1cecc70bc]
+          45  ??? (libdispatch.dylib + 230428) [0x1ceceb41c]
+            45  ??? (libdispatch.dylib + 112636) [0x1cecce7fc]
+              45  ??? (libdispatch.dylib + 198992) [0x1cece3950]
+                45  ??? (libsystem_kernel.dylib + 29580) [0x243b2938c]
+
+  Binary Images:
+           0x102238000 -                ???  com.google.Drive.FileProviderExtension 4.2611.41400 (4.2611.41400) <91B37999-6960-3449-8091-48F4DD1107D6>  /private/var/containers/Bundle/Application/29295C85-FA5C-4D87-9124-4A905B580A52/Drive.app/PlugIns/FileProvider.appex/FileProvider
+           0x1cecb3000 -        0x1cecf921f  libdispatch.dylib                                                  <904D48A3-D99E-3962-BFA9-C3DFB66BBA83>  /usr/lib/system/libdispatch.dylib
+           0x1f2b00000 -        0x1f2b0c45f  libsystem_pthread.dylib                                            <4F94107B-94D2-3E88-8542-F5403C581B50>  /usr/lib/system/libsystem_pthread.dylib
+           0x243b22000 -        0x243b5cd2b  libsystem_kernel.dylib                                             <8D830129-2CBE-32A9-B61E-CE493EECB399>  /usr/lib/system/libsystem_kernel.dylib
